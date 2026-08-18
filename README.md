@@ -15,6 +15,7 @@ A compact, privacy-aware data analytics portfolio project. It turns de-identifie
 ```text
 student-performance-analytics/
 ├── app.py                    # Streamlit dashboard
+├── assets/outputs/            # Charts generated from the sample data
 ├── data/
 │   └── student_performance_sample.csv
 ├── src/                      # Processing, metrics, and model modules
@@ -31,6 +32,22 @@ pip install -r requirements.txt
 pytest
 streamlit run app.py
 ```
+
+If PowerShell blocks virtual-environment activation, run this once in the same terminal before activating it:
+
+```powershell
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+```
+
+Open the local URL printed by Streamlit, usually `http://localhost:8501`.
+
+## Example outputs
+
+These charts are generated from the versioned, de-identified sample dataset.
+
+![Average CGPA by department](assets/outputs/department_performance.png)
+
+![Attendance and CGPA by department](assets/outputs/attendance_vs_cgpa.png)
 
 ## Model note
 
