@@ -3,7 +3,7 @@
 from pathlib import Path
 import pandas as pd
 
-REQUIRED_COLUMNS = {"Department", "Year", "Semester", "CGPA", "Attendance", "Club", "Hosteller"}
+REQUIRED_COLUMNS = {"StudentCode", "Department", "Year", "Semester", "CGPA", "Attendance", "Club", "Hosteller"}
 
 
 def load_student_data(file_path: str | Path) -> pd.DataFrame:

@@ -6,9 +6,10 @@ A compact, privacy-aware data analytics portfolio project. It turns de-identifie
 
 - Data quality checks and standardisation for CGPA and attendance
 - Department-level performance analysis and review indicators
+- Student-record lookup, top-performer highlighting, and club participation analysis
 - A tested baseline model using department, year, semester, and attendance
 - A deployable Streamlit dashboard with filtering and an interactive estimate form
-- Responsible analytics: the public dataset contains no names, contact details, addresses, or family information
+- Responsible analytics: student codes replace names, and the public dataset contains no contact, address, or family information
 
 ## Project structure
 

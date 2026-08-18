@@ -7,6 +7,7 @@ from src.model import train_and_evaluate
 
 def sample_data():
     return pd.DataFrame({
+        "StudentCode": [f"STU-{number:04d}" for number in range(1, 11)],
         "Department": ["CS", "CS", "EE", "EE", "CS", "EE", "CS", "EE", "CS", "EE"],
         "Year": [1, 2, 1, 2, 3, 3, 4, 4, 1, 2],
         "Semester": [1, 3, 1, 3, 5, 5, 7, 7, 2, 4],
