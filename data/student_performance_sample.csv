@@ -1,0 +1,4001 @@
+Department,Year,Semester,CGPA,Attendance,Club,CareerGoal,Hosteller,Scholarship
+EE,2,3,9.36,90,Photography Club,Pilot,Yes,Merit
+IIOT,4,8,9.41,95,Coding Club,Software Engineer,No,SC
+DS,2,3,9.21,71,Photography Club,AI Engineer,No,OBC
+RE,3,6,5.95,65,Photography Club,Data Scientist,Yes,EWS
+ETC,4,7,8.46,68,Robotics Club,Professor,No,EWS
+AI/ML,1,2,8.09,69,Photography Club,AI Engineer,Yes,OBC
+AI/ML,1,2,9.23,95,Music Club,Professor,No,
+AE,1,1,6.92,69,NSS,Pilot,No,OBC
+EE,3,5,9.44,67,Photography Club,Research Scientist,Yes,SC
+ME,3,6,6.42,60,NCC,Data Scientist,Yes,OBC
+DS,2,4,8.21,98,Robotics Club,Software Engineer,No,SC
+AI/ML,1,1,9.37,65,NCC,Data Scientist,No,OBC
+AE,3,6,8.45,82,NCC,Robotics Engineer,Yes,EWS
+EC,4,8,9.08,75,Drama Club,Data Scientist,Yes,EWS
+EC,1,1,6.79,78,Photography Club,Professor,No,Merit
+IIOT,2,4,6.18,79,Sports Club,Robotics Engineer,Yes,OBC
+CS,3,5,8.8,87,Music Club,Data Scientist,Yes,
+CE,1,2,9.07,90,NSS,Robotics Engineer,Yes,EWS
+AE,1,1,9.15,67,Music Club,Robotics Engineer,No,
+CS,4,8,8.31,67,Coding Club,Robotics Engineer,Yes,Merit
+ME,3,6,9.58,65,NSS,Professor,Yes,
+ME,3,5,5.77,86,Coding Club,Entrepreneur,Yes,Merit
+CS,4,8,8.43,69,Music Club,Professor,No,
+CS,2,3,7.11,96,NCC,Entrepreneur,No,Merit
+CE,3,6,8.93,79,Photography Club,Pilot,Yes,ST
+AI/ML,3,6,6.65,91,NSS,Data Scientist,Yes,SC
+CE,2,4,5.53,71,Photography Club,Professor,No,SC
+EE,2,3,8.3,67,NCC,Entrepreneur,No,Merit
+IIOT,1,2,6.5,70,Sports Club,Entrepreneur,Yes,OBC
+CS,1,1,8.98,89,Drama Club,Entrepreneur,Yes,OBC
+CT,1,2,7.32,74,Sports Club,AI Engineer,No,OBC
+IIOT,3,5,5.55,74,NSS,Data Scientist,No,OBC
+CT,2,3,7.24,82,NSS,Professor,No,EWS
+CE,1,1,7.14,77,NSS,Entrepreneur,No,SC
+AE,1,1,6.15,84,Music Club,Data Scientist,No,ST
+CE,2,3,8.49,62,Robotics Club,Entrepreneur,No,Merit
+CT,3,5,8.85,71,Music Club,Robotics Engineer,Yes,SC
+ETC,3,6,8.11,78,Coding Club,Entrepreneur,Yes,
+ETC,2,4,7.19,69,Sports Club,Robotics Engineer,No,OBC
+EC,3,6,7.08,61,Photography Club,Research Scientist,No,OBC
+EE,4,7,6.4,60,Music Club,Software Engineer,No,Merit
+RE,4,8,7.08,68,NCC,Professor,Yes,EWS
+DS,4,8,9.38,68,NSS,Professor,Yes,
+EC,4,8,9.48,73,NCC,Data Scientist,Yes,
+ME,4,7,8.05,94,Coding Club,Software Engineer,No,Merit
+ETC,3,6,8.65,78,Music Club,Pilot,No,SC
+EE,4,8,7.31,60,NSS,Software Engineer,Yes,SC
+IIOT,4,8,8.82,94,Photography Club,AI Engineer,No,Merit
+CT,2,4,9.02,94,Drama Club,AI Engineer,Yes,EWS
+EC,3,6,7.99,68,NSS,Software Engineer,No,
+IIOT,3,5,8.95,64,Drama Club,Pilot,Yes,Merit
+AE,3,6,9.76,63,Photography Club,AI Engineer,Yes,Merit
+AI/ML,4,8,5.79,68,NCC,Data Scientist,No,OBC
+CS,3,5,8.29,73,Robotics Club,Entrepreneur,Yes,EWS
+ETC,1,1,6.76,84,NSS,AI Engineer,No,EWS
+RE,3,5,6.25,78,Sports Club,Robotics Engineer,Yes,
+IT,1,1,8.95,79,Coding Club,AI Engineer,Yes,
+CT,3,5,6.75,76,Drama Club,Professor,Yes,
+DS,1,1,7.57,62,Coding Club,Robotics Engineer,No,SC
+EC,4,8,7.61,95,Coding Club,Entrepreneur,Yes,
+CS,4,7,8.36,95,Music Club,Professor,No,ST
+CT,3,6,6.87,83,NSS,Robotics Engineer,No,ST
+CE,3,5,9.57,76,Sports Club,AI Engineer,Yes,ST
+RE,3,5,5.59,73,Music Club,Research Scientist,No,EWS
+DS,3,5,8.8,92,Drama Club,Entrepreneur,No,ST
+RE,3,6,8.95,85,Coding Club,AI Engineer,No,ST
+AE,2,3,5.92,94,NSS,Data Scientist,Yes,EWS
+CE,4,7,8.48,60,Sports Club,AI Engineer,No,SC
+EE,1,1,8.78,94,NCC,Pilot,Yes,SC
+EC,3,5,9.04,93,Robotics Club,Research Scientist,No,EWS
+ME,2,3,9.31,88,Music Club,Robotics Engineer,No,OBC
+AI/ML,1,1,6.08,70,Sports Club,Professor,No,Merit
+ETC,1,1,5.76,91,Sports Club,Entrepreneur,No,
+IT,3,6,9.18,74,Photography Club,Robotics Engineer,Yes,ST
+AI/ML,2,3,6.01,63,NCC,Data Scientist,No,OBC
+ME,1,2,9.04,92,NCC,Pilot,Yes,SC
+CT,1,1,8.45,88,Photography Club,Entrepreneur,No,Merit
+IT,1,2,5.99,66,Robotics Club,AI Engineer,No,
+AE,3,5,5.57,66,Photography Club,Entrepreneur,Yes,ST
+AE,3,6,5.74,65,Robotics Club,Entrepreneur,Yes,Merit
+AI/ML,2,3,5.9,64,NSS,AI Engineer,Yes,SC
+CT,4,7,7.76,93,Robotics Club,AI Engineer,Yes,ST
+ETC,3,6,8.66,64,Coding Club,Data Scientist,Yes,
+IIOT,1,2,5.93,89,NCC,Research Scientist,No,OBC
+EC,1,2,8.83,97,NCC,Professor,Yes,
+ME,3,5,8.66,75,Sports Club,Software Engineer,Yes,Merit
+ME,4,7,9.49,84,Photography Club,AI Engineer,Yes,OBC
+CT,3,5,8.08,90,Photography Club,Pilot,Yes,EWS
+AE,3,6,6.66,76,Robotics Club,Data Scientist,No,Merit
+RE,2,3,6.94,81,Sports Club,Research Scientist,Yes,ST
+IIOT,2,4,7.0,72,NCC,Research Scientist,Yes,OBC
+CE,2,4,8.75,82,Photography Club,Pilot,No,Merit
+CT,4,7,8.51,66,NCC,Software Engineer,No,
+DS,4,7,5.88,99,Drama Club,Data Scientist,Yes,OBC
+CE,4,7,6.94,94,NSS,Data Scientist,No,OBC
+RE,1,2,5.99,66,NSS,Software Engineer,No,
+CS,3,5,6.69,81,Photography Club,Entrepreneur,No,OBC
+DS,2,4,7.06,87,Coding Club,AI Engineer,No,OBC
+ETC,3,6,7.81,79,NCC,Research Scientist,Yes,ST
+RE,3,6,9.06,99,Photography Club,Software Engineer,No,OBC
+AE,4,8,9.69,61,Robotics Club,Entrepreneur,No,ST
+ME,3,6,8.94,64,Sports Club,Research Scientist,No,SC
+AE,1,2,7.68,80,Sports Club,Professor,Yes,Merit
+EC,1,1,5.82,71,Coding Club,AI Engineer,Yes,
+ETC,3,5,7.89,90,Music Club,Data Scientist,Yes,SC
+DS,1,2,5.64,94,Drama Club,Professor,Yes,ST
+EE,2,3,8.79,74,Photography Club,Entrepreneur,Yes,EWS
+EE,2,4,9.14,81,Coding Club,Research Scientist,No,OBC
+ME,3,6,8.19,86,Robotics Club,Data Scientist,Yes,
+IT,1,2,7.65,96,Robotics Club,Robotics Engineer,No,OBC
+EE,1,2,6.98,70,Coding Club,AI Engineer,Yes,
+CT,2,3,7.03,99,Coding Club,Software Engineer,No,OBC
+EC,2,4,8.94,64,Music Club,Data Scientist,No,OBC
+CS,3,5,7.78,70,Music Club,Professor,Yes,Merit
+EE,4,7,9.22,77,Drama Club,Software Engineer,No,OBC
+IIOT,1,1,8.16,79,Photography Club,Pilot,No,OBC
+ME,2,4,9.54,85,Coding Club,Pilot,No,EWS
+IT,2,3,6.28,87,Drama Club,Entrepreneur,No,OBC
+AE,1,2,9.01,71,Music Club,Pilot,Yes,Merit
+CS,1,1,9.09,99,Sports Club,Professor,No,
+EC,1,1,7.33,64,Sports Club,Data Scientist,Yes,EWS
+EE,1,1,7.46,95,Sports Club,Software Engineer,No,ST
+ETC,4,7,9.65,84,Music Club,Research Scientist,No,Merit
+ME,4,7,9.28,68,Robotics Club,Professor,Yes,ST
+CE,2,4,8.76,76,NCC,Professor,Yes,
+IIOT,1,2,9.78,84,Sports Club,AI Engineer,Yes,
+EE,2,4,9.16,100,Robotics Club,Entrepreneur,Yes,Merit
+AI/ML,3,5,8.17,75,Sports Club,Robotics Engineer,No,Merit
+CE,1,2,6.87,69,Photography Club,Robotics Engineer,No,SC
+AE,1,2,8.29,94,Music Club,Data Scientist,No,
+EC,1,2,9.56,72,Drama Club,Professor,Yes,SC
+EC,4,7,7.73,69,Drama Club,AI Engineer,No,EWS
+EE,3,5,8.79,90,Music Club,Professor,Yes,EWS
+EE,4,8,6.4,75,Coding Club,Software Engineer,Yes,OBC
+RE,4,7,6.58,70,NSS,Pilot,No,ST
+EE,2,3,9.74,72,Coding Club,Entrepreneur,Yes,SC
+IT,1,2,8.75,99,Drama Club,Software Engineer,Yes,OBC
+IT,4,8,9.7,88,Sports Club,Data Scientist,No,ST
+RE,2,4,9.47,70,Sports Club,Professor,No,EWS
+IIOT,1,1,7.91,94,Robotics Club,Pilot,Yes,
+AI/ML,4,7,8.15,62,Music Club,Robotics Engineer,No,Merit
+AE,2,3,8.38,90,Coding Club,Professor,No,SC
+ME,2,3,6.51,92,Robotics Club,Professor,No,Merit
+EE,2,3,6.97,64,Coding Club,AI Engineer,Yes,
+AE,1,2,6.13,85,Robotics Club,Research Scientist,No,ST
+CS,3,6,6.29,85,Photography Club,Research Scientist,Yes,Merit
+AI/ML,4,8,6.98,61,Robotics Club,Data Scientist,No,SC
+CT,4,7,8.91,87,Robotics Club,Data Scientist,No,SC
+CS,1,2,8.75,100,NSS,AI Engineer,No,EWS
+AI/ML,1,1,5.67,90,NCC,Research Scientist,Yes,OBC
+ETC,2,3,9.29,84,Sports Club,AI Engineer,Yes,EWS
+CE,4,8,6.43,77,Music Club,Professor,No,EWS
+ME,4,7,8.68,91,Sports Club,Research Scientist,Yes,OBC
+EC,3,5,8.1,96,Robotics Club,Data Scientist,Yes,SC
+DS,3,6,6.13,81,Sports Club,Software Engineer,No,ST
+CT,4,8,9.45,60,Music Club,Robotics Engineer,No,Merit
+DS,4,8,7.69,78,Music Club,Research Scientist,Yes,OBC
+CS,4,8,6.37,60,NSS,Professor,Yes,
+ME,2,3,9.68,81,Drama Club,AI Engineer,Yes,
+IT,1,1,8.57,84,NSS,Data Scientist,No,Merit
+DS,1,1,8.26,73,Robotics Club,Data Scientist,Yes,
+DS,3,6,8.16,93,NCC,Pilot,Yes,OBC
+IT,4,7,5.75,97,Drama Club,AI Engineer,Yes,OBC
+IIOT,4,8,7.01,83,NSS,Research Scientist,Yes,SC
+ETC,3,6,6.43,63,Drama Club,AI Engineer,Yes,EWS
+CT,3,5,6.07,82,NCC,Research Scientist,Yes,EWS
+CE,2,3,8.83,96,NSS,Data Scientist,No,ST
+IT,3,5,5.81,68,NSS,AI Engineer,No,
+RE,1,2,7.21,86,Music Club,Entrepreneur,No,Merit
+EE,2,4,8.22,63,Coding Club,Pilot,No,ST
+IIOT,3,5,6.37,78,NCC,Research Scientist,No,Merit
+ETC,3,5,9.76,81,Photography Club,AI Engineer,No,Merit
+EE,4,8,7.45,95,Music Club,Software Engineer,Yes,ST
+CT,3,5,6.75,72,NSS,Data Scientist,No,
+EC,3,6,8.46,91,Coding Club,AI Engineer,No,OBC
+AI/ML,1,2,8.66,85,NSS,Pilot,Yes,SC
+IT,3,5,8.09,100,Sports Club,Software Engineer,No,SC
+RE,2,3,9.0,93,Photography Club,Professor,Yes,OBC
+DS,1,2,8.84,76,NSS,Research Scientist,Yes,
+EC,2,4,9.78,89,Photography Club,Data Scientist,No,SC
+AE,4,8,8.66,92,Coding Club,Robotics Engineer,Yes,EWS
+CS,1,2,9.75,96,Coding Club,AI Engineer,No,OBC
+IT,3,5,8.33,69,Robotics Club,Entrepreneur,No,
+EE,1,1,9.28,97,Drama Club,Data Scientist,Yes,SC
+AE,3,6,8.8,88,Music Club,Professor,Yes,SC
+CS,3,6,7.2,60,Coding Club,Professor,Yes,OBC
+IT,3,5,6.45,82,Coding Club,Data Scientist,No,ST
+IT,4,8,9.48,91,Robotics Club,Pilot,No,Merit
+CS,4,7,5.54,62,Music Club,Entrepreneur,No,EWS
+CT,2,3,8.52,78,Photography Club,AI Engineer,No,ST
+EE,2,4,8.52,78,NSS,Professor,Yes,SC
+EC,1,2,8.54,93,Sports Club,Research Scientist,No,Merit
+RE,4,7,7.35,73,Robotics Club,Research Scientist,Yes,EWS
+CS,4,7,7.48,87,Photography Club,AI Engineer,Yes,EWS
+ETC,2,3,7.76,91,NSS,AI Engineer,No,EWS
+DS,1,2,9.35,66,NSS,Software Engineer,Yes,ST
+ETC,1,2,9.67,90,Sports Club,Professor,Yes,OBC
+CE,2,4,7.59,68,NCC,Pilot,Yes,SC
+CT,4,8,6.02,82,Music Club,Entrepreneur,No,
+AI/ML,4,7,9.44,63,Music Club,Pilot,Yes,Merit
+AE,3,6,9.67,97,Coding Club,AI Engineer,No,
+ME,4,7,6.29,97,Coding Club,Pilot,No,OBC
+RE,1,1,7.4,77,Photography Club,Research Scientist,Yes,OBC
+EE,2,4,7.03,85,Music Club,Pilot,Yes,ST
+AE,2,3,6.7,83,Robotics Club,Professor,No,SC
+DS,2,4,9.3,77,Robotics Club,Data Scientist,No,OBC
+CS,1,2,6.79,65,NCC,Research Scientist,No,OBC
+RE,4,7,5.89,88,Sports Club,Software Engineer,Yes,SC
+ME,3,5,6.97,60,Robotics Club,Data Scientist,Yes,Merit
+RE,4,8,8.95,75,Music Club,Entrepreneur,Yes,OBC
+EE,1,2,5.77,88,Sports Club,Professor,Yes,OBC
+AI/ML,4,7,5.69,94,Sports Club,Pilot,Yes,ST
+IT,3,6,6.93,66,Photography Club,Entrepreneur,Yes,SC
+ETC,4,8,7.9,85,Drama Club,Research Scientist,Yes,SC
+CE,2,4,7.61,78,NSS,Pilot,Yes,
+AE,4,8,8.93,99,NCC,Professor,Yes,SC
+AI/ML,2,4,7.65,89,Music Club,Professor,Yes,Merit
+DS,1,1,7.99,69,Robotics Club,Research Scientist,No,SC
+CS,1,1,9.11,81,NCC,AI Engineer,No,EWS
+EE,1,1,8.29,86,Sports Club,Entrepreneur,No,OBC
+IT,4,8,8.9,69,Sports Club,Software Engineer,Yes,ST
+ETC,1,2,6.62,71,Music Club,Software Engineer,No,OBC
+ME,1,2,6.59,71,Drama Club,Entrepreneur,No,EWS
+CE,4,7,6.0,76,Coding Club,Software Engineer,Yes,
+ETC,3,5,7.08,67,NCC,Pilot,No,ST
+IIOT,3,5,6.68,85,NSS,Data Scientist,No,ST
+EC,1,1,5.83,63,Coding Club,Entrepreneur,Yes,Merit
+ME,2,4,8.01,82,Sports Club,Research Scientist,Yes,SC
+CT,2,3,8.72,68,Photography Club,Data Scientist,Yes,Merit
+IIOT,2,4,6.62,70,Coding Club,AI Engineer,No,SC
+RE,3,5,7.35,78,Music Club,Software Engineer,Yes,SC
+CE,2,3,5.7,86,NCC,Professor,Yes,OBC
+AI/ML,1,2,5.61,65,NSS,Entrepreneur,Yes,Merit
+CE,2,3,7.85,74,Music Club,Data Scientist,No,ST
+AE,1,2,5.98,100,Music Club,Robotics Engineer,Yes,ST
+IIOT,3,5,7.14,91,Coding Club,Entrepreneur,Yes,SC
+AE,3,5,7.55,93,Drama Club,AI Engineer,No,
+IIOT,1,1,5.72,99,Drama Club,AI Engineer,No,OBC
+CT,4,8,9.01,61,Sports Club,Pilot,No,ST
+IT,4,7,6.04,73,Music Club,AI Engineer,Yes,SC
+CT,4,8,6.87,71,Coding Club,Software Engineer,No,EWS
+EE,2,4,6.08,96,Sports Club,Research Scientist,Yes,EWS
+IT,1,1,6.83,88,Photography Club,Robotics Engineer,No,ST
+IT,4,8,5.93,63,Robotics Club,Research Scientist,Yes,OBC
+ETC,2,3,5.88,67,Photography Club,Pilot,Yes,EWS
+DS,3,6,8.46,77,NSS,Research Scientist,Yes,SC
+CS,3,5,8.25,78,NCC,Pilot,No,OBC
+CE,4,8,9.54,61,Coding Club,Professor,Yes,
+CE,3,6,9.1,97,Robotics Club,Professor,No,Merit
+ETC,4,7,8.63,70,Coding Club,Software Engineer,Yes,ST
+RE,4,7,7.78,65,Coding Club,Data Scientist,No,Merit
+ETC,1,2,9.86,68,NSS,Data Scientist,No,SC
+RE,2,4,6.96,81,Robotics Club,Data Scientist,Yes,OBC
+ETC,2,3,7.5,75,Robotics Club,Research Scientist,Yes,OBC
+ETC,1,1,9.3,69,Music Club,AI Engineer,No,Merit
+IIOT,2,4,6.29,83,Robotics Club,Data Scientist,Yes,
+IT,1,2,7.27,67,Sports Club,Entrepreneur,No,Merit
+IIOT,2,4,7.75,94,Photography Club,AI Engineer,No,ST
+DS,2,4,6.95,90,Coding Club,Entrepreneur,No,EWS
+EC,3,5,6.45,94,Robotics Club,Entrepreneur,No,ST
+IIOT,2,3,6.19,100,Drama Club,Robotics Engineer,No,SC
+AE,3,6,5.52,69,Coding Club,Software Engineer,Yes,
+RE,2,4,9.68,85,Music Club,Pilot,Yes,ST
+IIOT,3,5,5.99,95,NSS,Entrepreneur,No,ST
+CT,1,1,7.68,85,NSS,Entrepreneur,No,
+CT,1,1,6.17,65,Drama Club,Data Scientist,Yes,EWS
+EE,3,6,6.14,84,Drama Club,Entrepreneur,Yes,EWS
+CT,3,6,8.9,69,NSS,Research Scientist,No,Merit
+ME,1,1,9.17,84,Robotics Club,Professor,No,ST
+AE,4,7,6.93,65,Coding Club,AI Engineer,Yes,
+IIOT,4,7,8.76,77,Music Club,Entrepreneur,No,OBC
+CT,2,3,5.58,98,Sports Club,Research Scientist,Yes,ST
+CE,4,7,8.24,62,Robotics Club,Pilot,Yes,SC
+AI/ML,4,8,7.36,82,Coding Club,Software Engineer,Yes,
+AI/ML,3,5,6.24,85,Drama Club,Professor,Yes,EWS
+ME,4,7,6.62,98,Music Club,Software Engineer,Yes,ST
+RE,2,3,6.71,93,NSS,Research Scientist,Yes,Merit
+IIOT,4,7,8.24,89,Robotics Club,Software Engineer,No,Merit
+ME,4,8,7.75,61,Coding Club,AI Engineer,No,
+IIOT,1,2,8.41,63,Coding Club,Software Engineer,Yes,Merit
+RE,2,3,8.36,77,Sports Club,Pilot,Yes,EWS
+DS,1,2,6.5,70,Music Club,Entrepreneur,No,Merit
+CE,3,5,6.62,73,Coding Club,Professor,No,OBC
+DS,2,3,5.74,91,Photography Club,Professor,No,EWS
+RE,4,7,9.36,81,NSS,Research Scientist,No,SC
+IT,2,4,9.65,70,Photography Club,Robotics Engineer,No,ST
+AE,1,2,9.5,77,NSS,Software Engineer,Yes,EWS
+AI/ML,2,4,8.71,83,Sports Club,Software Engineer,Yes,SC
+IIOT,1,1,7.26,77,Photography Club,Software Engineer,No,OBC
+EE,3,6,6.37,64,NCC,Professor,Yes,
+CS,2,4,6.45,81,Coding Club,Pilot,No,EWS
+CS,1,1,5.57,83,Coding Club,Data Scientist,No,EWS
+DS,1,1,5.55,75,NSS,Software Engineer,No,
+CT,3,6,9.59,71,Sports Club,Data Scientist,No,
+AE,4,8,6.56,95,Drama Club,Pilot,Yes,SC
+AE,4,8,8.38,71,Robotics Club,Entrepreneur,Yes,
+AI/ML,4,8,6.36,84,Coding Club,Robotics Engineer,No,ST
+ME,1,1,6.07,81,Sports Club,Professor,Yes,SC
+RE,1,2,7.48,95,Robotics Club,Pilot,No,
+EC,3,5,9.19,80,Drama Club,Research Scientist,No,
+ETC,2,4,6.19,64,Music Club,Robotics Engineer,Yes,ST
+IIOT,4,8,8.99,82,NSS,Software Engineer,No,
+IT,1,1,8.52,82,NSS,Pilot,No,
+RE,4,8,8.76,65,Sports Club,Professor,Yes,Merit
+EE,2,3,7.92,91,NSS,Entrepreneur,Yes,Merit
+DS,3,5,8.28,95,NSS,Research Scientist,No,ST
+ETC,2,4,5.86,61,Photography Club,Robotics Engineer,No,Merit
+RE,1,1,8.36,78,NCC,Pilot,No,Merit
+CE,4,7,8.94,85,NSS,Research Scientist,Yes,EWS
+CE,3,5,8.78,75,Photography Club,Research Scientist,No,Merit
+RE,2,3,7.09,86,NCC,Professor,No,OBC
+CT,4,7,6.41,92,Coding Club,Entrepreneur,No,OBC
+DS,3,5,6.07,85,Music Club,Entrepreneur,Yes,
+CS,2,4,8.5,65,Music Club,Robotics Engineer,Yes,ST
+EE,4,8,7.09,62,Sports Club,Software Engineer,No,EWS
+ME,2,3,9.62,72,Robotics Club,Entrepreneur,No,EWS
+DS,4,8,6.27,90,NCC,Robotics Engineer,No,EWS
+CE,3,6,6.05,84,Music Club,AI Engineer,Yes,OBC
+AE,1,1,7.42,63,Drama Club,Research Scientist,Yes,Merit
+ME,2,3,6.61,65,Photography Club,AI Engineer,No,SC
+IIOT,1,1,9.11,73,Robotics Club,AI Engineer,Yes,ST
+IT,1,1,8.0,82,Robotics Club,Research Scientist,No,ST
+IT,2,4,7.13,66,Sports Club,Software Engineer,Yes,ST
+CS,1,1,8.67,100,Coding Club,Entrepreneur,Yes,OBC
+ETC,4,7,7.63,64,Coding Club,Entrepreneur,No,OBC
+RE,4,7,7.0,92,Sports Club,Software Engineer,Yes,
+IT,2,4,7.68,75,Music Club,Pilot,Yes,EWS
+IIOT,2,3,8.85,73,NCC,Research Scientist,Yes,Merit
+CS,2,3,7.82,68,NSS,Research Scientist,Yes,Merit
+ETC,1,1,5.92,84,Coding Club,AI Engineer,No,SC
+IIOT,1,1,7.13,94,Drama Club,Research Scientist,Yes,ST
+ME,4,7,6.33,89,Coding Club,Robotics Engineer,No,Merit
+CS,3,6,6.88,100,Drama Club,Pilot,Yes,ST
+ME,3,6,5.5,80,NCC,Software Engineer,Yes,Merit
+RE,3,6,9.79,69,Drama Club,Pilot,No,OBC
+CT,2,3,9.68,70,Coding Club,AI Engineer,Yes,OBC
+AE,1,2,8.86,60,Sports Club,Research Scientist,No,OBC
+IIOT,1,1,8.13,61,Drama Club,Pilot,No,OBC
+ME,3,5,6.14,98,Sports Club,Entrepreneur,No,SC
+DS,1,1,6.19,74,NSS,Research Scientist,No,Merit
+AE,4,7,6.38,93,NSS,Data Scientist,No,SC
+CT,2,3,9.88,97,Sports Club,Pilot,No,EWS
+EC,1,2,6.47,62,Sports Club,Research Scientist,No,EWS
+CS,4,7,9.21,83,Photography Club,Robotics Engineer,No,
+EE,3,5,9.02,60,Robotics Club,Professor,No,Merit
+AI/ML,4,7,7.89,75,Drama Club,Research Scientist,Yes,EWS
+AE,3,5,8.07,100,NSS,Research Scientist,Yes,OBC
+AE,1,2,7.8,91,NSS,Software Engineer,No,SC
+ETC,4,7,7.34,87,Music Club,Research Scientist,Yes,OBC
+ETC,4,7,8.92,81,Sports Club,Professor,Yes,
+IIOT,3,5,9.81,79,Drama Club,AI Engineer,Yes,SC
+ETC,2,3,6.2,88,Coding Club,Robotics Engineer,No,Merit
+DS,2,4,8.67,88,Robotics Club,AI Engineer,Yes,SC
+RE,4,8,8.62,87,Photography Club,Pilot,No,SC
+CT,3,5,5.98,80,NSS,Pilot,Yes,OBC
+CE,3,6,8.64,71,Drama Club,Research Scientist,No,ST
+CT,1,1,7.59,74,Coding Club,Robotics Engineer,No,ST
+RE,4,7,6.12,60,Robotics Club,Entrepreneur,Yes,OBC
+CT,1,2,7.5,79,Music Club,Pilot,No,ST
+ME,4,7,6.28,90,Drama Club,Robotics Engineer,No,EWS
+RE,4,7,7.82,93,Drama Club,Professor,Yes,ST
+AE,3,5,6.06,69,Sports Club,Software Engineer,No,ST
+EE,4,8,8.76,66,NSS,Research Scientist,No,Merit
+ETC,1,1,6.71,81,NCC,Research Scientist,Yes,EWS
+DS,1,1,5.74,100,Sports Club,Professor,No,ST
+CT,4,8,8.86,74,Drama Club,Pilot,No,Merit
+AI/ML,2,4,8.75,71,NCC,Robotics Engineer,No,EWS
+EC,2,3,7.06,72,NCC,AI Engineer,No,EWS
+IT,2,3,7.05,97,Sports Club,Research Scientist,No,SC
+ETC,2,4,6.51,75,Robotics Club,Data Scientist,Yes,EWS
+AE,3,5,9.13,77,Drama Club,Professor,No,SC
+CE,1,2,9.66,91,Music Club,Research Scientist,No,EWS
+CS,4,7,7.22,77,Sports Club,AI Engineer,No,ST
+EC,2,4,5.52,78,Coding Club,Entrepreneur,No,EWS
+IIOT,2,4,9.25,80,Drama Club,AI Engineer,Yes,Merit
+AI/ML,3,6,5.93,74,Photography Club,Pilot,Yes,ST
+ETC,3,6,6.88,88,Photography Club,AI Engineer,Yes,OBC
+IT,1,2,6.02,84,Robotics Club,Robotics Engineer,No,OBC
+IT,3,6,7.8,71,NSS,Entrepreneur,Yes,SC
+IIOT,2,4,6.96,76,Music Club,Professor,Yes,Merit
+IT,3,6,5.99,66,Drama Club,AI Engineer,Yes,Merit
+AI/ML,1,1,6.93,68,Drama Club,Software Engineer,No,Merit
+CT,2,3,8.75,82,Robotics Club,Professor,No,SC
+ME,3,5,7.79,87,NSS,Robotics Engineer,Yes,
+ETC,1,1,8.58,64,Photography Club,Entrepreneur,No,EWS
+RE,2,3,7.94,77,Photography Club,Data Scientist,No,ST
+CT,3,6,7.52,63,Drama Club,Data Scientist,Yes,EWS
+RE,3,6,8.34,97,Photography Club,AI Engineer,Yes,
+IIOT,4,7,8.47,68,Coding Club,Entrepreneur,No,SC
+AI/ML,1,1,8.86,85,Coding Club,Data Scientist,No,Merit
+AE,2,3,8.1,93,Music Club,Software Engineer,No,OBC
+AE,1,1,7.32,87,Coding Club,Pilot,Yes,EWS
+DS,3,5,6.27,67,Sports Club,Professor,Yes,Merit
+IIOT,3,5,7.41,75,Sports Club,Pilot,No,Merit
+DS,2,4,8.14,86,Robotics Club,Pilot,Yes,ST
+AE,4,8,9.16,98,Photography Club,Data Scientist,No,ST
+IIOT,3,6,6.03,98,Music Club,Pilot,No,SC
+DS,1,2,5.54,61,Music Club,AI Engineer,No,SC
+IT,4,7,7.85,86,Sports Club,Research Scientist,Yes,Merit
+CE,4,8,9.81,79,NCC,AI Engineer,No,EWS
+ME,4,8,8.99,78,Coding Club,Robotics Engineer,Yes,OBC
+AE,4,7,8.92,96,NSS,Robotics Engineer,Yes,
+DS,3,6,8.51,92,NCC,Pilot,Yes,
+RE,3,5,8.85,83,Coding Club,Pilot,No,Merit
+AI/ML,2,3,8.12,86,Coding Club,AI Engineer,Yes,SC
+DS,3,6,7.48,69,Sports Club,Pilot,Yes,ST
+RE,2,3,8.76,77,Sports Club,Data Scientist,No,
+EC,4,8,6.24,71,Drama Club,Research Scientist,Yes,OBC
+DS,3,5,9.79,86,Music Club,Professor,Yes,ST
+IT,2,4,6.14,98,Sports Club,Research Scientist,No,
+DS,3,5,9.02,96,Drama Club,Software Engineer,No,ST
+CT,3,5,9.57,77,NSS,Software Engineer,Yes,ST
+IT,2,3,6.01,64,Music Club,Software Engineer,Yes,
+RE,2,4,8.03,92,NCC,Research Scientist,No,EWS
+EC,1,1,9.71,74,Coding Club,Software Engineer,No,SC
+EE,1,2,9.35,77,Robotics Club,Data Scientist,No,ST
+EC,1,1,6.08,72,Coding Club,Software Engineer,Yes,OBC
+EE,2,3,7.05,83,Drama Club,Research Scientist,Yes,
+EC,1,1,6.96,94,Sports Club,Robotics Engineer,No,OBC
+AE,3,6,9.67,60,Photography Club,AI Engineer,Yes,ST
+ME,3,5,9.05,89,Music Club,Research Scientist,Yes,EWS
+RE,2,3,6.81,91,NCC,Data Scientist,No,ST
+CS,1,1,8.1,66,NCC,AI Engineer,No,SC
+AE,1,1,6.89,93,Photography Club,Pilot,No,
+ETC,3,5,7.78,71,Sports Club,AI Engineer,No,Merit
+CT,2,3,8.13,75,Drama Club,Pilot,No,SC
+CT,1,2,7.92,68,NSS,Software Engineer,No,EWS
+RE,2,3,8.22,76,Sports Club,AI Engineer,No,EWS
+IIOT,2,4,5.56,91,NCC,Data Scientist,No,
+DS,3,6,9.85,88,NSS,Entrepreneur,No,EWS
+AI/ML,2,3,7.98,72,Coding Club,Entrepreneur,Yes,Merit
+IIOT,3,5,7.82,61,Robotics Club,Robotics Engineer,Yes,SC
+ME,2,4,9.45,87,NCC,Software Engineer,No,EWS
+ME,3,5,7.71,72,Music Club,Pilot,No,Merit
+IT,1,2,7.76,69,Robotics Club,Entrepreneur,No,OBC
+IIOT,2,3,7.82,69,Coding Club,Robotics Engineer,Yes,Merit
+CT,4,7,5.93,77,Robotics Club,Entrepreneur,No,OBC
+CS,3,6,6.76,98,Coding Club,Data Scientist,No,SC
+IT,4,8,5.87,90,Coding Club,Robotics Engineer,No,ST
+CE,2,4,5.57,69,Music Club,Research Scientist,No,Merit
+AI/ML,3,5,9.46,78,Photography Club,Software Engineer,No,ST
+RE,2,4,6.14,67,NCC,Software Engineer,Yes,SC
+RE,2,3,7.59,78,Drama Club,Robotics Engineer,No,EWS
+CE,2,4,6.95,89,Coding Club,Pilot,Yes,Merit
+AE,1,2,9.16,78,Robotics Club,Pilot,Yes,SC
+RE,4,8,9.21,80,Robotics Club,Data Scientist,No,EWS
+CT,3,5,8.74,88,Drama Club,Robotics Engineer,Yes,OBC
+RE,1,2,6.62,90,Sports Club,AI Engineer,No,EWS
+ETC,2,4,8.73,88,Drama Club,Data Scientist,Yes,
+DS,1,2,6.79,89,Photography Club,Data Scientist,Yes,ST
+ETC,3,6,7.51,67,Photography Club,AI Engineer,No,Merit
+CE,3,6,5.79,65,NCC,Entrepreneur,Yes,Merit
+ME,4,7,6.65,61,NCC,Entrepreneur,No,Merit
+EC,2,3,6.64,73,Music Club,AI Engineer,No,OBC
+CE,2,4,9.65,84,NSS,AI Engineer,Yes,Merit
+DS,2,3,5.66,84,Photography Club,Entrepreneur,No,OBC
+DS,1,1,8.5,63,Photography Club,Professor,No,EWS
+AI/ML,4,8,6.84,80,Robotics Club,Data Scientist,Yes,EWS
+RE,3,6,9.6,74,Sports Club,Robotics Engineer,Yes,SC
+AE,3,6,9.44,62,Coding Club,Robotics Engineer,Yes,
+IIOT,2,3,8.2,64,Coding Club,Software Engineer,No,OBC
+AE,3,6,7.47,68,Photography Club,AI Engineer,No,
+EC,4,8,7.61,86,Sports Club,Professor,Yes,SC
+CT,3,5,6.87,75,Sports Club,Software Engineer,Yes,
+IT,4,8,6.7,63,Photography Club,AI Engineer,No,ST
+CE,3,6,7.84,87,Sports Club,Software Engineer,No,Merit
+CS,3,6,6.49,80,NSS,Data Scientist,Yes,Merit
+DS,1,1,5.63,79,Robotics Club,Pilot,No,SC
+IT,4,8,9.79,67,Music Club,Data Scientist,No,EWS
+EE,3,5,5.87,78,Robotics Club,AI Engineer,No,EWS
+ME,2,4,7.67,74,Robotics Club,Robotics Engineer,Yes,SC
+AI/ML,3,6,6.76,92,Music Club,Data Scientist,Yes,
+CS,1,1,7.17,86,Music Club,Entrepreneur,Yes,
+DS,4,7,8.87,73,NCC,Research Scientist,No,EWS
+CE,4,7,8.58,86,Coding Club,Research Scientist,No,EWS
+IIOT,1,2,8.82,100,Photography Club,Pilot,Yes,SC
+ME,2,3,7.72,72,NSS,AI Engineer,Yes,Merit
+RE,2,4,6.97,68,Drama Club,Data Scientist,No,
+EC,1,2,6.67,63,Robotics Club,Software Engineer,No,
+EC,2,3,9.3,89,Music Club,Robotics Engineer,Yes,Merit
+AE,3,6,8.31,98,Drama Club,Entrepreneur,No,ST
+ME,3,6,7.96,85,Sports Club,Research Scientist,No,
+ETC,1,2,8.81,97,Drama Club,AI Engineer,No,ST
+CE,2,3,7.04,63,NCC,Data Scientist,Yes,Merit
+IIOT,3,5,8.25,73,NSS,Entrepreneur,No,Merit
+ETC,4,8,7.55,64,NCC,Robotics Engineer,No,ST
+IIOT,4,7,5.68,89,Photography Club,Pilot,Yes,SC
+CT,3,6,7.59,72,Coding Club,Data Scientist,No,Merit
+CT,1,1,9.85,96,Robotics Club,Professor,No,SC
+AI/ML,3,5,5.9,96,NCC,Robotics Engineer,No,
+EC,1,2,9.5,75,NCC,Research Scientist,No,OBC
+EC,2,4,5.6,100,NCC,Research Scientist,Yes,OBC
+IIOT,1,1,9.04,90,Music Club,Data Scientist,Yes,EWS
+DS,3,5,6.34,60,Photography Club,Professor,No,EWS
+IIOT,4,7,9.86,64,Photography Club,Pilot,Yes,SC
+ETC,4,7,5.85,71,NCC,Software Engineer,Yes,
+EE,4,8,9.28,67,NSS,AI Engineer,Yes,SC
+AI/ML,2,3,6.16,88,Coding Club,Professor,Yes,EWS
+CT,3,6,7.43,92,NCC,Professor,No,
+AI/ML,2,4,6.36,81,Coding Club,Data Scientist,Yes,EWS
+ETC,4,8,7.66,91,Photography Club,Data Scientist,Yes,Merit
+CS,1,2,7.95,76,Photography Club,Pilot,Yes,OBC
+RE,2,4,9.71,96,Music Club,Robotics Engineer,Yes,OBC
+IT,3,5,9.42,66,Sports Club,Robotics Engineer,No,
+EE,1,2,9.84,82,NCC,Robotics Engineer,No,SC
+CS,3,5,7.35,90,Robotics Club,Research Scientist,Yes,
+CE,1,2,8.42,99,Coding Club,Pilot,Yes,OBC
+DS,2,4,7.87,98,NSS,Entrepreneur,Yes,OBC
+ME,3,5,9.33,94,Photography Club,Entrepreneur,Yes,OBC
+ME,1,1,5.87,76,Music Club,Entrepreneur,Yes,ST
+CT,2,3,5.94,67,Music Club,Software Engineer,Yes,EWS
+EC,4,8,8.21,78,NSS,Software Engineer,No,ST
+IIOT,3,6,5.95,81,Music Club,AI Engineer,Yes,ST
+IIOT,3,5,7.63,77,Photography Club,Robotics Engineer,No,OBC
+IIOT,2,4,9.14,90,Photography Club,Robotics Engineer,Yes,Merit
+CS,1,1,8.25,98,Sports Club,Robotics Engineer,No,Merit
+ETC,3,5,9.84,82,Drama Club,AI Engineer,No,EWS
+EC,1,1,7.3,85,Photography Club,Professor,No,EWS
+CS,2,3,7.18,70,Drama Club,Entrepreneur,No,
+IIOT,4,7,8.06,93,NSS,Professor,Yes,
+EC,2,4,8.37,68,Music Club,Robotics Engineer,No,EWS
+CS,4,8,7.21,90,Coding Club,Professor,No,EWS
+ME,2,4,7.09,92,NSS,Research Scientist,Yes,
+DS,4,7,6.24,85,NCC,AI Engineer,No,EWS
+AI/ML,4,8,5.65,73,Music Club,Robotics Engineer,No,
+RE,4,7,9.8,82,Photography Club,Professor,No,
+EC,3,5,7.91,77,NSS,Research Scientist,Yes,
+EC,1,2,7.14,66,Coding Club,Pilot,No,OBC
+CS,3,5,7.45,64,Robotics Club,AI Engineer,No,Merit
+DS,4,7,6.02,77,Sports Club,Professor,Yes,EWS
+IIOT,1,1,7.27,60,NSS,Entrepreneur,No,EWS
+CS,4,8,8.79,70,Drama Club,Pilot,Yes,EWS
+EE,1,1,6.6,95,Music Club,AI Engineer,Yes,SC
+DS,4,7,8.77,70,Sports Club,Data Scientist,No,Merit
+ME,1,1,6.04,93,NSS,Data Scientist,No,SC
+IT,3,6,8.18,90,Music Club,Entrepreneur,No,OBC
+RE,4,8,8.22,62,NCC,Pilot,No,OBC
+EC,3,5,8.73,81,Robotics Club,Pilot,Yes,EWS
+ME,3,5,6.75,88,NCC,Entrepreneur,Yes,OBC
+RE,3,6,6.33,75,Photography Club,Pilot,Yes,
+ME,4,7,9.26,75,Photography Club,AI Engineer,No,SC
+ME,2,4,9.66,94,Coding Club,Entrepreneur,No,
+CE,2,3,9.62,70,NSS,Professor,Yes,EWS
+IIOT,2,4,8.76,74,Drama Club,Robotics Engineer,No,
+EE,3,6,6.91,83,Robotics Club,Data Scientist,Yes,OBC
+ME,2,4,9.66,68,Drama Club,Data Scientist,Yes,EWS
+RE,3,6,7.17,88,Drama Club,Pilot,Yes,SC
+DS,3,5,6.68,73,Music Club,Research Scientist,No,ST
+EE,1,2,5.89,98,Photography Club,Robotics Engineer,No,SC
+IT,2,4,8.09,77,Robotics Club,Professor,Yes,SC
+DS,3,6,7.51,67,NSS,Research Scientist,Yes,
+EC,4,8,8.48,82,NSS,Software Engineer,No,EWS
+CS,2,3,6.99,81,NCC,Data Scientist,No,SC
+AE,1,1,6.34,96,NCC,Software Engineer,No,SC
+ETC,3,5,8.2,65,Drama Club,Data Scientist,No,
+ME,4,8,8.27,81,NCC,Robotics Engineer,No,SC
+EE,4,8,6.39,74,Photography Club,Data Scientist,No,SC
+EC,2,3,9.64,69,Photography Club,Data Scientist,No,
+CS,2,4,9.42,99,Drama Club,Research Scientist,Yes,OBC
+EE,1,1,6.46,60,Coding Club,Data Scientist,Yes,
+DS,4,7,6.26,79,NSS,Entrepreneur,No,OBC
+RE,1,2,5.77,83,Music Club,Professor,No,EWS
+IT,3,5,6.5,69,Robotics Club,Entrepreneur,No,EWS
+EE,3,6,6.09,60,NSS,Data Scientist,No,
+EC,3,5,5.68,78,Sports Club,Data Scientist,No,ST
+ETC,3,6,7.31,80,Robotics Club,Software Engineer,No,OBC
+EC,4,7,9.5,84,NCC,Entrepreneur,No,SC
+RE,1,1,8.44,74,Sports Club,Pilot,No,EWS
+CS,4,7,6.53,83,NSS,Robotics Engineer,Yes,OBC
+AE,4,8,8.92,72,NCC,Research Scientist,No,
+EC,1,2,9.06,67,Drama Club,Entrepreneur,No,ST
+CT,2,4,7.41,63,Robotics Club,Research Scientist,No,ST
+RE,4,7,6.53,62,NSS,AI Engineer,No,EWS
+EC,1,1,6.95,64,Coding Club,Professor,Yes,Merit
+CE,3,5,9.04,88,Sports Club,Entrepreneur,No,EWS
+CS,4,7,7.32,88,Coding Club,Software Engineer,Yes,ST
+CE,2,3,9.69,100,Sports Club,Research Scientist,Yes,ST
+RE,4,7,5.53,81,NSS,Robotics Engineer,Yes,OBC
+IIOT,2,4,8.55,79,NSS,AI Engineer,No,
+IIOT,2,3,9.7,65,Music Club,Robotics Engineer,Yes,ST
+ME,2,3,8.65,69,Sports Club,AI Engineer,No,
+DS,2,4,7.7,90,Music Club,Pilot,No,SC
+AE,1,2,9.1,78,Coding Club,Data Scientist,No,Merit
+EC,4,7,7.43,68,Drama Club,Professor,Yes,SC
+CE,3,5,9.17,70,Music Club,Professor,No,EWS
+ME,4,7,9.32,92,NSS,Data Scientist,No,
+AE,4,7,7.47,75,Sports Club,Data Scientist,Yes,SC
+CE,3,5,8.65,64,Photography Club,Professor,Yes,OBC
+CE,1,2,8.78,78,Music Club,Research Scientist,Yes,Merit
+EE,1,1,7.93,96,Photography Club,Pilot,Yes,Merit
+CS,3,5,5.8,74,Robotics Club,Software Engineer,Yes,OBC
+AE,2,4,6.37,90,Music Club,Professor,No,ST
+IIOT,1,1,5.54,72,NSS,AI Engineer,No,EWS
+IT,2,4,9.24,60,Photography Club,Entrepreneur,Yes,
+AI/ML,3,6,7.65,60,Photography Club,Research Scientist,Yes,OBC
+ME,3,6,8.87,85,NCC,Data Scientist,Yes,
+ETC,4,7,8.77,65,Music Club,Research Scientist,Yes,ST
+CS,4,7,8.33,95,NCC,Software Engineer,No,ST
+CT,3,6,6.43,67,Coding Club,Professor,Yes,
+CE,4,7,9.79,94,Sports Club,Software Engineer,Yes,SC
+IIOT,3,5,7.02,65,Sports Club,Robotics Engineer,Yes,Merit
+AI/ML,2,4,8.54,87,NSS,Professor,Yes,Merit
+ETC,3,6,5.79,77,NSS,Pilot,No,EWS
+CE,2,4,8.27,89,Robotics Club,AI Engineer,Yes,
+AI/ML,4,8,6.82,63,Sports Club,Entrepreneur,Yes,Merit
+IT,1,1,8.58,86,Drama Club,Data Scientist,Yes,SC
+ETC,1,1,7.67,78,Music Club,Entrepreneur,No,Merit
+RE,4,8,6.53,71,Coding Club,Pilot,No,SC
+CE,2,3,9.71,63,NCC,Pilot,Yes,EWS
+ME,1,1,9.89,62,NCC,Research Scientist,No,OBC
+AE,2,3,8.72,63,NCC,Professor,No,ST
+IIOT,2,4,5.75,60,Photography Club,AI Engineer,Yes,
+AI/ML,1,1,8.44,61,Music Club,Research Scientist,Yes,OBC
+EE,4,7,9.16,87,Music Club,Software Engineer,Yes,EWS
+CT,3,6,8.95,79,Music Club,Data Scientist,Yes,OBC
+IIOT,4,8,8.05,99,NSS,AI Engineer,Yes,OBC
+RE,2,3,6.75,76,Drama Club,AI Engineer,No,Merit
+EC,4,8,9.46,86,Photography Club,Research Scientist,Yes,SC
+RE,2,4,7.88,94,Sports Club,Entrepreneur,Yes,EWS
+CS,3,6,8.97,85,Music Club,Pilot,Yes,OBC
+AI/ML,2,4,9.0,62,Robotics Club,Software Engineer,Yes,
+IT,4,8,6.17,65,Sports Club,Pilot,Yes,EWS
+AE,1,2,8.2,96,Sports Club,Software Engineer,Yes,ST
+RE,2,4,8.91,75,Robotics Club,Data Scientist,No,OBC
+RE,1,2,7.77,60,NCC,Professor,No,OBC
+IT,3,5,9.58,82,Coding Club,Entrepreneur,Yes,ST
+EC,3,6,6.27,68,NSS,Data Scientist,No,OBC
+AI/ML,3,6,9.25,69,Robotics Club,Pilot,No,OBC
+AI/ML,2,4,7.71,89,NCC,Software Engineer,No,
+IIOT,2,3,9.22,63,Drama Club,Entrepreneur,Yes,OBC
+RE,2,3,9.1,63,Sports Club,Pilot,No,ST
+IT,4,8,8.48,64,Photography Club,Research Scientist,No,OBC
+ETC,1,1,6.47,60,Coding Club,Data Scientist,No,ST
+AE,1,2,7.98,71,Music Club,Entrepreneur,Yes,OBC
+IT,4,8,7.38,65,Music Club,Robotics Engineer,No,SC
+AI/ML,4,8,8.98,79,Coding Club,AI Engineer,No,ST
+DS,3,6,9.67,72,Coding Club,Professor,No,EWS
+EE,1,2,8.55,80,NSS,Research Scientist,No,OBC
+RE,4,8,7.84,64,NCC,Pilot,No,OBC
+AI/ML,2,3,9.62,93,NSS,Pilot,Yes,SC
+DS,4,8,8.25,92,Sports Club,AI Engineer,Yes,ST
+AE,2,4,9.7,61,Photography Club,Software Engineer,Yes,ST
+CE,3,5,7.84,70,Music Club,AI Engineer,No,OBC
+RE,2,4,7.38,68,Photography Club,Research Scientist,No,
+CE,1,2,8.33,89,Sports Club,Software Engineer,No,EWS
+CT,3,5,8.5,85,Photography Club,Data Scientist,No,
+CE,2,4,6.58,82,Photography Club,Entrepreneur,No,OBC
+EC,3,6,5.85,66,Coding Club,Software Engineer,No,OBC
+ETC,1,1,8.63,88,NCC,Software Engineer,No,SC
+CS,1,2,9.43,72,Sports Club,AI Engineer,Yes,EWS
+IT,3,6,9.86,72,Sports Club,Robotics Engineer,No,
+DS,2,4,8.78,73,Music Club,Software Engineer,No,ST
+CS,3,5,8.21,66,NCC,AI Engineer,Yes,
+AE,1,1,7.39,86,NSS,Research Scientist,Yes,OBC
+AE,4,8,7.32,98,Music Club,Software Engineer,No,ST
+CS,1,2,7.48,90,Music Club,Data Scientist,No,Merit
+EC,3,6,9.46,93,NCC,AI Engineer,Yes,
+CT,4,7,6.79,69,Music Club,Robotics Engineer,No,ST
+CE,4,8,8.68,70,NSS,Professor,Yes,SC
+IIOT,4,7,8.2,87,Photography Club,Professor,Yes,
+RE,3,6,9.05,71,NCC,Pilot,Yes,EWS
+DS,2,3,9.82,76,Drama Club,Robotics Engineer,Yes,EWS
+EC,4,7,7.18,64,NSS,Robotics Engineer,Yes,Merit
+ME,3,6,6.88,71,Photography Club,Entrepreneur,No,OBC
+AI/ML,2,3,7.33,71,NSS,Data Scientist,No,
+CE,2,4,6.12,100,Music Club,Professor,Yes,OBC
+AE,3,6,8.68,67,Sports Club,Software Engineer,Yes,SC
+ETC,4,8,8.32,96,Photography Club,Pilot,Yes,OBC
+ETC,2,4,9.48,92,NCC,Data Scientist,Yes,SC
+ETC,1,1,8.9,68,Sports Club,AI Engineer,Yes,EWS
+IT,3,6,8.88,80,Photography Club,Entrepreneur,No,OBC
+EE,3,5,5.85,94,Coding Club,AI Engineer,No,EWS
+EE,4,7,9.77,65,Photography Club,Entrepreneur,No,Merit
+RE,2,3,9.71,65,NSS,AI Engineer,Yes,
+CS,1,1,6.53,69,Coding Club,Software Engineer,Yes,Merit
+ME,3,5,9.34,68,Sports Club,Data Scientist,No,OBC
+CS,2,4,6.83,61,Photography Club,Software Engineer,Yes,Merit
+CT,2,3,7.74,87,Photography Club,Data Scientist,Yes,EWS
+CS,3,6,7.78,93,Coding Club,Professor,Yes,ST
+IT,1,1,9.55,84,Sports Club,AI Engineer,Yes,ST
+CT,4,7,7.11,75,Robotics Club,Professor,Yes,Merit
+CS,3,5,5.63,62,Music Club,Software Engineer,No,ST
+EE,1,1,5.67,77,NSS,Entrepreneur,Yes,
+EC,3,5,5.76,83,Coding Club,Data Scientist,No,SC
+CT,3,5,9.31,89,NCC,Pilot,Yes,EWS
+CE,3,5,7.47,92,Coding Club,Software Engineer,No,EWS
+DS,3,5,9.08,96,Music Club,AI Engineer,No,EWS
+RE,2,4,6.81,97,Drama Club,Pilot,No,EWS
+IIOT,1,1,9.47,87,Coding Club,Professor,Yes,Merit
+ETC,4,7,7.72,87,Music Club,Data Scientist,No,ST
+RE,2,4,7.64,80,NCC,AI Engineer,No,Merit
+CE,3,6,9.31,61,Coding Club,Professor,Yes,OBC
+ETC,4,8,6.06,75,Sports Club,AI Engineer,No,EWS
+DS,3,5,7.24,78,NCC,AI Engineer,Yes,EWS
+ETC,1,2,8.7,97,Robotics Club,Entrepreneur,No,OBC
+AI/ML,4,8,7.17,68,Photography Club,Software Engineer,Yes,SC
+AI/ML,3,5,8.38,61,Drama Club,AI Engineer,Yes,OBC
+AE,3,6,8.39,60,Robotics Club,Software Engineer,No,Merit
+EC,3,6,8.06,84,Drama Club,Robotics Engineer,No,SC
+RE,1,1,9.79,69,NCC,Entrepreneur,Yes,ST
+ME,2,3,5.89,60,NSS,AI Engineer,Yes,SC
+EC,1,1,7.86,60,Sports Club,Research Scientist,Yes,OBC
+ETC,1,2,9.33,96,NSS,Software Engineer,Yes,ST
+AE,4,7,7.34,89,NCC,Pilot,Yes,EWS
+EE,2,4,9.83,72,NCC,Robotics Engineer,No,Merit
+AE,2,3,7.36,91,Sports Club,Pilot,No,ST
+RE,2,3,8.12,74,Coding Club,Pilot,No,OBC
+DS,3,6,8.48,84,Robotics Club,AI Engineer,No,EWS
+ME,2,4,5.97,68,NCC,AI Engineer,Yes,OBC
+AE,3,6,9.15,63,Drama Club,AI Engineer,No,OBC
+DS,2,4,8.05,90,Drama Club,Research Scientist,Yes,ST
+DS,1,1,8.99,64,Coding Club,Professor,No,OBC
+AI/ML,3,6,7.38,65,Photography Club,AI Engineer,Yes,
+ETC,1,2,6.46,96,Photography Club,Pilot,No,SC
+IIOT,2,3,9.14,96,Drama Club,Data Scientist,No,ST
+EC,4,8,5.62,85,Drama Club,AI Engineer,Yes,OBC
+RE,2,3,6.64,97,NCC,Professor,No,Merit
+DS,3,6,5.87,100,Robotics Club,Software Engineer,No,EWS
+ETC,3,5,6.78,78,Robotics Club,AI Engineer,Yes,EWS
+EE,1,2,8.99,97,Robotics Club,Research Scientist,No,OBC
+ME,1,1,8.27,89,Photography Club,Robotics Engineer,No,EWS
+CT,4,7,6.45,88,Photography Club,Pilot,No,Merit
+ETC,1,1,9.05,77,Sports Club,Entrepreneur,No,ST
+AE,2,3,6.89,94,Music Club,Software Engineer,No,
+IIOT,2,4,6.05,93,Music Club,Pilot,No,ST
+IIOT,4,8,9.65,60,Coding Club,Research Scientist,Yes,Merit
+ME,4,8,8.88,73,Music Club,AI Engineer,No,
+ETC,4,8,8.52,85,Drama Club,Entrepreneur,No,
+CS,4,7,7.43,94,Photography Club,Entrepreneur,No,
+AE,2,4,6.69,89,Drama Club,Robotics Engineer,Yes,Merit
+IT,3,5,8.58,92,Coding Club,Research Scientist,Yes,Merit
+RE,4,7,8.53,94,Drama Club,Robotics Engineer,No,ST
+EE,1,2,9.1,88,Sports Club,Software Engineer,No,OBC
+CE,2,3,7.27,100,Robotics Club,AI Engineer,Yes,ST
+EE,2,4,8.58,60,Music Club,Research Scientist,Yes,ST
+AE,2,3,6.4,90,Drama Club,Professor,No,ST
+AI/ML,2,3,6.39,85,Coding Club,Pilot,Yes,ST
+CE,4,8,8.82,75,Sports Club,Software Engineer,Yes,SC
+CS,3,6,6.83,86,Sports Club,Software Engineer,Yes,OBC
+CS,3,5,9.24,89,Music Club,AI Engineer,No,SC
+RE,3,5,7.74,60,Photography Club,Data Scientist,Yes,SC
+IIOT,3,5,8.4,62,NCC,Research Scientist,No,EWS
+ETC,2,3,6.85,66,Photography Club,AI Engineer,No,
+AI/ML,4,8,6.82,93,Robotics Club,Entrepreneur,Yes,ST
+DS,2,3,9.19,90,Drama Club,Pilot,Yes,ST
+CT,2,3,7.24,80,NSS,Research Scientist,Yes,Merit
+AI/ML,3,6,9.63,69,Drama Club,AI Engineer,Yes,EWS
+EE,4,8,6.95,71,Coding Club,Research Scientist,Yes,SC
+RE,2,4,7.5,99,Sports Club,Pilot,Yes,EWS
+ETC,4,8,8.02,87,NSS,Robotics Engineer,No,
+AI/ML,1,2,6.31,95,Robotics Club,Robotics Engineer,No,OBC
+CT,1,1,7.06,69,Coding Club,Software Engineer,Yes,OBC
+CE,4,8,5.68,86,Drama Club,Software Engineer,No,Merit
+AE,3,5,5.84,85,Drama Club,Robotics Engineer,Yes,Merit
+RE,1,2,7.4,66,Sports Club,Pilot,Yes,Merit
+CE,3,5,6.14,92,Photography Club,Entrepreneur,No,ST
+CT,2,3,5.87,60,NCC,Data Scientist,No,EWS
+CT,2,4,7.89,79,Music Club,Pilot,Yes,EWS
+EE,3,6,6.78,90,NCC,Research Scientist,No,EWS
+CS,3,6,7.78,100,Drama Club,Research Scientist,No,OBC
+IT,1,2,6.19,94,Photography Club,Robotics Engineer,No,Merit
+EE,1,1,7.2,91,NCC,Research Scientist,No,
+RE,1,2,9.01,92,Photography Club,Professor,Yes,ST
+CS,2,4,9.54,93,Sports Club,Professor,Yes,OBC
+AE,3,6,6.33,73,NSS,Pilot,No,
+IIOT,2,4,8.91,84,Music Club,Research Scientist,No,EWS
+IT,4,8,8.5,65,Drama Club,Software Engineer,Yes,EWS
+EC,1,2,7.97,70,Drama Club,Data Scientist,Yes,EWS
+IT,3,5,7.19,96,Sports Club,Robotics Engineer,Yes,
+CE,2,4,9.68,77,Music Club,Software Engineer,Yes,EWS
+CE,2,3,6.51,83,Music Club,AI Engineer,No,SC
+IIOT,4,7,7.58,61,Drama Club,AI Engineer,No,
+CT,4,8,8.28,99,Robotics Club,Software Engineer,No,Merit
+ME,4,8,7.75,75,Coding Club,Entrepreneur,No,ST
+RE,2,3,7.66,88,Sports Club,Professor,No,ST
+DS,2,3,6.71,94,NCC,Professor,Yes,
+CE,3,6,5.76,71,Photography Club,Robotics Engineer,No,ST
+CE,4,8,8.82,70,Sports Club,Software Engineer,No,
+ME,2,4,6.77,95,Coding Club,Entrepreneur,No,SC
+AI/ML,1,2,6.13,75,NSS,Professor,Yes,
+EC,1,1,5.67,87,Photography Club,Robotics Engineer,No,SC
+AI/ML,4,8,5.96,86,Sports Club,Software Engineer,Yes,Merit
+AE,1,2,9.73,76,NCC,Robotics Engineer,No,
+IIOT,1,2,9.34,82,NCC,Pilot,No,OBC
+DS,4,8,5.89,62,Robotics Club,Professor,Yes,OBC
+AE,2,3,5.98,97,NCC,AI Engineer,Yes,SC
+EE,4,8,9.71,78,Sports Club,Entrepreneur,No,
+RE,1,1,6.8,85,Robotics Club,Software Engineer,Yes,SC
+AI/ML,4,7,7.93,60,Drama Club,Pilot,No,SC
+CS,2,3,7.57,63,NSS,Pilot,No,EWS
+AE,1,2,7.83,90,Coding Club,Entrepreneur,No,ST
+CS,3,6,6.19,63,Sports Club,Robotics Engineer,No,SC
+AE,3,6,8.69,83,Robotics Club,Entrepreneur,Yes,EWS
+DS,1,1,6.41,78,Music Club,Robotics Engineer,Yes,
+EC,4,8,9.81,62,Sports Club,Software Engineer,No,EWS
+CS,3,6,7.48,79,Music Club,Data Scientist,No,EWS
+EE,3,5,6.77,73,NCC,Entrepreneur,Yes,ST
+CT,4,7,5.85,95,Music Club,Research Scientist,Yes,Merit
+RE,2,4,5.73,71,Coding Club,Robotics Engineer,No,OBC
+DS,2,4,9.52,70,NCC,Professor,No,ST
+DS,4,7,6.69,91,NSS,Research Scientist,Yes,Merit
+CT,2,4,7.27,97,Drama Club,Entrepreneur,No,Merit
+CS,4,7,8.16,87,Sports Club,Research Scientist,Yes,
+IT,3,5,8.49,76,NCC,Pilot,Yes,EWS
+CE,1,2,5.95,67,NSS,Research Scientist,No,Merit
+EE,3,5,6.86,60,Coding Club,AI Engineer,Yes,EWS
+CT,1,1,5.58,85,Photography Club,AI Engineer,No,Merit
+ETC,4,8,6.08,67,NCC,Software Engineer,Yes,ST
+ME,4,8,5.71,98,Sports Club,Data Scientist,Yes,ST
+RE,2,4,8.16,60,Coding Club,Data Scientist,Yes,EWS
+EE,3,5,9.27,82,Music Club,Professor,No,OBC
+AE,4,7,7.54,70,Drama Club,AI Engineer,Yes,Merit
+AI/ML,2,4,9.73,80,Coding Club,Entrepreneur,Yes,ST
+DS,3,5,8.97,65,Robotics Club,Data Scientist,Yes,SC
+ME,2,4,8.33,95,Music Club,Entrepreneur,No,
+CE,3,6,6.72,63,Drama Club,Robotics Engineer,No,
+ME,1,2,7.97,61,Robotics Club,Software Engineer,No,Merit
+ETC,4,7,8.63,93,Music Club,Pilot,No,Merit
+AI/ML,2,4,6.6,61,Drama Club,Data Scientist,No,
+AE,4,8,7.61,87,Coding Club,Research Scientist,No,EWS
+AI/ML,1,2,8.3,92,Photography Club,Robotics Engineer,Yes,Merit
+EC,4,8,5.82,85,NCC,Robotics Engineer,No,EWS
+AI/ML,2,4,7.4,92,Coding Club,Professor,Yes,
+CS,1,1,9.67,80,Photography Club,Data Scientist,No,Merit
+AE,3,5,7.64,98,NCC,AI Engineer,Yes,Merit
+IT,1,2,6.51,94,NSS,Software Engineer,Yes,EWS
+AE,4,7,7.26,60,NSS,Professor,No,
+DS,4,8,6.3,95,Music Club,Robotics Engineer,No,ST
+ETC,2,4,6.49,66,Sports Club,Robotics Engineer,Yes,ST
+AI/ML,4,8,5.56,99,Music Club,AI Engineer,No,ST
+AE,4,8,9.48,66,Robotics Club,Data Scientist,No,Merit
+CE,3,5,7.86,68,Robotics Club,Pilot,No,SC
+DS,4,8,9.81,62,Music Club,Professor,No,SC
+CT,1,1,5.52,81,Coding Club,Pilot,No,SC
+DS,1,1,6.36,72,Music Club,AI Engineer,Yes,ST
+CT,4,7,8.39,79,Robotics Club,Data Scientist,No,Merit
+IT,1,2,5.96,81,Robotics Club,Software Engineer,Yes,
+RE,4,8,6.43,83,NSS,Data Scientist,Yes,OBC
+ME,3,5,5.51,84,Coding Club,Entrepreneur,No,Merit
+CS,1,1,7.47,85,Drama Club,Pilot,No,OBC
+AE,2,3,9.42,77,NSS,Software Engineer,Yes,EWS
+AI/ML,2,3,9.57,94,Robotics Club,Entrepreneur,Yes,EWS
+ETC,3,6,7.4,87,Drama Club,Software Engineer,Yes,Merit
+CS,2,4,8.39,82,NCC,Data Scientist,Yes,SC
+AE,2,4,7.97,72,Coding Club,AI Engineer,No,OBC
+CE,1,2,5.57,92,Drama Club,Professor,Yes,EWS
+RE,2,4,6.25,98,Drama Club,Software Engineer,No,
+IIOT,3,5,8.81,92,Drama Club,Software Engineer,Yes,SC
+RE,3,5,7.55,88,Sports Club,Research Scientist,No,SC
+EC,3,6,9.25,64,Photography Club,Data Scientist,No,
+ETC,4,8,6.0,86,Drama Club,Entrepreneur,No,
+CE,1,2,6.87,88,NCC,AI Engineer,No,ST
+EE,4,8,9.76,64,Coding Club,Research Scientist,Yes,
+AI/ML,4,7,5.87,66,NCC,Software Engineer,Yes,ST
+RE,4,8,5.72,78,Robotics Club,Entrepreneur,No,
+RE,4,8,5.66,71,Music Club,AI Engineer,Yes,SC
+EC,2,4,6.25,72,Drama Club,Research Scientist,No,OBC
+EE,1,1,9.08,74,Music Club,Professor,Yes,SC
+EE,1,2,6.6,84,Robotics Club,Software Engineer,No,
+EC,3,5,9.56,63,Coding Club,Research Scientist,No,OBC
+RE,2,3,6.39,61,NSS,Entrepreneur,Yes,
+IIOT,2,3,6.72,84,Photography Club,Professor,Yes,
+ME,1,1,8.43,83,NCC,Professor,Yes,EWS
+IIOT,4,7,7.1,65,NSS,Data Scientist,No,EWS
+AE,1,1,8.84,88,Photography Club,AI Engineer,No,EWS
+CT,1,1,7.15,66,Sports Club,AI Engineer,No,Merit
+IT,1,1,8.63,76,Coding Club,Professor,No,OBC
+ETC,4,7,5.86,72,NCC,Software Engineer,Yes,
+CS,3,5,9.48,75,Sports Club,Professor,No,SC
+RE,2,4,8.45,92,Photography Club,Robotics Engineer,No,OBC
+CE,2,3,8.55,89,Coding Club,Entrepreneur,Yes,
+ETC,3,6,7.66,70,Sports Club,AI Engineer,No,ST
+RE,3,5,5.84,87,Drama Club,Software Engineer,Yes,EWS
+ETC,1,1,8.73,75,NSS,Entrepreneur,No,EWS
+IT,3,5,8.87,65,Robotics Club,AI Engineer,Yes,EWS
+AE,3,6,9.5,94,Robotics Club,AI Engineer,No,EWS
+ETC,4,8,9.41,75,Coding Club,Research Scientist,No,ST
+CT,1,1,8.53,80,Robotics Club,AI Engineer,No,EWS
+IIOT,1,2,6.19,72,Coding Club,Professor,No,
+AI/ML,4,8,6.11,96,NSS,Data Scientist,No,
+IIOT,4,8,9.25,82,NCC,Pilot,Yes,SC
+EC,3,5,7.27,91,Coding Club,Pilot,No,ST
+ETC,1,1,8.65,93,Robotics Club,Data Scientist,Yes,EWS
+ETC,1,2,9.88,95,Robotics Club,Pilot,No,Merit
+CT,3,6,9.39,72,Photography Club,Data Scientist,No,ST
+AI/ML,1,2,9.87,81,Music Club,Entrepreneur,Yes,EWS
+ME,3,6,7.17,72,Drama Club,Professor,Yes,EWS
+DS,4,8,9.65,97,NSS,AI Engineer,No,Merit
+CS,3,6,9.5,71,NSS,Entrepreneur,No,ST
+AI/ML,1,1,5.94,66,NCC,Entrepreneur,Yes,SC
+CT,2,4,8.58,100,NSS,Entrepreneur,No,Merit
+ME,2,4,6.44,88,Music Club,Entrepreneur,Yes,EWS
+EE,1,1,6.41,94,Photography Club,Robotics Engineer,No,
+CE,3,6,6.99,100,NSS,Professor,Yes,Merit
+ETC,3,5,9.55,82,Coding Club,Professor,Yes,ST
+EC,3,6,5.78,89,Music Club,Data Scientist,Yes,EWS
+CT,1,1,5.54,100,Sports Club,Software Engineer,Yes,Merit
+ETC,1,1,6.55,60,Photography Club,Research Scientist,Yes,SC
+IIOT,4,7,5.73,62,Coding Club,Entrepreneur,No,SC
+AI/ML,3,6,9.26,69,NSS,Software Engineer,Yes,SC
+ME,3,6,7.63,66,Photography Club,Research Scientist,Yes,Merit
+CS,4,8,7.4,66,Music Club,Data Scientist,No,
+CS,2,3,6.58,93,NCC,Professor,Yes,
+EC,1,2,6.24,69,Sports Club,Research Scientist,Yes,OBC
+CS,2,3,7.86,82,Drama Club,Robotics Engineer,No,OBC
+CS,4,8,7.16,92,Music Club,Research Scientist,No,Merit
+CT,4,8,7.25,92,Drama Club,Pilot,Yes,ST
+DS,2,4,5.99,67,Music Club,Robotics Engineer,Yes,Merit
+AI/ML,4,8,8.7,72,Drama Club,Robotics Engineer,Yes,ST
+IT,2,3,7.57,61,Sports Club,AI Engineer,Yes,SC
+ETC,3,6,9.44,67,Sports Club,Professor,No,ST
+CE,3,5,9.45,81,Drama Club,Software Engineer,Yes,OBC
+CS,3,5,6.23,99,Robotics Club,Professor,Yes,EWS
+IT,4,8,9.09,64,Sports Club,Robotics Engineer,No,
+CE,2,4,8.21,95,Sports Club,Research Scientist,No,EWS
+ME,1,1,6.66,80,Photography Club,Data Scientist,No,ST
+RE,3,6,7.18,61,Robotics Club,Robotics Engineer,Yes,
+ME,1,2,7.21,100,Music Club,Robotics Engineer,No,
+IIOT,1,1,7.4,70,Coding Club,AI Engineer,Yes,OBC
+EE,4,7,6.8,96,Music Club,Entrepreneur,Yes,OBC
+DS,3,5,6.92,79,Sports Club,Robotics Engineer,Yes,Merit
+ETC,2,4,5.79,95,Music Club,Pilot,No,EWS
+IIOT,2,4,9.55,69,Drama Club,Research Scientist,No,Merit
+CS,2,3,5.55,69,Sports Club,AI Engineer,Yes,Merit
+CT,3,5,7.1,99,NCC,Research Scientist,No,
+CS,1,2,6.75,64,Photography Club,Entrepreneur,Yes,Merit
+CT,2,4,5.84,77,Coding Club,Software Engineer,Yes,SC
+EE,4,7,5.82,62,Sports Club,Professor,Yes,Merit
+ME,3,6,7.26,67,NSS,Data Scientist,No,SC
+CE,3,6,5.93,74,NSS,Data Scientist,Yes,OBC
+RE,4,7,6.54,95,Robotics Club,Pilot,Yes,EWS
+IIOT,2,4,7.51,90,NSS,Research Scientist,Yes,OBC
+ME,3,6,9.04,73,Photography Club,AI Engineer,Yes,
+EE,4,8,8.33,69,Drama Club,Data Scientist,No,Merit
+EC,4,7,6.06,80,NCC,Robotics Engineer,Yes,EWS
+CT,1,2,5.68,89,NSS,Entrepreneur,Yes,
+IT,1,2,6.26,84,NCC,Software Engineer,Yes,
+AI/ML,3,6,7.64,81,Photography Club,Pilot,Yes,SC
+EC,2,3,5.7,93,NSS,Software Engineer,No,ST
+CS,3,6,9.56,60,Robotics Club,Software Engineer,No,EWS
+RE,2,4,9.34,85,Coding Club,Research Scientist,Yes,SC
+IT,4,7,9.62,100,Music Club,Robotics Engineer,No,Merit
+CE,2,3,5.53,86,Music Club,Robotics Engineer,No,Merit
+EC,3,5,7.73,89,Coding Club,Entrepreneur,No,SC
+AI/ML,1,2,6.0,74,Photography Club,AI Engineer,No,ST
+CS,3,6,8.56,62,NCC,AI Engineer,No,ST
+EE,4,8,8.79,69,Sports Club,Pilot,No,
+CE,1,2,8.64,92,NCC,Data Scientist,Yes,
+EC,1,1,8.01,97,Sports Club,Research Scientist,Yes,OBC
+ETC,2,4,9.17,74,Coding Club,AI Engineer,No,EWS
+CS,2,4,9.29,76,Drama Club,Pilot,No,ST
+IIOT,2,4,9.44,88,Photography Club,AI Engineer,No,Merit
+EC,2,4,6.69,100,Photography Club,Robotics Engineer,No,EWS
+CE,3,5,9.75,93,Music Club,Data Scientist,Yes,EWS
+CT,2,3,8.75,96,Robotics Club,Data Scientist,No,ST
+IIOT,4,8,7.48,79,Photography Club,Data Scientist,Yes,OBC
+CT,3,6,9.35,65,NSS,Data Scientist,Yes,
+EE,2,4,8.36,60,Drama Club,Professor,Yes,
+RE,1,2,7.68,97,Photography Club,AI Engineer,Yes,EWS
+IIOT,1,1,6.56,76,Photography Club,Research Scientist,No,SC
+IT,4,7,6.05,60,Photography Club,Professor,Yes,
+AE,2,4,7.75,80,Photography Club,Pilot,Yes,Merit
+DS,1,2,8.7,95,NCC,Robotics Engineer,No,Merit
+EE,3,5,7.17,82,NSS,Robotics Engineer,Yes,Merit
+ETC,3,6,5.72,98,Robotics Club,Professor,No,OBC
+EE,4,7,8.72,74,Coding Club,Data Scientist,No,SC
+AI/ML,2,3,7.75,85,Coding Club,Data Scientist,No,SC
+AE,3,6,9.3,92,Coding Club,Research Scientist,No,SC
+ME,1,2,8.62,97,Robotics Club,Software Engineer,No,SC
+EE,2,4,6.83,94,Coding Club,Research Scientist,Yes,ST
+ME,3,6,7.43,68,Photography Club,AI Engineer,Yes,ST
+RE,3,6,6.04,89,Music Club,Entrepreneur,No,EWS
+IT,4,7,6.16,86,Sports Club,Professor,No,ST
+DS,1,1,9.67,84,Sports Club,AI Engineer,No,OBC
+IIOT,4,7,5.81,75,Robotics Club,Data Scientist,No,EWS
+CE,3,6,8.57,67,NCC,Entrepreneur,No,OBC
+EE,1,2,5.8,91,Coding Club,Data Scientist,Yes,Merit
+EE,1,1,5.99,82,Music Club,Research Scientist,Yes,OBC
+CT,1,2,7.65,81,Sports Club,Software Engineer,No,OBC
+CT,1,1,6.93,61,NCC,AI Engineer,Yes,Merit
+CE,2,3,6.97,63,Coding Club,Robotics Engineer,Yes,Merit
+CT,2,4,7.35,88,Coding Club,Research Scientist,No,EWS
+ETC,1,2,9.17,66,Photography Club,Entrepreneur,No,SC
+ETC,4,8,8.52,70,Coding Club,Data Scientist,No,OBC
+IIOT,3,5,6.42,66,Robotics Club,Professor,Yes,OBC
+CE,2,4,6.49,68,Robotics Club,Robotics Engineer,No,SC
+EE,2,4,6.46,73,Music Club,Pilot,Yes,ST
+AE,2,4,9.04,63,Coding Club,Research Scientist,No,
+DS,1,2,8.22,62,Robotics Club,Pilot,No,EWS
+CT,3,5,8.05,64,Coding Club,Research Scientist,No,SC
+AE,2,4,8.97,75,NCC,AI Engineer,No,OBC
+DS,2,3,7.7,100,Coding Club,Data Scientist,No,
+IIOT,1,1,7.39,84,NCC,AI Engineer,No,SC
+IIOT,3,5,8.31,100,Coding Club,Research Scientist,Yes,
+ETC,2,3,9.34,76,Sports Club,Software Engineer,Yes,EWS
+RE,3,6,7.07,81,Music Club,Research Scientist,No,SC
+AI/ML,2,3,7.34,92,Sports Club,Data Scientist,Yes,ST
+ETC,3,6,6.62,63,Drama Club,AI Engineer,Yes,ST
+DS,1,1,7.55,77,Photography Club,Robotics Engineer,Yes,EWS
+ETC,2,3,8.7,85,Coding Club,Professor,Yes,
+DS,2,3,5.97,63,NSS,Pilot,Yes,
+ETC,4,8,5.63,96,Music Club,AI Engineer,Yes,
+CE,2,3,6.58,90,Drama Club,Professor,No,Merit
+IIOT,4,7,8.81,70,Music Club,Data Scientist,No,
+RE,3,5,8.84,66,Photography Club,Robotics Engineer,No,EWS
+CS,4,8,6.97,74,Drama Club,Professor,Yes,Merit
+EC,2,4,6.1,90,NSS,Pilot,Yes,ST
+CE,4,7,6.02,62,Robotics Club,Pilot,Yes,OBC
+ETC,1,1,6.73,84,Sports Club,AI Engineer,Yes,EWS
+RE,2,4,9.59,64,NSS,Data Scientist,No,Merit
+IT,1,2,8.47,69,Sports Club,AI Engineer,No,OBC
+AI/ML,4,7,6.23,68,NCC,Entrepreneur,No,OBC
+ME,2,3,6.78,80,Coding Club,Professor,Yes,
+EE,2,4,7.26,64,Music Club,Robotics Engineer,No,
+CS,2,4,7.45,92,NSS,Entrepreneur,Yes,
+EE,2,4,6.84,65,NCC,Software Engineer,Yes,EWS
+ETC,3,6,5.68,82,Music Club,Software Engineer,No,EWS
+EC,4,7,6.94,90,Photography Club,Entrepreneur,No,Merit
+ETC,4,8,8.57,98,Sports Club,Entrepreneur,No,SC
+IT,4,8,9.75,83,Photography Club,Robotics Engineer,Yes,Merit
+CS,1,1,6.71,98,Photography Club,Professor,Yes,ST
+EC,2,4,5.86,63,NSS,Data Scientist,No,ST
+RE,2,4,8.86,89,Robotics Club,Data Scientist,No,SC
+CS,2,4,6.15,80,Music Club,Professor,No,SC
+RE,2,3,8.84,95,Music Club,Software Engineer,Yes,SC
+AE,3,5,7.96,78,NSS,Research Scientist,No,ST
+CS,3,5,6.06,80,Drama Club,Research Scientist,No,OBC
+AI/ML,4,7,7.73,81,Coding Club,Research Scientist,No,ST
+IT,3,5,8.61,65,Coding Club,Pilot,Yes,ST
+IT,1,1,9.6,81,Drama Club,Data Scientist,Yes,Merit
+CE,2,3,7.47,74,Photography Club,Software Engineer,No,Merit
+AE,4,8,5.73,87,Coding Club,Data Scientist,Yes,OBC
+ETC,1,2,9.63,94,Photography Club,Research Scientist,No,EWS
+EE,3,6,8.55,79,Coding Club,Data Scientist,Yes,
+EC,1,2,7.52,94,Sports Club,Data Scientist,Yes,ST
+AI/ML,2,3,7.88,64,Drama Club,Pilot,Yes,SC
+IT,2,4,9.24,70,Drama Club,Research Scientist,Yes,
+IT,3,5,9.37,98,Sports Club,AI Engineer,No,
+RE,4,7,6.46,83,NCC,Research Scientist,No,SC
+IT,1,2,5.99,85,Coding Club,Entrepreneur,Yes,EWS
+CT,1,1,6.18,83,Music Club,Software Engineer,Yes,OBC
+DS,1,2,5.58,83,Music Club,Pilot,No,OBC
+IT,1,1,9.0,65,Robotics Club,Pilot,Yes,SC
+RE,2,3,6.49,65,Photography Club,Data Scientist,Yes,OBC
+CS,1,1,6.65,69,NSS,Data Scientist,Yes,
+AI/ML,1,2,6.24,81,NSS,Robotics Engineer,Yes,EWS
+CT,1,2,6.0,93,Coding Club,Entrepreneur,Yes,Merit
+IIOT,1,1,6.24,64,Sports Club,Pilot,No,OBC
+CE,4,8,7.44,77,NCC,Robotics Engineer,Yes,SC
+RE,1,2,9.82,88,Sports Club,AI Engineer,Yes,
+IIOT,4,7,6.82,100,Sports Club,Software Engineer,Yes,Merit
+CT,1,2,8.31,67,NSS,Research Scientist,No,ST
+EE,4,8,8.91,83,Drama Club,Robotics Engineer,No,OBC
+RE,2,3,6.0,67,Drama Club,Research Scientist,Yes,EWS
+DS,1,1,8.57,74,NSS,Pilot,No,Merit
+IIOT,1,1,8.31,96,Photography Club,Research Scientist,Yes,EWS
+RE,4,7,7.65,61,Robotics Club,Pilot,Yes,ST
+CT,3,6,8.37,89,Photography Club,AI Engineer,Yes,ST
+EE,1,2,8.2,94,Sports Club,Data Scientist,Yes,EWS
+AI/ML,4,7,7.49,87,Coding Club,Research Scientist,No,SC
+CT,1,1,6.9,65,Photography Club,Data Scientist,No,
+IT,1,1,7.01,75,Drama Club,Research Scientist,Yes,OBC
+IT,2,4,7.88,68,Sports Club,Data Scientist,Yes,SC
+EC,4,7,8.65,64,Music Club,Software Engineer,Yes,Merit
+RE,3,6,6.56,93,Robotics Club,Data Scientist,No,EWS
+EC,2,4,6.84,70,NCC,Software Engineer,No,
+EC,2,4,9.17,76,Sports Club,Robotics Engineer,No,
+AI/ML,3,6,7.55,86,Robotics Club,Research Scientist,Yes,
+AE,3,5,6.8,95,Robotics Club,AI Engineer,Yes,SC
+EC,2,4,5.99,67,Robotics Club,Software Engineer,No,Merit
+ME,2,3,8.7,69,Music Club,Pilot,No,ST
+RE,4,7,8.42,74,Drama Club,Software Engineer,No,OBC
+ME,4,8,8.89,92,Coding Club,Research Scientist,Yes,OBC
+CT,2,3,6.06,83,Robotics Club,Professor,No,SC
+IIOT,1,2,9.83,69,Robotics Club,Robotics Engineer,No,EWS
+IT,1,1,6.93,94,Music Club,Research Scientist,Yes,SC
+ME,2,4,5.93,64,Sports Club,Pilot,No,
+IT,1,2,6.98,64,NSS,Pilot,No,EWS
+AI/ML,4,7,7.84,69,Drama Club,Pilot,Yes,Merit
+CE,4,7,6.71,83,Sports Club,Research Scientist,Yes,ST
+EC,1,1,7.4,94,Coding Club,Robotics Engineer,Yes,EWS
+IIOT,4,8,8.68,93,Robotics Club,Pilot,No,Merit
+DS,1,2,7.91,76,Photography Club,Robotics Engineer,No,SC
+DS,2,4,9.23,80,NSS,Pilot,Yes,ST
+DS,3,6,6.4,95,Music Club,Software Engineer,Yes,OBC
+EE,1,1,6.17,68,Coding Club,Pilot,No,EWS
+DS,3,6,6.59,60,Music Club,Pilot,No,SC
+ETC,3,6,9.69,86,NCC,Robotics Engineer,No,EWS
+CS,1,1,9.06,68,Coding Club,Professor,No,Merit
+DS,1,1,9.37,65,Robotics Club,Robotics Engineer,Yes,SC
+ME,1,2,5.91,92,NSS,AI Engineer,No,EWS
+AE,3,6,9.63,83,NSS,Robotics Engineer,No,
+ETC,1,2,8.14,81,Coding Club,Data Scientist,No,Merit
+ME,2,4,9.54,95,Robotics Club,Research Scientist,No,
+CS,2,4,7.06,75,Sports Club,AI Engineer,Yes,OBC
+CT,4,8,7.76,84,Drama Club,Entrepreneur,Yes,EWS
+CS,3,5,8.24,87,Photography Club,Data Scientist,Yes,Merit
+IIOT,1,1,5.9,66,Drama Club,Professor,Yes,OBC
+CS,4,7,8.68,98,Sports Club,Pilot,No,
+CS,4,7,9.4,84,Drama Club,Data Scientist,No,Merit
+EE,4,7,8.91,69,Coding Club,AI Engineer,No,OBC
+ETC,3,6,7.33,100,Music Club,Entrepreneur,No,Merit
+CE,4,8,8.19,96,Drama Club,Entrepreneur,No,
+CE,2,3,6.65,86,Photography Club,Research Scientist,Yes,SC
+EE,3,6,8.22,65,Music Club,AI Engineer,No,ST
+DS,3,5,5.86,67,Photography Club,Professor,Yes,Merit
+RE,2,4,7.75,91,NCC,Robotics Engineer,No,SC
+DS,2,4,7.0,77,Coding Club,AI Engineer,Yes,Merit
+ETC,1,1,6.02,77,Music Club,Data Scientist,No,SC
+EC,4,8,9.58,81,Photography Club,AI Engineer,No,OBC
+AI/ML,3,5,5.95,77,NSS,Robotics Engineer,No,ST
+DS,1,2,5.58,87,Photography Club,Robotics Engineer,No,
+DS,2,4,9.5,100,Robotics Club,AI Engineer,No,EWS
+IIOT,3,6,6.45,81,Robotics Club,Pilot,No,EWS
+ME,3,6,9.14,76,Photography Club,Robotics Engineer,No,EWS
+CT,3,5,8.99,93,Sports Club,Entrepreneur,No,OBC
+AI/ML,4,7,7.41,62,Robotics Club,Professor,Yes,ST
+IT,1,1,7.88,90,NCC,Research Scientist,Yes,Merit
+RE,2,3,6.0,78,NCC,Software Engineer,Yes,EWS
+EC,4,8,5.55,65,Robotics Club,Research Scientist,Yes,
+EC,3,5,9.5,82,Photography Club,Software Engineer,Yes,ST
+ETC,3,5,8.77,76,Photography Club,Research Scientist,No,Merit
+RE,4,7,6.34,74,Robotics Club,AI Engineer,Yes,SC
+CS,2,4,8.41,69,NSS,Entrepreneur,No,OBC
+EC,4,8,8.58,75,Drama Club,Research Scientist,No,Merit
+CS,1,2,9.03,65,Coding Club,Robotics Engineer,Yes,OBC
+IIOT,4,8,9.68,65,NCC,Data Scientist,Yes,SC
+CS,3,5,6.96,87,Robotics Club,Software Engineer,Yes,
+CS,4,8,5.54,73,Sports Club,Entrepreneur,Yes,OBC
+ME,3,5,8.67,95,Photography Club,Professor,Yes,OBC
+IIOT,3,5,7.71,68,Robotics Club,Research Scientist,No,ST
+ETC,3,6,7.18,60,NSS,Software Engineer,No,SC
+CS,4,8,8.99,94,NCC,Robotics Engineer,Yes,ST
+RE,1,1,6.32,71,Music Club,Entrepreneur,No,Merit
+CS,4,7,8.22,64,NSS,Data Scientist,No,SC
+DS,4,7,8.56,83,NCC,Research Scientist,No,ST
+RE,3,5,6.56,82,Music Club,Research Scientist,No,
+CS,4,8,8.6,98,Sports Club,Professor,No,
+CT,4,7,9.0,69,NCC,Software Engineer,Yes,Merit
+AE,1,1,7.93,81,Coding Club,Pilot,No,
+ETC,2,4,6.98,95,NCC,Robotics Engineer,Yes,SC
+CS,1,1,6.92,74,Sports Club,Software Engineer,Yes,Merit
+AE,1,1,9.69,96,Drama Club,AI Engineer,No,SC
+CE,3,5,5.5,63,Drama Club,Entrepreneur,Yes,OBC
+EC,2,3,8.83,82,Sports Club,Research Scientist,No,SC
+AE,4,7,6.17,63,Music Club,Pilot,No,SC
+EC,3,6,9.88,82,NCC,Software Engineer,No,SC
+AE,3,6,8.75,76,Coding Club,Professor,Yes,
+RE,4,8,7.88,84,Photography Club,Professor,No,EWS
+CT,2,4,7.48,80,NCC,AI Engineer,Yes,SC
+CE,3,5,8.88,88,Coding Club,AI Engineer,Yes,SC
+IT,2,4,7.71,85,Photography Club,Entrepreneur,Yes,ST
+AI/ML,4,8,7.85,77,Drama Club,Pilot,No,Merit
+CE,1,1,7.58,90,Photography Club,Pilot,Yes,OBC
+IIOT,1,2,9.08,80,Photography Club,Pilot,No,SC
+CE,2,3,8.27,100,Robotics Club,Research Scientist,Yes,SC
+CT,2,4,9.18,99,Photography Club,Pilot,No,
+IT,3,6,7.39,89,NCC,Entrepreneur,Yes,ST
+CE,1,1,6.27,95,Robotics Club,Research Scientist,Yes,ST
+CS,4,8,7.2,68,NCC,Robotics Engineer,No,OBC
+IIOT,4,7,7.41,90,Robotics Club,Research Scientist,No,SC
+IT,2,3,7.43,61,Robotics Club,AI Engineer,Yes,
+CT,3,6,8.41,60,Drama Club,Research Scientist,Yes,Merit
+RE,1,2,9.03,100,Coding Club,AI Engineer,Yes,OBC
+ME,3,6,7.41,73,Coding Club,Research Scientist,Yes,SC
+AE,2,4,7.7,98,Music Club,Research Scientist,No,EWS
+AE,4,8,9.62,84,Photography Club,AI Engineer,Yes,SC
+AE,2,3,8.01,70,NCC,Professor,Yes,SC
+IT,4,8,8.34,87,Photography Club,Professor,Yes,EWS
+ME,3,6,7.91,74,NCC,Data Scientist,Yes,
+EC,2,4,7.16,95,Sports Club,Professor,Yes,Merit
+AE,3,5,7.21,68,Drama Club,Data Scientist,No,Merit
+CT,3,6,5.69,85,Music Club,Software Engineer,Yes,EWS
+IT,1,2,8.85,81,Drama Club,Data Scientist,No,SC
+DS,2,3,8.53,99,Photography Club,Entrepreneur,Yes,SC
+CT,3,6,5.64,73,NCC,Professor,No,
+CT,1,2,9.81,63,Photography Club,Pilot,Yes,ST
+EE,4,8,9.64,63,Photography Club,Research Scientist,Yes,OBC
+RE,2,4,6.47,61,NCC,Professor,No,SC
+EE,1,1,8.84,67,Sports Club,Robotics Engineer,No,OBC
+CT,3,6,8.35,76,Drama Club,AI Engineer,Yes,EWS
+CS,1,2,7.2,66,Photography Club,Robotics Engineer,Yes,Merit
+CE,2,4,7.92,88,Music Club,AI Engineer,No,SC
+EE,2,3,6.75,80,NCC,Pilot,Yes,
+AI/ML,2,4,9.74,80,Coding Club,Professor,No,EWS
+CS,1,1,7.09,97,NSS,AI Engineer,No,ST
+EC,1,2,6.48,61,Drama Club,Pilot,Yes,Merit
+DS,3,5,6.58,84,Music Club,Entrepreneur,No,Merit
+ME,2,3,7.7,60,Coding Club,Entrepreneur,No,ST
+EC,3,5,7.57,67,NCC,Data Scientist,No,SC
+EC,1,1,9.45,84,NCC,Robotics Engineer,Yes,OBC
+AE,2,4,6.28,70,NCC,AI Engineer,No,EWS
+IIOT,1,1,8.03,62,Photography Club,AI Engineer,No,OBC
+AE,3,6,9.57,67,Photography Club,Robotics Engineer,No,OBC
+IIOT,3,5,6.78,65,Sports Club,Pilot,No,ST
+IT,3,5,7.9,85,Robotics Club,Software Engineer,Yes,SC
+CT,2,4,8.87,93,Coding Club,Entrepreneur,No,ST
+AI/ML,3,6,8.58,75,Sports Club,Software Engineer,No,OBC
+DS,2,4,8.76,73,Music Club,Professor,No,
+AE,2,3,8.52,60,Photography Club,Software Engineer,Yes,ST
+CS,4,8,5.58,90,Photography Club,Robotics Engineer,Yes,Merit
+EE,4,8,6.0,96,NSS,Research Scientist,Yes,EWS
+RE,2,3,5.93,77,NCC,Software Engineer,Yes,ST
+CT,4,7,8.47,100,Music Club,Entrepreneur,Yes,
+CT,4,8,6.49,80,Photography Club,Research Scientist,Yes,SC
+CS,1,1,6.92,82,Sports Club,Robotics Engineer,Yes,SC
+IIOT,4,7,6.01,81,NSS,Robotics Engineer,No,EWS
+IIOT,1,1,8.07,79,Drama Club,Entrepreneur,Yes,EWS
+CT,2,4,7.6,82,Robotics Club,Research Scientist,No,EWS
+EC,3,5,8.92,81,NCC,Research Scientist,No,EWS
+EC,2,3,9.3,76,NCC,Data Scientist,No,ST
+ETC,3,6,6.3,71,Photography Club,Professor,No,ST
+CT,1,1,7.81,99,Photography Club,Software Engineer,Yes,SC
+CS,2,4,5.88,98,Sports Club,Pilot,No,Merit
+IT,3,6,5.58,84,NSS,AI Engineer,Yes,OBC
+IIOT,1,1,9.7,75,NCC,Pilot,No,SC
+CE,1,2,5.73,69,Music Club,AI Engineer,No,OBC
+RE,1,2,8.55,89,NCC,Robotics Engineer,No,SC
+CE,2,3,7.16,99,Photography Club,Software Engineer,No,SC
+CT,2,3,9.15,78,Coding Club,Data Scientist,No,Merit
+CE,4,8,9.22,93,Music Club,AI Engineer,Yes,SC
+CS,3,5,9.63,85,NSS,Software Engineer,No,EWS
+RE,4,8,8.34,90,NSS,Data Scientist,No,EWS
+CS,2,3,7.71,78,Photography Club,Data Scientist,Yes,Merit
+IT,1,2,5.88,90,NCC,Professor,No,
+CE,3,6,7.49,74,NSS,AI Engineer,No,
+CE,4,7,9.74,78,Drama Club,Robotics Engineer,Yes,SC
+AI/ML,4,8,6.26,72,Drama Club,Entrepreneur,No,OBC
+AE,3,6,9.26,76,Coding Club,Entrepreneur,Yes,ST
+CS,2,3,5.5,60,Photography Club,Software Engineer,Yes,
+ETC,3,6,8.53,60,Sports Club,Entrepreneur,Yes,EWS
+EC,1,1,8.03,84,Sports Club,Professor,Yes,SC
+IT,2,4,6.24,87,Sports Club,Data Scientist,No,ST
+CS,3,6,6.48,94,Music Club,Entrepreneur,No,EWS
+CS,3,5,7.2,61,NSS,Professor,No,ST
+IT,1,1,5.53,62,Sports Club,Pilot,No,Merit
+EE,2,4,9.35,81,NSS,Data Scientist,No,ST
+AE,2,3,6.55,89,Music Club,Entrepreneur,Yes,SC
+AI/ML,2,3,6.56,84,Coding Club,AI Engineer,No,ST
+RE,3,6,6.74,81,Sports Club,Robotics Engineer,Yes,Merit
+DS,3,5,6.53,74,Drama Club,Professor,No,SC
+ETC,2,4,6.14,73,Music Club,Software Engineer,No,ST
+DS,2,3,6.81,78,Robotics Club,Pilot,Yes,Merit
+CE,4,7,6.66,98,NCC,Professor,Yes,OBC
+AI/ML,1,2,9.72,67,Coding Club,Professor,No,
+EC,1,1,6.62,60,Music Club,Entrepreneur,Yes,Merit
+DS,4,8,8.7,66,Music Club,Professor,Yes,ST
+EE,1,1,9.88,100,Drama Club,Robotics Engineer,No,Merit
+IT,4,7,9.72,86,NCC,Data Scientist,Yes,Merit
+CE,2,3,7.85,63,Robotics Club,AI Engineer,Yes,ST
+EC,1,2,8.58,71,Coding Club,Data Scientist,No,ST
+EC,3,5,6.53,67,NSS,Professor,No,ST
+AE,1,1,5.58,60,Music Club,Software Engineer,No,ST
+ME,1,1,5.9,78,Photography Club,Robotics Engineer,No,ST
+IIOT,3,6,9.69,90,Drama Club,Robotics Engineer,Yes,SC
+AI/ML,4,7,8.94,88,Robotics Club,AI Engineer,Yes,ST
+AI/ML,1,1,9.89,87,Drama Club,Pilot,Yes,ST
+IT,1,1,6.23,63,Drama Club,Software Engineer,No,OBC
+CS,4,7,7.19,64,Robotics Club,Data Scientist,No,OBC
+ETC,4,7,6.38,64,NCC,Robotics Engineer,No,SC
+CS,3,5,8.58,62,Music Club,Data Scientist,No,OBC
+CE,1,2,8.32,77,Drama Club,Professor,Yes,SC
+ME,1,2,8.25,71,Sports Club,Research Scientist,No,OBC
+ETC,4,8,7.18,96,Music Club,Pilot,Yes,OBC
+IT,3,6,5.56,62,Coding Club,Professor,No,ST
+IIOT,2,4,7.14,77,NCC,Professor,Yes,ST
+CE,1,2,6.65,98,NCC,Robotics Engineer,No,Merit
+CE,4,8,9.84,92,Drama Club,Robotics Engineer,Yes,OBC
+IIOT,3,5,9.51,87,Coding Club,Professor,No,
+IT,4,7,7.59,84,NCC,Professor,Yes,Merit
+RE,1,1,8.35,98,NSS,Software Engineer,No,OBC
+CS,4,8,9.54,88,NSS,Research Scientist,Yes,ST
+AE,3,6,6.4,91,Music Club,Robotics Engineer,Yes,OBC
+CT,4,7,8.06,73,Sports Club,Data Scientist,No,
+EE,4,8,9.07,80,Photography Club,Robotics Engineer,No,
+AE,2,3,6.26,65,Photography Club,Data Scientist,No,OBC
+AI/ML,1,2,6.45,72,Robotics Club,Entrepreneur,Yes,Merit
+ETC,3,5,9.69,65,Drama Club,Entrepreneur,Yes,EWS
+IIOT,2,4,6.5,75,NSS,Pilot,Yes,OBC
+CS,2,3,8.64,95,Drama Club,Entrepreneur,No,OBC
+CT,4,8,8.43,73,Sports Club,Research Scientist,No,EWS
+AE,3,6,6.85,73,Music Club,Professor,Yes,SC
+IT,2,4,7.36,99,Drama Club,AI Engineer,Yes,ST
+EC,4,8,5.96,80,NCC,Research Scientist,No,
+ETC,1,1,5.53,78,Coding Club,Entrepreneur,No,SC
+IIOT,1,2,9.6,98,Sports Club,Software Engineer,No,ST
+EC,1,2,7.31,69,Music Club,Professor,No,SC
+EE,4,8,9.7,91,NCC,Software Engineer,Yes,SC
+IIOT,3,5,6.67,66,Photography Club,Software Engineer,Yes,SC
+CS,3,5,7.16,82,Robotics Club,Entrepreneur,No,SC
+RE,4,8,7.78,99,Music Club,Data Scientist,No,ST
+CT,4,8,9.41,94,Drama Club,Entrepreneur,Yes,OBC
+AI/ML,4,8,8.23,61,Music Club,Robotics Engineer,Yes,EWS
+EC,4,8,7.11,71,NCC,AI Engineer,Yes,SC
+ME,2,3,8.75,78,Music Club,Robotics Engineer,No,EWS
+IT,4,7,5.65,66,Robotics Club,AI Engineer,No,
+RE,4,7,8.69,67,Photography Club,Research Scientist,Yes,EWS
+CE,1,2,6.28,67,Photography Club,AI Engineer,No,Merit
+ME,1,1,7.36,79,NSS,Professor,No,ST
+EC,1,2,8.47,93,Robotics Club,Professor,No,SC
+ME,2,4,7.19,61,Photography Club,Entrepreneur,No,OBC
+RE,4,7,6.87,100,Photography Club,Research Scientist,Yes,Merit
+IT,4,8,6.41,73,Sports Club,Research Scientist,No,EWS
+ETC,3,5,6.89,85,Sports Club,AI Engineer,No,ST
+RE,4,8,7.19,83,Robotics Club,Entrepreneur,No,OBC
+EC,4,8,6.71,72,Drama Club,Pilot,Yes,SC
+IIOT,1,2,5.68,93,Robotics Club,Research Scientist,No,OBC
+ME,1,1,5.97,83,Photography Club,Entrepreneur,No,ST
+AE,2,3,5.93,88,NCC,AI Engineer,No,
+ME,4,7,7.93,62,NSS,Data Scientist,Yes,
+EC,2,4,7.27,86,NCC,Data Scientist,Yes,Merit
+CS,3,6,7.66,66,Robotics Club,AI Engineer,Yes,ST
+CE,3,5,7.09,70,Photography Club,Research Scientist,Yes,EWS
+DS,3,6,5.59,84,Photography Club,AI Engineer,Yes,OBC
+DS,4,7,7.19,77,NSS,Pilot,No,ST
+AI/ML,2,4,6.04,72,Robotics Club,Pilot,No,EWS
+RE,2,3,7.56,92,Sports Club,Software Engineer,No,OBC
+ME,3,6,6.57,69,Drama Club,Entrepreneur,No,Merit
+RE,4,7,6.79,81,Music Club,Robotics Engineer,Yes,EWS
+RE,4,7,5.63,75,Photography Club,Entrepreneur,No,OBC
+AE,1,2,8.28,89,NSS,Research Scientist,No,OBC
+EC,4,8,5.81,68,Sports Club,Research Scientist,Yes,EWS
+CS,4,8,6.23,73,NCC,Software Engineer,No,Merit
+CE,4,7,8.56,85,NSS,Entrepreneur,No,
+DS,4,7,6.84,96,Drama Club,Software Engineer,Yes,EWS
+CE,3,5,8.02,91,Photography Club,Pilot,No,SC
+AE,1,2,6.36,62,NCC,Pilot,No,
+CE,4,7,7.03,68,Coding Club,Entrepreneur,Yes,OBC
+IIOT,4,8,7.87,80,NSS,Research Scientist,Yes,Merit
+RE,3,6,7.67,79,Music Club,AI Engineer,No,SC
+AE,2,4,9.81,64,Sports Club,Research Scientist,Yes,
+AE,2,3,8.33,69,NCC,AI Engineer,No,EWS
+CS,3,6,9.03,93,NSS,Entrepreneur,No,Merit
+CE,4,8,5.82,90,Music Club,Robotics Engineer,Yes,SC
+RE,4,8,6.48,68,Robotics Club,Data Scientist,No,Merit
+ETC,3,6,8.42,84,NSS,AI Engineer,Yes,SC
+EC,3,5,7.5,92,Sports Club,AI Engineer,Yes,OBC
+CE,2,4,8.71,77,Music Club,Pilot,Yes,
+ETC,1,2,5.71,78,NCC,Professor,Yes,
+AI/ML,2,4,9.56,67,NCC,Entrepreneur,Yes,ST
+AE,3,5,9.1,63,Photography Club,Pilot,Yes,ST
+CS,2,3,7.35,64,NCC,Research Scientist,No,Merit
+ETC,2,4,8.96,89,Coding Club,Professor,No,
+CS,1,2,8.18,80,Robotics Club,AI Engineer,Yes,
+AE,4,8,7.83,91,Robotics Club,Professor,Yes,SC
+ETC,3,5,9.35,80,Robotics Club,Research Scientist,No,OBC
+CS,2,4,6.4,88,Coding Club,Entrepreneur,Yes,EWS
+DS,2,3,9.23,89,Coding Club,Professor,Yes,
+ME,4,7,8.99,85,Photography Club,Pilot,Yes,SC
+IT,4,8,8.97,71,NSS,Software Engineer,Yes,EWS
+AE,4,7,6.7,99,Robotics Club,AI Engineer,No,
+RE,3,6,8.92,82,Photography Club,Robotics Engineer,Yes,EWS
+EE,4,7,8.55,72,NCC,Professor,No,Merit
+IT,4,8,8.89,77,Robotics Club,Pilot,Yes,
+CS,1,2,6.56,60,NCC,Software Engineer,No,OBC
+DS,4,8,7.81,75,Drama Club,Entrepreneur,No,OBC
+AE,4,7,8.28,88,NCC,Robotics Engineer,Yes,OBC
+RE,3,5,7.45,61,Photography Club,AI Engineer,Yes,OBC
+ETC,4,7,8.5,73,Photography Club,Software Engineer,No,
+ETC,1,1,8.43,92,Sports Club,Robotics Engineer,Yes,Merit
+IT,4,7,5.88,66,Drama Club,Software Engineer,Yes,OBC
+IT,2,3,8.54,82,Coding Club,Entrepreneur,No,EWS
+DS,3,6,9.89,93,Robotics Club,Software Engineer,Yes,
+RE,4,7,8.6,82,NCC,Software Engineer,Yes,
+EE,1,2,9.89,77,Photography Club,Pilot,No,ST
+RE,1,2,7.77,82,Music Club,Data Scientist,Yes,OBC
+AI/ML,4,8,5.87,72,Photography Club,Data Scientist,Yes,Merit
+CE,1,1,9.83,74,Drama Club,AI Engineer,Yes,OBC
+CS,4,8,8.03,77,Photography Club,Robotics Engineer,No,OBC
+ETC,2,3,9.17,61,Music Club,Entrepreneur,Yes,OBC
+RE,3,6,7.53,69,Robotics Club,Robotics Engineer,No,SC
+CE,4,7,9.89,86,Music Club,Data Scientist,No,OBC
+ME,3,6,8.14,96,Coding Club,Research Scientist,No,SC
+AE,2,3,9.32,99,Photography Club,Data Scientist,No,
+AI/ML,1,2,6.6,81,Sports Club,Research Scientist,No,SC
+ME,3,6,5.99,63,NCC,AI Engineer,Yes,ST
+AI/ML,4,7,5.9,76,Music Club,Professor,Yes,Merit
+EC,1,1,7.36,69,Robotics Club,AI Engineer,No,EWS
+EE,4,8,7.14,73,Robotics Club,Software Engineer,No,Merit
+CS,3,5,7.25,61,Music Club,Robotics Engineer,No,ST
+CT,2,3,6.27,63,NCC,Entrepreneur,No,OBC
+AI/ML,2,3,9.68,83,Music Club,Robotics Engineer,No,EWS
+IIOT,3,5,6.85,87,NCC,Entrepreneur,Yes,OBC
+DS,4,7,9.33,77,NSS,Robotics Engineer,Yes,Merit
+ETC,4,8,8.56,60,Robotics Club,Professor,No,Merit
+EC,2,4,9.08,70,NCC,Robotics Engineer,Yes,OBC
+CS,1,1,8.59,75,Robotics Club,Data Scientist,Yes,ST
+ETC,4,7,6.27,78,NCC,Entrepreneur,Yes,
+AI/ML,3,6,7.03,92,Photography Club,Software Engineer,Yes,
+DS,3,6,7.27,63,NCC,Professor,No,EWS
+CS,2,4,7.39,81,Coding Club,Research Scientist,Yes,Merit
+CT,1,2,9.75,92,NCC,Data Scientist,Yes,ST
+EC,2,4,7.5,61,NSS,Robotics Engineer,Yes,EWS
+IIOT,4,7,9.13,67,Coding Club,Robotics Engineer,Yes,
+EE,1,1,8.14,75,NCC,Software Engineer,No,OBC
+EC,4,8,9.77,76,NCC,Professor,No,
+IT,4,7,9.17,78,Drama Club,AI Engineer,Yes,EWS
+EC,3,5,7.47,83,Sports Club,Pilot,Yes,Merit
+ETC,3,6,9.09,78,Robotics Club,Data Scientist,No,
+IT,4,7,9.5,67,Music Club,Professor,Yes,ST
+EC,4,8,9.7,95,Coding Club,AI Engineer,Yes,EWS
+AE,1,2,5.9,75,Robotics Club,AI Engineer,No,Merit
+IIOT,2,4,9.27,83,Photography Club,Research Scientist,Yes,
+IIOT,2,4,5.52,100,Photography Club,Professor,Yes,Merit
+IT,3,5,9.23,62,Drama Club,AI Engineer,Yes,Merit
+IIOT,1,2,8.28,76,NCC,Pilot,Yes,
+CE,1,1,9.1,68,Robotics Club,Research Scientist,Yes,ST
+RE,4,7,8.43,70,Photography Club,Research Scientist,Yes,OBC
+ME,2,3,8.91,69,Drama Club,Entrepreneur,No,SC
+IIOT,3,6,7.23,100,Music Club,Software Engineer,No,
+ETC,2,3,8.57,94,Photography Club,Software Engineer,No,ST
+ME,4,8,5.72,95,Coding Club,Professor,No,OBC
+IT,2,4,6.45,75,NSS,Data Scientist,Yes,EWS
+ME,4,7,9.84,67,NSS,Pilot,No,SC
+IT,3,5,6.15,98,Music Club,Research Scientist,Yes,
+CE,2,3,9.1,71,Photography Club,Pilot,Yes,OBC
+CS,2,3,9.7,64,Robotics Club,Entrepreneur,Yes,
+EC,3,6,8.67,85,NCC,Data Scientist,No,Merit
+DS,1,1,6.02,80,Photography Club,AI Engineer,No,ST
+CT,4,8,6.72,76,Sports Club,Software Engineer,Yes,SC
+IT,1,2,8.16,65,Coding Club,Data Scientist,Yes,Merit
+CT,4,7,7.33,69,Photography Club,Robotics Engineer,No,OBC
+AE,3,6,7.09,79,Photography Club,Data Scientist,No,Merit
+ME,2,3,5.69,99,Photography Club,AI Engineer,No,ST
+AI/ML,2,3,9.48,64,Sports Club,Entrepreneur,No,
+AI/ML,1,1,6.59,87,Drama Club,Research Scientist,No,OBC
+CT,3,5,6.88,84,Music Club,Robotics Engineer,Yes,ST
+CS,3,6,8.82,77,Robotics Club,Entrepreneur,Yes,Merit
+EC,4,8,8.65,77,Music Club,Pilot,No,Merit
+EE,1,2,8.99,78,Coding Club,Professor,No,Merit
+AI/ML,3,6,5.99,78,Sports Club,Research Scientist,No,
+IIOT,3,6,9.38,63,Robotics Club,AI Engineer,No,OBC
+RE,3,5,8.81,88,Coding Club,AI Engineer,No,
+AE,1,1,9.24,96,NCC,Entrepreneur,No,
+CS,1,1,9.89,66,Music Club,Data Scientist,No,ST
+AI/ML,1,2,7.56,71,NSS,Professor,Yes,
+AI/ML,4,8,9.03,77,Photography Club,Pilot,Yes,
+CS,4,7,8.43,68,Drama Club,Robotics Engineer,Yes,Merit
+CE,4,8,9.7,89,Coding Club,AI Engineer,Yes,
+AI/ML,4,7,6.28,94,Robotics Club,AI Engineer,No,SC
+AE,2,3,8.0,73,Music Club,Software Engineer,No,SC
+ETC,2,3,5.75,82,Music Club,Research Scientist,Yes,Merit
+AE,4,7,9.68,78,Coding Club,Professor,Yes,EWS
+DS,1,1,7.1,74,NSS,AI Engineer,No,SC
+IT,4,8,7.67,90,Sports Club,Robotics Engineer,No,Merit
+IIOT,1,1,7.45,75,NSS,Research Scientist,No,Merit
+EC,4,8,6.32,79,Robotics Club,Data Scientist,Yes,EWS
+IT,3,6,8.65,96,Coding Club,AI Engineer,Yes,ST
+IT,2,3,6.33,88,Coding Club,Pilot,Yes,
+EE,2,4,7.02,68,Robotics Club,Pilot,Yes,OBC
+ETC,1,1,8.62,84,Drama Club,Professor,Yes,SC
+CS,2,4,6.63,77,Sports Club,Robotics Engineer,No,SC
+EE,1,2,6.88,87,Photography Club,Research Scientist,No,SC
+RE,3,5,6.99,77,Drama Club,Data Scientist,Yes,SC
+CS,2,4,7.31,88,Drama Club,Professor,No,ST
+ME,3,5,8.87,80,Drama Club,Software Engineer,No,ST
+AE,2,4,6.64,66,Sports Club,Pilot,Yes,ST
+AE,1,1,7.25,96,Coding Club,Research Scientist,Yes,Merit
+ME,2,4,9.05,96,Robotics Club,Professor,No,Merit
+EE,2,3,7.64,64,NCC,Robotics Engineer,No,ST
+ETC,3,5,7.56,96,Music Club,Data Scientist,Yes,ST
+ME,1,1,6.42,69,Coding Club,Research Scientist,Yes,EWS
+AI/ML,3,5,9.78,77,Drama Club,Robotics Engineer,Yes,
+EE,4,8,8.03,79,NCC,Software Engineer,No,Merit
+IT,2,4,9.29,99,Music Club,Robotics Engineer,No,OBC
+CT,3,5,9.16,79,Sports Club,AI Engineer,Yes,OBC
+DS,1,1,9.05,73,Photography Club,AI Engineer,Yes,
+IT,1,1,6.66,90,Music Club,Data Scientist,No,
+EC,1,2,9.78,82,NCC,Entrepreneur,Yes,ST
+EC,4,7,6.7,76,Drama Club,Data Scientist,No,ST
+IT,2,4,8.17,63,Drama Club,Data Scientist,Yes,
+DS,2,3,9.4,65,Music Club,Robotics Engineer,Yes,SC
+CE,1,2,8.05,69,NCC,Research Scientist,No,
+ME,3,5,5.9,82,Photography Club,Software Engineer,No,ST
+EE,3,5,9.06,86,Robotics Club,Research Scientist,No,Merit
+CS,3,5,6.91,65,Sports Club,Research Scientist,No,SC
+CT,1,1,8.77,96,NCC,Software Engineer,No,OBC
+EE,3,5,9.75,79,Photography Club,Research Scientist,Yes,OBC
+CS,1,1,6.36,67,Photography Club,Pilot,No,Merit
+DS,3,6,7.59,91,NSS,Software Engineer,Yes,EWS
+RE,2,4,7.09,75,NSS,Robotics Engineer,Yes,ST
+RE,4,7,9.55,72,Music Club,Entrepreneur,No,ST
+ETC,4,7,9.85,73,Music Club,AI Engineer,Yes,Merit
+IIOT,2,3,8.53,77,NSS,Professor,Yes,OBC
+RE,3,5,6.82,86,NCC,Software Engineer,No,EWS
+EE,3,5,8.5,97,Robotics Club,Software Engineer,No,SC
+IT,1,2,6.72,75,NCC,Robotics Engineer,Yes,
+RE,4,8,6.9,67,Music Club,Entrepreneur,Yes,
+ME,2,4,6.68,73,Photography Club,Research Scientist,No,ST
+CE,4,7,5.66,73,Robotics Club,Pilot,Yes,OBC
+IT,3,5,6.12,94,NSS,Research Scientist,No,SC
+RE,4,8,5.79,68,Sports Club,Robotics Engineer,Yes,EWS
+EC,3,5,7.12,95,Music Club,Robotics Engineer,No,ST
+ETC,3,5,9.58,89,Sports Club,Entrepreneur,No,Merit
+EE,4,8,8.13,63,NCC,Pilot,No,ST
+ETC,1,2,7.19,99,NCC,Entrepreneur,No,
+IT,3,6,6.76,69,Music Club,Software Engineer,No,SC
+AE,1,1,6.08,80,Music Club,Entrepreneur,Yes,
+AE,3,5,5.78,69,Music Club,AI Engineer,No,SC
+CS,4,8,9.74,95,NSS,Software Engineer,No,ST
+CS,3,5,7.84,67,Music Club,Entrepreneur,No,ST
+ETC,4,7,7.94,100,Photography Club,Research Scientist,Yes,OBC
+AI/ML,2,4,9.64,60,NCC,Software Engineer,No,ST
+CT,3,6,6.86,93,NCC,Professor,No,EWS
+IT,2,3,8.82,69,Robotics Club,Entrepreneur,Yes,Merit
+ME,2,4,8.8,93,Robotics Club,AI Engineer,Yes,Merit
+AE,2,4,8.01,65,Photography Club,Entrepreneur,Yes,EWS
+CE,1,1,7.16,100,NSS,Research Scientist,Yes,
+CT,4,8,7.39,82,Music Club,Entrepreneur,Yes,
+RE,2,4,6.11,74,NSS,AI Engineer,No,OBC
+EC,3,6,8.29,65,NSS,AI Engineer,Yes,Merit
+DS,4,7,6.82,62,Drama Club,Software Engineer,Yes,OBC
+RE,4,8,8.7,72,NCC,AI Engineer,No,SC
+ME,3,6,8.59,60,Coding Club,Professor,No,OBC
+IT,3,6,8.6,66,Photography Club,Entrepreneur,Yes,
+IT,3,5,6.04,99,Music Club,Software Engineer,Yes,ST
+DS,2,4,9.05,67,NSS,Research Scientist,Yes,OBC
+AE,1,1,6.56,65,Sports Club,Entrepreneur,No,SC
+DS,1,2,9.52,64,NSS,Professor,Yes,OBC
+AI/ML,3,6,6.01,95,Sports Club,Entrepreneur,Yes,EWS
+CT,1,1,8.03,84,Coding Club,Professor,No,SC
+EE,4,7,7.16,61,Robotics Club,Research Scientist,Yes,SC
+RE,2,4,7.1,76,Sports Club,Data Scientist,Yes,
+CT,3,6,7.89,83,Sports Club,Pilot,Yes,
+EE,2,3,8.72,78,Sports Club,Professor,No,OBC
+IIOT,1,1,9.39,85,Music Club,Research Scientist,Yes,EWS
+EC,4,7,5.9,80,Photography Club,Robotics Engineer,No,
+CS,3,5,6.36,99,NSS,AI Engineer,Yes,
+IIOT,2,3,7.98,69,Photography Club,Data Scientist,Yes,EWS
+RE,4,8,8.26,71,Coding Club,Research Scientist,Yes,
+IIOT,1,1,6.0,79,Drama Club,Research Scientist,No,OBC
+CE,2,4,9.28,84,Drama Club,Software Engineer,Yes,
+CE,4,7,6.95,82,Photography Club,Entrepreneur,Yes,SC
+ME,1,1,6.84,65,Robotics Club,Data Scientist,No,EWS
+CT,2,4,7.5,84,Music Club,Software Engineer,Yes,SC
+EC,2,4,5.8,84,Coding Club,Research Scientist,Yes,EWS
+CE,3,6,6.54,92,Coding Club,Software Engineer,No,
+ME,1,1,8.18,71,Photography Club,Entrepreneur,No,Merit
+RE,2,4,7.26,77,Photography Club,Pilot,No,SC
+DS,4,7,6.93,73,Photography Club,AI Engineer,No,OBC
+AI/ML,2,4,8.21,91,Drama Club,AI Engineer,Yes,
+ETC,2,3,7.92,86,Coding Club,Professor,No,ST
+DS,2,3,7.73,96,NCC,AI Engineer,No,Merit
+DS,3,6,6.51,67,NCC,Robotics Engineer,No,EWS
+CS,2,3,8.11,70,Sports Club,Pilot,Yes,EWS
+ME,1,1,6.13,66,Robotics Club,Data Scientist,No,ST
+CS,4,8,7.23,69,Photography Club,Software Engineer,Yes,Merit
+CT,3,5,5.97,82,Drama Club,Data Scientist,No,SC
+EC,1,2,5.91,67,Sports Club,Professor,Yes,OBC
+CS,1,1,5.72,61,Coding Club,AI Engineer,Yes,
+DS,2,3,8.4,78,NSS,Entrepreneur,No,EWS
+EC,3,6,8.27,97,Photography Club,Robotics Engineer,Yes,Merit
+CT,1,1,7.32,66,Drama Club,Research Scientist,Yes,Merit
+CE,1,1,6.39,62,Drama Club,Research Scientist,No,EWS
+ETC,1,1,7.89,62,Coding Club,Pilot,Yes,SC
+ETC,3,6,5.89,86,Sports Club,Software Engineer,Yes,ST
+EE,2,4,7.67,92,Sports Club,Pilot,Yes,ST
+IIOT,2,4,8.61,93,Coding Club,Research Scientist,Yes,ST
+AI/ML,4,8,5.76,100,Sports Club,Data Scientist,No,Merit
+IT,2,4,8.11,63,Drama Club,AI Engineer,Yes,EWS
+ETC,3,6,5.52,79,Sports Club,Professor,Yes,Merit
+ETC,2,4,9.54,99,Music Club,Research Scientist,Yes,
+CE,1,1,7.23,88,NCC,Professor,Yes,SC
+CE,2,3,5.99,97,NCC,Software Engineer,Yes,SC
+DS,1,1,7.57,90,Coding Club,Pilot,No,OBC
+CT,4,8,5.54,96,Drama Club,Robotics Engineer,Yes,ST
+CS,4,8,5.62,89,Sports Club,Professor,Yes,ST
+CT,2,4,7.72,92,Coding Club,Data Scientist,No,ST
+EC,1,1,8.68,99,Sports Club,Professor,Yes,Merit
+EE,3,6,5.86,98,Sports Club,Pilot,Yes,ST
+AE,4,8,5.85,87,Sports Club,Entrepreneur,No,
+RE,3,5,7.96,81,Coding Club,Professor,Yes,OBC
+CS,1,1,5.96,100,Music Club,Pilot,No,EWS
+AE,2,3,6.98,87,Music Club,Robotics Engineer,Yes,Merit
+AI/ML,1,2,6.33,88,Music Club,AI Engineer,Yes,Merit
+IIOT,4,8,8.28,85,Coding Club,Research Scientist,No,OBC
+DS,2,3,7.73,95,Music Club,Software Engineer,No,SC
+IT,1,1,7.92,89,Photography Club,Software Engineer,Yes,SC
+RE,2,4,9.46,61,NSS,AI Engineer,No,OBC
+EC,2,4,6.94,93,Robotics Club,Research Scientist,Yes,EWS
+IT,1,1,8.63,75,Music Club,Robotics Engineer,No,OBC
+CE,1,1,9.0,94,NSS,Research Scientist,Yes,Merit
+RE,3,5,8.08,91,Sports Club,Entrepreneur,No,SC
+AE,2,3,9.76,88,NCC,Robotics Engineer,No,Merit
+AI/ML,2,3,7.92,81,NCC,Research Scientist,Yes,OBC
+IT,1,1,7.53,77,NCC,Data Scientist,Yes,EWS
+CS,3,6,6.03,68,Coding Club,Robotics Engineer,Yes,Merit
+RE,4,7,8.7,82,Robotics Club,Professor,Yes,SC
+DS,3,6,7.69,82,NSS,Software Engineer,No,ST
+RE,4,8,8.75,67,Music Club,Research Scientist,No,
+CE,2,3,7.68,66,Drama Club,AI Engineer,No,
+IT,1,2,9.64,75,NCC,AI Engineer,Yes,EWS
+EE,1,1,8.23,68,Coding Club,AI Engineer,Yes,OBC
+CT,1,1,6.57,89,Coding Club,Data Scientist,No,SC
+CT,4,8,8.71,85,Coding Club,Research Scientist,No,ST
+DS,4,8,7.69,99,Photography Club,Research Scientist,No,
+EC,3,6,8.64,75,NSS,Professor,No,EWS
+IT,1,2,7.17,96,NSS,Entrepreneur,No,
+ME,3,6,7.1,75,Coding Club,AI Engineer,No,OBC
+CS,2,3,8.65,99,Music Club,Entrepreneur,Yes,
+RE,3,6,8.06,79,Robotics Club,Robotics Engineer,No,EWS
+IIOT,3,6,7.26,68,Robotics Club,Professor,No,EWS
+IT,2,3,6.08,78,NSS,Research Scientist,Yes,OBC
+DS,4,8,6.53,89,Music Club,Robotics Engineer,No,EWS
+CS,3,6,6.33,89,Drama Club,Robotics Engineer,No,Merit
+CT,2,4,5.73,94,NCC,Robotics Engineer,No,ST
+ETC,2,4,6.86,92,Drama Club,Pilot,No,EWS
+CE,3,5,5.89,77,Sports Club,Entrepreneur,Yes,EWS
+AE,1,2,8.05,64,Robotics Club,Pilot,Yes,SC
+ME,4,8,8.4,64,Sports Club,Data Scientist,Yes,ST
+IIOT,1,2,5.7,91,Photography Club,Research Scientist,No,EWS
+DS,3,5,9.33,100,Music Club,AI Engineer,Yes,Merit
+EC,1,1,6.95,94,Photography Club,Software Engineer,Yes,SC
+DS,3,6,7.84,90,Sports Club,Entrepreneur,No,Merit
+IIOT,4,8,9.85,96,Music Club,AI Engineer,Yes,EWS
+ETC,1,1,9.84,77,Music Club,AI Engineer,Yes,Merit
+ME,1,1,7.87,60,Robotics Club,Pilot,Yes,Merit
+CS,3,5,9.47,63,Drama Club,AI Engineer,No,Merit
+IT,4,7,5.57,81,Music Club,Entrepreneur,Yes,Merit
+CT,2,3,6.6,98,Coding Club,Research Scientist,No,ST
+AE,1,2,7.28,68,NCC,Entrepreneur,No,EWS
+ME,2,3,6.9,88,Photography Club,Entrepreneur,Yes,EWS
+EC,4,8,9.71,95,Sports Club,Robotics Engineer,No,
+CS,1,2,9.06,76,Coding Club,Robotics Engineer,No,ST
+EE,3,6,9.32,62,Photography Club,Data Scientist,No,Merit
+ME,4,8,7.0,84,Sports Club,Research Scientist,Yes,
+EE,1,1,6.16,72,Music Club,Research Scientist,Yes,EWS
+RE,1,1,8.28,92,Drama Club,Research Scientist,Yes,
+EE,4,7,7.33,63,NSS,Software Engineer,Yes,Merit
+ETC,2,4,8.57,91,Robotics Club,Software Engineer,No,
+CS,4,8,9.13,89,Sports Club,Research Scientist,Yes,ST
+DS,1,2,6.71,80,Drama Club,Entrepreneur,No,SC
+RE,1,1,8.0,97,NCC,Robotics Engineer,No,OBC
+AI/ML,1,2,6.15,89,Robotics Club,Research Scientist,No,ST
+ETC,3,6,8.05,67,Photography Club,Professor,Yes,OBC
+CT,2,3,7.59,92,NCC,Professor,No,ST
+EC,2,4,7.58,76,Photography Club,Pilot,No,ST
+EE,2,4,6.68,81,NSS,Research Scientist,Yes,EWS
+EC,2,4,8.2,94,NSS,Robotics Engineer,Yes,SC
+DS,4,7,8.83,64,NCC,Research Scientist,No,ST
+ME,3,5,6.35,80,Coding Club,Entrepreneur,Yes,OBC
+RE,4,8,8.17,89,Robotics Club,Pilot,No,ST
+IIOT,1,2,8.18,80,Music Club,Research Scientist,No,Merit
+AE,4,7,6.55,87,NSS,Entrepreneur,No,EWS
+AI/ML,4,8,7.04,91,NSS,Entrepreneur,Yes,ST
+CS,3,6,5.81,61,Sports Club,Data Scientist,No,OBC
+AI/ML,1,1,5.92,71,Robotics Club,AI Engineer,No,Merit
+AI/ML,4,8,9.39,68,Music Club,Data Scientist,Yes,SC
+CE,4,8,5.51,67,NCC,Entrepreneur,No,Merit
+EC,3,5,7.42,100,Music Club,Entrepreneur,Yes,Merit
+EC,3,5,9.24,81,Coding Club,AI Engineer,No,SC
+CT,2,4,7.88,64,Music Club,Research Scientist,Yes,
+EE,2,4,6.94,92,Coding Club,Software Engineer,Yes,SC
+CT,3,6,6.23,92,Coding Club,Professor,No,Merit
+IIOT,4,7,6.8,81,Music Club,AI Engineer,Yes,Merit
+DS,2,3,5.6,67,Photography Club,Software Engineer,Yes,ST
+AE,2,4,5.8,92,Music Club,Professor,No,SC
+CT,4,7,8.14,71,Photography Club,Data Scientist,Yes,OBC
+ME,2,3,7.58,60,Coding Club,Software Engineer,Yes,
+AE,2,4,7.56,95,Drama Club,Research Scientist,No,Merit
+CE,2,3,8.66,62,NCC,Professor,Yes,EWS
+IIOT,2,3,5.92,70,Drama Club,Data Scientist,Yes,
+IT,1,1,6.01,92,NSS,Data Scientist,Yes,Merit
+DS,2,3,7.05,61,Sports Club,Pilot,Yes,Merit
+EC,2,4,8.94,93,Photography Club,Data Scientist,Yes,SC
+IT,3,5,6.06,83,Sports Club,Research Scientist,Yes,SC
+ME,1,2,8.83,96,Sports Club,Professor,Yes,EWS
+EE,2,3,6.51,67,Photography Club,Professor,Yes,SC
+IIOT,4,8,9.21,63,Sports Club,Professor,No,ST
+IIOT,2,4,7.48,83,Coding Club,Professor,Yes,ST
+ME,1,2,8.84,66,Coding Club,Pilot,No,Merit
+AI/ML,1,1,9.26,71,Coding Club,Entrepreneur,No,ST
+ME,2,3,8.81,87,NSS,Research Scientist,Yes,Merit
+CS,1,1,9.4,75,Sports Club,Entrepreneur,No,
+EE,3,6,8.95,72,Sports Club,Software Engineer,Yes,EWS
+IIOT,2,3,9.81,88,Robotics Club,Entrepreneur,Yes,OBC
+CT,3,5,9.12,77,Photography Club,Research Scientist,No,OBC
+RE,2,4,6.23,65,Coding Club,Software Engineer,Yes,
+ETC,4,8,5.79,72,Photography Club,Data Scientist,No,
+EC,3,5,6.64,83,Photography Club,Entrepreneur,No,OBC
+EE,2,3,8.79,83,NCC,Data Scientist,Yes,SC
+RE,3,5,9.23,86,Music Club,Professor,Yes,SC
+CS,3,6,9.19,81,Coding Club,Software Engineer,Yes,OBC
+EC,2,3,6.21,78,NSS,Robotics Engineer,No,OBC
+AI/ML,4,7,8.96,73,Music Club,Pilot,Yes,OBC
+ME,1,2,8.63,72,NCC,Professor,No,Merit
+AE,2,4,5.55,84,NCC,Research Scientist,Yes,
+RE,3,5,9.57,63,Photography Club,Robotics Engineer,Yes,ST
+ME,4,7,5.81,78,Drama Club,Pilot,Yes,ST
+CE,2,3,7.39,82,Photography Club,AI Engineer,Yes,ST
+AI/ML,3,5,6.44,70,NSS,Data Scientist,Yes,EWS
+CE,1,2,6.61,65,Sports Club,Entrepreneur,Yes,Merit
+CS,3,5,9.27,98,Drama Club,Data Scientist,No,OBC
+EC,1,1,8.2,93,Coding Club,Research Scientist,Yes,ST
+IT,2,3,6.91,100,Coding Club,Robotics Engineer,No,ST
+CT,3,5,7.02,77,Robotics Club,Pilot,No,Merit
+IT,3,5,9.73,72,Photography Club,Research Scientist,No,ST
+EE,4,8,6.38,98,NCC,Entrepreneur,No,SC
+CS,2,4,7.93,95,Robotics Club,Entrepreneur,No,ST
+CS,2,3,9.83,71,Music Club,Research Scientist,Yes,SC
+EE,4,7,8.9,88,Coding Club,Professor,Yes,EWS
+ME,4,8,9.29,88,Drama Club,Professor,Yes,ST
+AI/ML,2,4,8.03,75,Sports Club,AI Engineer,Yes,ST
+IT,1,2,9.32,85,Photography Club,Research Scientist,Yes,EWS
+IT,3,6,9.01,89,Photography Club,Data Scientist,Yes,OBC
+AI/ML,1,2,6.9,98,NSS,Professor,No,EWS
+CS,1,2,6.82,71,Drama Club,Research Scientist,Yes,Merit
+ETC,2,3,6.19,92,Sports Club,Robotics Engineer,No,ST
+AE,1,2,5.73,75,Robotics Club,Pilot,Yes,ST
+ETC,3,5,6.34,73,Sports Club,Research Scientist,Yes,EWS
+IT,4,8,8.44,89,NCC,Software Engineer,No,ST
+ETC,3,6,6.3,99,Photography Club,Entrepreneur,Yes,OBC
+CS,4,8,9.79,88,Music Club,Robotics Engineer,No,ST
+RE,2,3,8.67,84,Sports Club,Research Scientist,Yes,EWS
+IT,2,3,8.85,72,NCC,Robotics Engineer,Yes,SC
+ETC,1,1,6.56,83,NSS,Software Engineer,No,SC
+IT,1,1,8.58,72,Robotics Club,Research Scientist,No,EWS
+IIOT,3,6,5.59,100,Drama Club,Professor,No,SC
+IIOT,3,6,7.31,64,NSS,Data Scientist,No,ST
+DS,3,5,7.64,79,NSS,AI Engineer,Yes,EWS
+DS,3,6,9.71,84,Music Club,Professor,No,EWS
+AE,4,8,6.69,75,Robotics Club,Data Scientist,No,EWS
+IT,1,1,7.18,94,NSS,Research Scientist,Yes,EWS
+RE,1,1,8.68,89,Drama Club,Research Scientist,Yes,
+CE,2,3,7.91,87,Drama Club,Entrepreneur,No,SC
+CS,3,6,9.32,96,Sports Club,Data Scientist,Yes,
+IIOT,3,6,8.71,61,Coding Club,Robotics Engineer,No,OBC
+CE,2,4,5.89,60,Coding Club,Research Scientist,Yes,OBC
+CS,4,7,7.78,99,Photography Club,Data Scientist,Yes,Merit
+EE,4,7,8.08,94,Photography Club,AI Engineer,No,EWS
+AI/ML,4,8,9.61,69,Music Club,Robotics Engineer,Yes,OBC
+CS,4,8,5.87,61,Robotics Club,Research Scientist,Yes,OBC
+EC,3,5,5.55,92,NSS,Data Scientist,No,EWS
+ETC,2,4,6.65,74,Music Club,Software Engineer,No,OBC
+IT,4,7,5.8,68,NSS,Data Scientist,Yes,SC
+AE,3,6,6.23,87,Robotics Club,Robotics Engineer,No,OBC
+IT,3,6,8.44,83,NSS,Software Engineer,Yes,SC
+RE,3,5,7.83,78,Robotics Club,Software Engineer,No,EWS
+IT,2,4,8.52,64,Photography Club,Software Engineer,Yes,ST
+CE,4,8,9.26,95,Photography Club,Professor,Yes,OBC
+IT,1,1,8.65,65,Robotics Club,AI Engineer,No,OBC
+IIOT,2,3,8.48,81,NSS,Robotics Engineer,Yes,SC
+IT,4,7,8.45,67,NSS,Research Scientist,No,SC
+CE,2,4,8.74,91,Drama Club,Entrepreneur,Yes,EWS
+IIOT,4,7,9.1,63,Sports Club,Research Scientist,Yes,Merit
+ETC,4,8,8.85,81,Photography Club,Professor,No,Merit
+EE,3,6,7.11,62,NCC,Robotics Engineer,No,OBC
+IT,3,5,9.24,83,Drama Club,Robotics Engineer,No,SC
+IT,3,6,6.4,75,Drama Club,Robotics Engineer,Yes,EWS
+ME,4,7,7.58,88,NCC,Professor,No,
+EE,3,5,8.85,86,Sports Club,Pilot,No,OBC
+EE,4,7,9.85,70,Music Club,Research Scientist,No,EWS
+CE,4,8,9.52,63,Drama Club,AI Engineer,No,EWS
+CS,2,4,6.92,91,Drama Club,Robotics Engineer,Yes,Merit
+ME,3,6,6.15,88,Music Club,Data Scientist,No,ST
+DS,4,7,6.37,75,Coding Club,Software Engineer,Yes,OBC
+IIOT,4,8,6.87,99,NSS,Software Engineer,Yes,EWS
+ME,4,7,5.59,73,Robotics Club,Entrepreneur,No,
+CE,3,5,8.14,84,Sports Club,AI Engineer,No,Merit
+ME,4,7,5.97,92,NSS,AI Engineer,Yes,
+EC,2,4,8.09,63,Robotics Club,Software Engineer,No,
+IT,4,8,6.55,89,Robotics Club,Data Scientist,Yes,SC
+CS,3,5,8.07,80,Photography Club,Research Scientist,No,
+IIOT,2,4,6.9,100,Photography Club,AI Engineer,No,SC
+AE,4,8,5.62,87,Music Club,Research Scientist,No,SC
+AE,2,3,9.25,97,Drama Club,Pilot,No,SC
+AE,4,7,8.32,79,Sports Club,Data Scientist,Yes,ST
+RE,3,6,9.38,73,NSS,Pilot,Yes,EWS
+RE,4,7,5.51,78,NSS,Software Engineer,Yes,
+EC,3,6,6.54,91,Music Club,Research Scientist,No,OBC
+AE,2,4,7.4,66,Sports Club,Software Engineer,Yes,EWS
+EC,2,3,7.0,98,NSS,AI Engineer,Yes,
+CE,1,1,6.65,90,Drama Club,Entrepreneur,Yes,OBC
+CT,2,3,8.24,73,Music Club,Entrepreneur,No,Merit
+IT,1,1,7.62,83,Music Club,Software Engineer,No,Merit
+IIOT,2,4,6.49,69,Sports Club,Research Scientist,Yes,ST
+IT,4,7,8.28,83,Drama Club,Entrepreneur,No,Merit
+ME,1,2,6.55,80,Sports Club,Software Engineer,Yes,SC
+AE,4,8,9.81,83,Photography Club,Data Scientist,No,ST
+EE,1,2,5.67,74,Sports Club,Research Scientist,Yes,SC
+CT,1,1,6.61,89,Coding Club,AI Engineer,Yes,EWS
+AE,4,8,9.51,93,Drama Club,AI Engineer,Yes,OBC
+DS,3,5,8.07,79,Robotics Club,Pilot,No,
+ME,4,7,9.24,85,Sports Club,Entrepreneur,Yes,OBC
+ME,3,6,9.09,89,Drama Club,Data Scientist,No,
+EC,1,1,7.81,71,Sports Club,Robotics Engineer,Yes,OBC
+DS,2,3,9.06,60,Photography Club,Data Scientist,No,Merit
+CS,4,7,5.57,76,NCC,Entrepreneur,No,SC
+AE,2,4,8.78,68,Music Club,Data Scientist,No,
+RE,3,5,7.28,67,Drama Club,Entrepreneur,No,
+CS,2,3,5.94,96,Robotics Club,AI Engineer,No,ST
+ME,4,7,6.72,87,Music Club,AI Engineer,Yes,
+IT,2,4,6.23,97,Music Club,Data Scientist,Yes,ST
+IT,1,1,5.74,77,NSS,Data Scientist,Yes,EWS
+IT,2,3,7.59,77,Sports Club,Research Scientist,Yes,SC
+ME,2,4,5.69,87,NSS,Data Scientist,Yes,ST
+EE,4,8,9.61,60,Drama Club,Pilot,Yes,EWS
+AE,3,6,8.53,86,NCC,Professor,No,Merit
+CE,2,3,6.66,91,NCC,AI Engineer,Yes,SC
+IT,3,5,8.73,84,NSS,Software Engineer,Yes,OBC
+CE,2,3,7.24,79,NSS,Entrepreneur,Yes,OBC
+CS,1,2,8.08,79,Photography Club,Research Scientist,Yes,Merit
+RE,2,3,6.46,77,Drama Club,Data Scientist,No,EWS
+AE,2,4,9.7,86,Robotics Club,Robotics Engineer,Yes,EWS
+CE,3,5,8.4,74,NSS,Pilot,No,OBC
+AE,3,5,9.1,66,Coding Club,Data Scientist,Yes,EWS
+CE,1,1,8.19,72,Coding Club,AI Engineer,No,Merit
+CS,4,8,8.14,72,Robotics Club,Data Scientist,No,SC
+AI/ML,4,8,9.68,89,Photography Club,Pilot,No,SC
+CS,2,3,7.65,81,NSS,AI Engineer,No,ST
+CS,2,3,6.04,76,Photography Club,Robotics Engineer,Yes,EWS
+CS,2,3,9.35,70,Music Club,Entrepreneur,Yes,SC
+CE,3,5,5.97,95,Robotics Club,Research Scientist,No,EWS
+RE,2,4,6.46,96,NSS,Professor,Yes,OBC
+IIOT,2,3,5.59,60,Sports Club,Data Scientist,Yes,OBC
+RE,4,7,8.51,70,NSS,AI Engineer,No,ST
+ETC,3,5,8.73,63,Drama Club,Software Engineer,No,ST
+EC,2,4,6.91,62,Sports Club,Research Scientist,Yes,Merit
+CE,4,8,8.1,81,Coding Club,Robotics Engineer,Yes,EWS
+IIOT,2,4,8.29,91,Robotics Club,AI Engineer,No,
+ME,2,4,5.59,88,Coding Club,Entrepreneur,No,
+IT,1,1,8.78,78,Robotics Club,Robotics Engineer,Yes,Merit
+ETC,2,4,7.09,67,Coding Club,AI Engineer,Yes,EWS
+EC,3,6,9.01,65,Drama Club,Pilot,Yes,OBC
+CT,1,1,9.35,64,Music Club,Software Engineer,Yes,ST
+DS,2,3,8.8,64,Coding Club,Data Scientist,No,EWS
+CT,4,8,8.15,90,Coding Club,Pilot,No,
+EC,3,5,7.02,60,NSS,Software Engineer,Yes,Merit
+CS,1,2,7.23,89,Sports Club,Entrepreneur,No,SC
+ME,2,4,6.3,76,Music Club,Pilot,No,
+EE,1,2,7.68,79,Coding Club,Professor,Yes,OBC
+AI/ML,2,3,7.36,76,Robotics Club,Professor,Yes,OBC
+ETC,1,1,8.19,63,NSS,Data Scientist,Yes,SC
+ME,2,3,6.16,78,Photography Club,AI Engineer,Yes,Merit
+DS,3,5,6.45,60,Coding Club,AI Engineer,No,Merit
+DS,1,2,7.06,90,NSS,Data Scientist,No,OBC
+RE,4,7,7.28,70,Robotics Club,Robotics Engineer,No,Merit
+CE,3,5,8.1,92,Photography Club,Data Scientist,No,Merit
+CE,4,8,9.8,63,Drama Club,Research Scientist,Yes,
+RE,1,1,5.87,69,NCC,AI Engineer,No,EWS
+RE,3,6,9.18,96,NSS,Professor,Yes,Merit
+CE,1,2,8.96,92,NCC,Software Engineer,No,SC
+IT,2,3,6.5,63,Robotics Club,Robotics Engineer,No,OBC
+DS,1,2,6.77,83,NCC,AI Engineer,Yes,EWS
+EC,1,1,5.87,86,Photography Club,Research Scientist,Yes,OBC
+EE,2,4,9.39,91,Music Club,Robotics Engineer,Yes,OBC
+IIOT,1,1,7.33,99,Music Club,Robotics Engineer,No,
+IT,2,3,6.08,88,Sports Club,Professor,No,ST
+ETC,3,6,6.1,73,Photography Club,Pilot,Yes,Merit
+IT,4,8,9.76,94,Photography Club,Research Scientist,Yes,OBC
+AE,1,1,8.0,68,NSS,Robotics Engineer,No,
+RE,3,5,7.9,68,Music Club,Software Engineer,Yes,EWS
+CE,1,2,5.95,85,NCC,Pilot,Yes,
+IIOT,3,6,8.43,60,Sports Club,Research Scientist,Yes,ST
+AI/ML,1,1,6.56,75,NSS,Professor,No,Merit
+AE,1,2,6.0,85,Coding Club,AI Engineer,Yes,OBC
+IIOT,4,8,6.06,62,Sports Club,Data Scientist,Yes,ST
+AE,2,4,7.17,61,NCC,Research Scientist,No,EWS
+IT,4,8,9.31,99,Drama Club,Research Scientist,No,
+AI/ML,1,2,6.82,76,Sports Club,AI Engineer,Yes,OBC
+IIOT,4,7,7.64,69,NCC,Robotics Engineer,No,Merit
+ETC,4,8,6.2,100,Coding Club,AI Engineer,Yes,
+AE,2,4,5.63,89,Robotics Club,Entrepreneur,No,SC
+AE,3,6,9.75,61,Photography Club,Data Scientist,Yes,ST
+AE,3,6,7.34,91,NCC,Research Scientist,No,Merit
+CT,1,1,7.4,87,NCC,Research Scientist,No,ST
+CT,2,3,6.36,80,Sports Club,Entrepreneur,Yes,OBC
+EC,1,2,5.68,67,NCC,Data Scientist,Yes,OBC
+AI/ML,2,3,7.36,92,NSS,AI Engineer,No,Merit
+RE,3,6,5.67,83,NCC,Data Scientist,No,OBC
+EC,4,7,5.53,62,Sports Club,Pilot,No,Merit
+CS,2,3,9.46,69,Photography Club,Research Scientist,No,OBC
+ME,3,5,5.67,88,Photography Club,Entrepreneur,No,SC
+ETC,4,8,5.96,99,Drama Club,Professor,No,ST
+EE,1,2,7.11,74,Robotics Club,Software Engineer,No,ST
+AE,3,5,8.89,76,Photography Club,AI Engineer,No,SC
+ME,4,8,9.55,70,NSS,AI Engineer,Yes,EWS
+ME,4,7,7.75,91,Photography Club,Entrepreneur,No,OBC
+DS,2,3,8.68,87,Photography Club,Data Scientist,Yes,OBC
+CS,1,2,8.69,82,NSS,Entrepreneur,No,EWS
+AE,2,3,9.43,68,NCC,Robotics Engineer,Yes,SC
+AI/ML,1,2,6.95,80,Coding Club,Software Engineer,Yes,OBC
+EE,2,3,9.41,92,Coding Club,Data Scientist,No,EWS
+ME,2,3,7.98,71,Music Club,Entrepreneur,Yes,OBC
+AE,1,1,6.14,65,Robotics Club,Professor,Yes,
+EE,4,7,6.28,86,Drama Club,Software Engineer,No,SC
+AI/ML,4,7,9.41,76,Photography Club,AI Engineer,No,SC
+IIOT,4,7,7.06,66,Photography Club,Entrepreneur,Yes,Merit
+CE,3,5,9.29,76,NCC,AI Engineer,Yes,ST
+EC,1,2,6.19,83,Sports Club,Professor,Yes,OBC
+ME,1,1,6.93,93,NCC,Pilot,No,ST
+IIOT,1,1,7.24,92,NSS,Software Engineer,Yes,Merit
+CE,4,7,8.73,66,Drama Club,Research Scientist,No,
+EC,3,6,7.79,81,Photography Club,Professor,No,Merit
+RE,2,4,7.68,71,Sports Club,Software Engineer,No,EWS
+EE,3,5,8.9,93,NSS,Entrepreneur,Yes,OBC
+EE,2,4,7.53,87,Robotics Club,Robotics Engineer,No,ST
+CT,3,5,9.42,78,Robotics Club,Pilot,No,EWS
+EC,1,1,6.74,75,Photography Club,Data Scientist,No,SC
+DS,2,4,7.35,77,NSS,AI Engineer,No,Merit
+ME,4,8,7.69,72,NCC,Data Scientist,Yes,Merit
+AE,1,2,6.46,84,Sports Club,Robotics Engineer,No,ST
+DS,1,2,8.36,85,NSS,Data Scientist,No,ST
+IT,2,4,8.5,70,Photography Club,AI Engineer,Yes,
+AI/ML,1,2,9.43,84,Drama Club,AI Engineer,Yes,
+AI/ML,3,5,7.89,76,Sports Club,Data Scientist,No,EWS
+IT,2,4,6.47,86,Music Club,Robotics Engineer,Yes,SC
+AI/ML,3,5,7.76,74,Music Club,Robotics Engineer,No,OBC
+DS,4,7,7.9,82,NCC,Data Scientist,Yes,
+EE,1,1,5.76,91,Robotics Club,Professor,Yes,SC
+IIOT,4,7,5.81,91,Drama Club,Software Engineer,Yes,EWS
+AE,3,5,6.31,76,NSS,Pilot,Yes,ST
+RE,4,7,6.61,72,Drama Club,Software Engineer,No,EWS
+CE,4,7,9.15,84,Coding Club,Pilot,No,EWS
+RE,2,4,8.59,63,Drama Club,Software Engineer,No,SC
+ETC,1,2,9.5,90,Music Club,Entrepreneur,Yes,EWS
+EC,3,6,7.09,61,Photography Club,Entrepreneur,Yes,EWS
+ME,2,4,6.96,72,NCC,Pilot,Yes,
+CT,3,6,5.71,72,NSS,Software Engineer,No,
+RE,4,7,9.33,77,Drama Club,Professor,Yes,SC
+IIOT,2,4,8.46,97,Music Club,AI Engineer,Yes,OBC
+ME,1,2,8.53,92,Music Club,Pilot,No,
+CS,1,2,7.43,71,Sports Club,Software Engineer,Yes,Merit
+EC,2,4,6.72,79,Music Club,Research Scientist,Yes,SC
+EE,1,2,8.19,94,Photography Club,Pilot,No,
+ME,1,2,5.66,96,NSS,Pilot,No,
+CS,1,1,8.19,88,NSS,Software Engineer,No,Merit
+IIOT,1,1,8.76,61,Drama Club,Entrepreneur,Yes,ST
+ETC,2,3,7.04,87,NCC,Robotics Engineer,Yes,Merit
+DS,3,6,6.09,75,Music Club,Entrepreneur,Yes,
+AE,2,3,6.98,70,Drama Club,Entrepreneur,No,Merit
+ME,4,7,9.31,70,Music Club,Robotics Engineer,No,
+EC,1,1,6.81,99,Photography Club,Robotics Engineer,Yes,Merit
+EE,2,4,5.52,96,NSS,Research Scientist,Yes,SC
+ETC,2,3,8.42,90,Music Club,Robotics Engineer,No,ST
+EE,3,5,7.67,65,Sports Club,Data Scientist,Yes,EWS
+AI/ML,4,7,6.75,86,Coding Club,Professor,No,SC
+IT,3,6,9.6,78,Photography Club,Pilot,Yes,OBC
+IIOT,4,8,8.43,90,Robotics Club,Entrepreneur,Yes,OBC
+CE,2,4,6.68,99,Music Club,Entrepreneur,Yes,SC
+CS,4,7,7.64,88,NSS,Research Scientist,No,OBC
+AE,2,3,8.23,75,Drama Club,Professor,No,EWS
+AI/ML,3,5,9.89,98,Sports Club,AI Engineer,No,OBC
+IIOT,3,6,6.32,73,Sports Club,Data Scientist,Yes,Merit
+CE,3,5,6.88,73,Coding Club,Robotics Engineer,No,OBC
+AI/ML,1,1,6.32,92,Coding Club,Research Scientist,No,SC
+CE,1,2,7.88,80,Sports Club,Research Scientist,Yes,
+IT,1,2,7.13,91,Drama Club,Professor,No,SC
+DS,4,8,8.8,99,Music Club,Robotics Engineer,Yes,Merit
+AE,1,1,6.33,84,Music Club,Software Engineer,Yes,SC
+CT,4,8,8.6,62,Robotics Club,Pilot,Yes,OBC
+IIOT,3,5,6.2,90,Coding Club,AI Engineer,No,
+EE,2,3,9.4,72,Drama Club,Software Engineer,No,Merit
+AE,3,6,7.47,60,Coding Club,Research Scientist,No,OBC
+EE,1,1,6.17,64,Coding Club,Research Scientist,Yes,OBC
+ETC,2,4,6.44,60,NCC,Data Scientist,No,SC
+ETC,1,2,9.82,81,NCC,AI Engineer,No,
+AE,4,8,5.93,100,Music Club,Professor,Yes,ST
+EE,2,4,6.17,92,Sports Club,AI Engineer,Yes,SC
+RE,2,4,8.7,65,Drama Club,Robotics Engineer,No,EWS
+EC,2,4,8.85,96,Sports Club,Robotics Engineer,Yes,Merit
+EC,3,6,5.6,71,Coding Club,Pilot,No,ST
+AI/ML,4,8,7.08,66,NCC,Professor,Yes,
+CS,3,5,7.23,87,Sports Club,Data Scientist,Yes,ST
+CS,4,8,9.49,72,Drama Club,Data Scientist,No,ST
+IIOT,2,4,9.49,85,Coding Club,Robotics Engineer,Yes,
+CS,3,5,7.01,83,NCC,Data Scientist,No,OBC
+CT,4,8,8.58,92,Drama Club,AI Engineer,No,OBC
+RE,1,1,7.73,93,NSS,Research Scientist,No,EWS
+AE,4,7,7.27,95,Drama Club,Pilot,Yes,
+AE,4,8,9.38,79,Photography Club,AI Engineer,No,
+IT,3,5,7.21,78,Music Club,Entrepreneur,Yes,Merit
+ME,4,8,7.97,66,NCC,AI Engineer,Yes,
+CS,4,8,9.79,63,NSS,AI Engineer,No,SC
+CS,3,6,8.11,77,Music Club,Professor,No,ST
+EC,1,1,7.94,68,Robotics Club,AI Engineer,No,ST
+EE,1,2,9.84,72,Music Club,Research Scientist,No,OBC
+CS,2,4,6.73,79,Drama Club,Data Scientist,No,ST
+ETC,4,8,7.43,87,Coding Club,Research Scientist,No,EWS
+IT,3,5,8.91,85,Sports Club,AI Engineer,Yes,ST
+CT,4,8,6.06,72,Photography Club,Software Engineer,Yes,EWS
+DS,4,7,8.24,99,Drama Club,Software Engineer,No,ST
+IT,4,7,8.45,89,Drama Club,Pilot,Yes,OBC
+EC,3,6,9.25,88,Robotics Club,Pilot,Yes,Merit
+RE,4,8,8.14,87,Photography Club,Research Scientist,No,OBC
+CS,3,6,8.38,75,Drama Club,Pilot,No,
+EE,4,8,9.84,74,NCC,Robotics Engineer,No,SC
+RE,2,3,7.71,80,Sports Club,Pilot,Yes,
+AE,4,7,8.74,62,Drama Club,Data Scientist,Yes,ST
+CT,1,1,8.6,72,Sports Club,Robotics Engineer,Yes,Merit
+EE,1,2,8.38,64,Robotics Club,Data Scientist,No,EWS
+DS,4,7,8.96,60,Drama Club,Software Engineer,No,
+ETC,4,8,7.22,100,Sports Club,Software Engineer,Yes,EWS
+AI/ML,2,4,7.52,84,NSS,Software Engineer,Yes,SC
+CT,3,6,7.06,97,NCC,Robotics Engineer,Yes,SC
+EC,3,6,6.24,66,NCC,Software Engineer,No,Merit
+EC,1,2,7.23,81,NCC,AI Engineer,Yes,SC
+CS,3,6,7.86,66,NCC,Research Scientist,No,Merit
+CS,3,5,8.28,75,Sports Club,Software Engineer,Yes,ST
+EC,4,7,6.65,93,Robotics Club,Robotics Engineer,Yes,ST
+DS,1,1,9.37,97,Drama Club,Software Engineer,Yes,SC
+EC,2,4,7.96,67,Robotics Club,Entrepreneur,No,
+CE,3,5,8.05,84,Drama Club,Professor,Yes,
+EC,4,7,9.46,74,NSS,Professor,Yes,SC
+EC,1,1,9.76,92,Coding Club,Software Engineer,No,OBC
+CS,3,5,6.49,90,Music Club,Research Scientist,Yes,EWS
+ETC,2,4,8.75,77,Photography Club,AI Engineer,Yes,SC
+CE,4,8,6.63,88,NSS,Robotics Engineer,Yes,EWS
+DS,2,4,6.59,89,NSS,Entrepreneur,Yes,Merit
+AI/ML,4,8,9.72,89,Robotics Club,Research Scientist,No,OBC
+IIOT,3,6,9.5,82,Music Club,Data Scientist,Yes,Merit
+CT,3,6,6.4,66,Photography Club,Data Scientist,Yes,OBC
+IIOT,4,8,8.59,85,NSS,Research Scientist,No,OBC
+ETC,2,4,7.52,72,Drama Club,Professor,No,
+EC,2,3,6.2,68,Music Club,Robotics Engineer,Yes,
+CE,3,6,5.66,64,NSS,Research Scientist,Yes,Merit
+AI/ML,1,2,9.45,64,Coding Club,Research Scientist,Yes,SC
+EC,3,6,6.02,79,Drama Club,Professor,No,ST
+ME,2,3,6.27,67,Drama Club,Entrepreneur,Yes,OBC
+ETC,2,3,8.83,88,Robotics Club,Robotics Engineer,No,SC
+IT,1,2,5.79,80,Photography Club,Software Engineer,Yes,Merit
+ETC,3,6,6.94,71,Sports Club,Entrepreneur,No,Merit
+EE,2,3,9.77,71,NSS,Entrepreneur,No,OBC
+ETC,2,3,6.42,80,NCC,Research Scientist,Yes,
+ETC,2,3,8.2,74,Music Club,Robotics Engineer,Yes,ST
+ME,1,1,5.66,100,NCC,Robotics Engineer,Yes,
+CS,3,5,6.95,91,Robotics Club,Research Scientist,No,OBC
+DS,1,2,6.86,74,Photography Club,Entrepreneur,No,EWS
+DS,3,6,9.04,85,Photography Club,Research Scientist,No,SC
+IT,3,6,7.96,64,Sports Club,Data Scientist,No,Merit
+EC,3,6,8.33,72,NSS,Research Scientist,No,Merit
+AI/ML,2,3,9.39,93,Music Club,Professor,Yes,EWS
+IT,1,1,6.65,76,NSS,Professor,No,ST
+RE,4,8,5.75,72,Sports Club,AI Engineer,No,EWS
+DS,2,4,8.39,75,Coding Club,AI Engineer,No,EWS
+ETC,4,7,7.99,85,Photography Club,Robotics Engineer,Yes,Merit
+DS,1,1,8.37,75,Robotics Club,Entrepreneur,Yes,
+ME,2,3,6.49,84,Sports Club,Software Engineer,Yes,Merit
+CS,3,6,9.75,67,NSS,Pilot,Yes,
+EC,4,8,9.85,88,Robotics Club,Pilot,Yes,SC
+IT,1,2,6.93,99,NSS,Entrepreneur,No,SC
+ME,4,8,9.19,70,Sports Club,Robotics Engineer,No,
+ME,1,1,5.97,88,NCC,Professor,No,ST
+AE,3,6,6.1,87,Sports Club,AI Engineer,Yes,EWS
+CS,2,4,6.86,81,Music Club,Professor,Yes,EWS
+ETC,4,7,6.49,100,Drama Club,Software Engineer,No,Merit
+IIOT,4,7,8.94,96,NSS,Entrepreneur,Yes,Merit
+IIOT,1,1,7.77,80,NSS,Data Scientist,Yes,Merit
+EE,3,6,7.22,100,Photography Club,Data Scientist,No,
+AE,2,3,7.78,93,Photography Club,Data Scientist,Yes,SC
+CT,4,8,5.93,92,Photography Club,Professor,Yes,Merit
+CE,2,4,7.86,72,NCC,Software Engineer,Yes,
+CT,2,4,6.06,84,Drama Club,Robotics Engineer,Yes,ST
+IIOT,2,4,9.0,61,Robotics Club,Software Engineer,No,
+EE,2,4,8.74,87,Photography Club,AI Engineer,No,ST
+EE,1,1,8.62,64,Drama Club,AI Engineer,No,Merit
+ME,4,7,9.07,69,NCC,Software Engineer,Yes,Merit
+EC,2,4,7.82,60,NSS,Entrepreneur,Yes,OBC
+EC,1,2,7.49,67,NCC,Professor,No,ST
+ME,2,4,9.83,75,Sports Club,AI Engineer,No,Merit
+ME,2,4,5.91,62,Drama Club,Robotics Engineer,No,OBC
+CS,4,8,7.66,81,Drama Club,Entrepreneur,No,SC
+ME,2,3,9.31,89,NSS,AI Engineer,Yes,OBC
+IT,1,1,5.98,73,NSS,Research Scientist,Yes,SC
+EE,2,3,8.46,99,Robotics Club,Entrepreneur,No,ST
+ME,2,3,8.09,93,Music Club,Software Engineer,No,Merit
+IIOT,2,3,7.15,66,Photography Club,Software Engineer,Yes,SC
+EC,4,8,6.54,67,Coding Club,Professor,Yes,Merit
+CE,3,6,9.6,89,Photography Club,AI Engineer,Yes,
+CT,3,6,6.92,93,Robotics Club,Data Scientist,No,
+RE,2,3,9.09,65,Music Club,Software Engineer,No,
+EE,2,4,8.84,85,Robotics Club,AI Engineer,Yes,SC
+ETC,3,6,8.71,79,Robotics Club,Research Scientist,Yes,
+AE,3,6,5.88,71,NCC,Software Engineer,Yes,Merit
+EE,2,4,7.91,74,Robotics Club,Professor,Yes,Merit
+CE,2,4,7.35,95,Music Club,Professor,No,ST
+CE,3,6,8.62,89,Sports Club,Software Engineer,No,SC
+ETC,3,6,8.4,90,Music Club,AI Engineer,No,Merit
+CT,1,2,8.36,82,Photography Club,Robotics Engineer,Yes,Merit
+AE,2,3,9.52,96,Coding Club,Software Engineer,Yes,EWS
+EC,3,5,5.97,64,NSS,Robotics Engineer,No,ST
+AE,4,8,7.66,63,Coding Club,Software Engineer,Yes,EWS
+IT,3,6,6.72,81,Photography Club,Research Scientist,No,ST
+CT,3,5,7.91,92,Sports Club,Professor,Yes,
+EC,4,7,8.96,81,Sports Club,Data Scientist,No,ST
+EC,2,3,5.67,94,Photography Club,Professor,Yes,OBC
+AI/ML,2,4,9.26,80,Photography Club,Professor,No,Merit
+CE,1,1,7.33,76,NCC,Robotics Engineer,Yes,OBC
+RE,2,4,6.52,61,Coding Club,Professor,No,EWS
+CS,4,7,8.33,94,NSS,Software Engineer,No,OBC
+CS,2,3,6.18,81,Photography Club,Entrepreneur,Yes,
+ME,3,5,9.58,75,Coding Club,Entrepreneur,No,SC
+ETC,2,3,7.26,67,NCC,Research Scientist,No,SC
+CS,3,6,5.74,93,NCC,Data Scientist,Yes,SC
+AE,1,2,6.74,73,Music Club,Research Scientist,No,Merit
+AI/ML,2,4,6.25,81,NSS,Professor,No,OBC
+IIOT,2,3,7.59,98,Sports Club,Robotics Engineer,No,ST
+AI/ML,1,2,7.43,62,Coding Club,Pilot,Yes,Merit
+AI/ML,3,6,8.23,63,Robotics Club,Pilot,No,Merit
+ETC,1,2,9.1,84,NCC,Research Scientist,No,ST
+ETC,1,2,9.64,75,Robotics Club,Research Scientist,No,EWS
+AI/ML,1,1,7.87,70,Sports Club,Software Engineer,Yes,Merit
+ETC,1,1,6.65,89,Robotics Club,Professor,No,SC
+CS,3,5,6.05,82,Robotics Club,Software Engineer,No,SC
+ME,3,5,7.18,97,Drama Club,Data Scientist,Yes,
+EE,2,3,9.37,80,NCC,AI Engineer,Yes,EWS
+CS,1,1,7.5,89,Drama Club,Entrepreneur,Yes,SC
+AI/ML,2,4,9.02,77,Drama Club,Pilot,Yes,EWS
+DS,3,6,9.64,66,Coding Club,Pilot,Yes,EWS
+CS,4,7,6.86,82,Drama Club,Robotics Engineer,Yes,SC
+IT,2,3,8.45,76,Photography Club,Data Scientist,No,ST
+EE,4,7,6.64,91,Photography Club,AI Engineer,Yes,ST
+IIOT,3,5,6.75,94,Drama Club,Pilot,No,ST
+RE,4,7,8.67,75,Robotics Club,Data Scientist,Yes,
+IT,1,2,6.49,83,NCC,Robotics Engineer,No,ST
+DS,4,8,6.09,73,NSS,Entrepreneur,No,SC
+DS,1,2,9.71,86,Sports Club,Software Engineer,Yes,ST
+IT,1,1,7.55,76,Sports Club,Pilot,No,ST
+CE,3,6,7.94,82,Robotics Club,Software Engineer,No,SC
+EE,3,5,9.35,82,Sports Club,Data Scientist,Yes,OBC
+ME,4,7,7.23,61,Robotics Club,Robotics Engineer,No,EWS
+ETC,4,7,6.88,98,NSS,Research Scientist,Yes,Merit
+AI/ML,1,1,9.39,93,Coding Club,Robotics Engineer,No,SC
+AI/ML,4,7,6.17,84,Coding Club,Robotics Engineer,No,ST
+DS,1,2,7.02,71,Robotics Club,Software Engineer,Yes,SC
+ME,2,4,8.63,77,Music Club,Robotics Engineer,No,
+RE,3,5,8.8,86,Photography Club,Pilot,No,OBC
+CS,1,1,8.08,79,Photography Club,AI Engineer,No,EWS
+AI/ML,2,4,8.96,92,Sports Club,AI Engineer,Yes,ST
+IIOT,1,1,8.74,79,Photography Club,Software Engineer,Yes,
+EE,1,2,6.63,81,Music Club,Data Scientist,No,SC
+CE,4,8,6.89,86,Sports Club,Pilot,Yes,EWS
+AE,2,3,8.49,88,Drama Club,Robotics Engineer,Yes,EWS
+ME,3,6,7.0,75,Music Club,Research Scientist,Yes,OBC
+ME,3,5,5.52,94,Sports Club,Software Engineer,No,ST
+ETC,1,2,5.76,61,Music Club,Robotics Engineer,No,ST
+IT,4,8,6.66,82,NCC,AI Engineer,Yes,EWS
+CE,2,3,9.65,85,Music Club,Pilot,No,Merit
+CT,4,8,6.01,93,NSS,Research Scientist,Yes,ST
+CT,1,1,8.23,80,Music Club,Research Scientist,Yes,EWS
+AI/ML,4,8,6.89,63,NSS,Research Scientist,Yes,OBC
+CS,2,4,7.51,100,NSS,Pilot,No,OBC
+DS,2,3,6.65,77,Photography Club,AI Engineer,No,EWS
+AE,4,7,5.66,68,Drama Club,Pilot,Yes,Merit
+CS,3,5,6.95,85,NCC,Research Scientist,Yes,ST
+DS,3,6,7.28,92,Sports Club,Pilot,Yes,Merit
+IT,4,7,5.83,92,NCC,Professor,Yes,Merit
+AE,2,4,9.34,68,Drama Club,Research Scientist,No,SC
+EE,1,1,8.84,89,Music Club,Pilot,No,Merit
+EE,4,8,8.43,77,Sports Club,AI Engineer,No,Merit
+ME,4,7,6.38,94,Photography Club,Professor,Yes,Merit
+EE,4,7,6.42,81,Drama Club,Research Scientist,Yes,ST
+IT,2,4,8.62,92,Music Club,Research Scientist,Yes,OBC
+CT,2,3,5.71,70,Sports Club,Pilot,No,Merit
+RE,4,8,7.71,85,NCC,AI Engineer,Yes,EWS
+RE,4,7,8.27,88,Music Club,Research Scientist,Yes,SC
+IIOT,4,8,6.05,80,Music Club,Entrepreneur,No,SC
+EC,2,4,6.3,84,NSS,Robotics Engineer,Yes,Merit
+CS,4,7,9.51,61,Coding Club,Robotics Engineer,Yes,Merit
+AI/ML,3,5,6.7,71,Sports Club,Pilot,Yes,Merit
+IIOT,1,2,5.93,60,Sports Club,Research Scientist,Yes,SC
+CE,2,3,9.23,86,Music Club,AI Engineer,Yes,SC
+DS,1,1,7.91,62,Robotics Club,Research Scientist,No,Merit
+ETC,3,5,7.1,70,NSS,Research Scientist,No,OBC
+CE,1,1,6.69,75,Music Club,Professor,No,ST
+AI/ML,2,4,7.65,82,Photography Club,Research Scientist,No,SC
+AI/ML,2,4,6.65,84,Music Club,Research Scientist,Yes,SC
+DS,3,6,9.49,80,Photography Club,Data Scientist,No,OBC
+ME,3,5,5.75,67,Drama Club,Pilot,Yes,OBC
+RE,3,6,8.16,66,Sports Club,Professor,No,OBC
+DS,1,1,5.5,92,Robotics Club,Robotics Engineer,No,EWS
+RE,4,7,8.33,77,Drama Club,Professor,No,OBC
+EC,4,7,9.21,62,Sports Club,Data Scientist,Yes,OBC
+CS,2,4,7.0,88,Photography Club,Pilot,No,SC
+CE,3,5,7.91,74,Robotics Club,Data Scientist,No,EWS
+IIOT,3,5,7.21,87,NCC,AI Engineer,Yes,SC
+CE,4,7,6.93,72,Music Club,AI Engineer,Yes,Merit
+CE,1,2,6.19,86,Drama Club,Research Scientist,Yes,Merit
+DS,1,2,7.39,73,NSS,AI Engineer,No,EWS
+AI/ML,2,3,8.88,96,Music Club,Robotics Engineer,Yes,OBC
+DS,1,1,6.01,91,Drama Club,Data Scientist,No,OBC
+EE,4,8,8.64,86,NCC,Data Scientist,No,ST
+DS,1,1,7.15,70,Coding Club,Robotics Engineer,Yes,ST
+CT,2,3,5.98,83,Photography Club,Software Engineer,Yes,Merit
+EE,2,3,6.01,100,NSS,Professor,No,SC
+IIOT,4,7,6.07,82,Sports Club,Robotics Engineer,Yes,Merit
+DS,3,5,9.08,84,Drama Club,Data Scientist,No,SC
+IIOT,2,3,6.39,65,Sports Club,Software Engineer,Yes,OBC
+IIOT,3,5,7.57,67,Coding Club,Entrepreneur,No,EWS
+DS,4,8,8.95,61,Sports Club,AI Engineer,No,ST
+ETC,1,1,6.01,64,NCC,Robotics Engineer,No,OBC
+CE,2,3,8.9,75,Sports Club,Software Engineer,No,ST
+IIOT,3,6,8.1,93,Sports Club,Professor,No,SC
+CT,4,8,7.95,86,Coding Club,Research Scientist,Yes,Merit
+CE,4,8,6.11,63,Drama Club,Entrepreneur,No,
+DS,3,5,6.19,63,Coding Club,Professor,Yes,SC
+IT,4,7,5.78,89,Drama Club,AI Engineer,Yes,OBC
+EC,2,3,7.24,73,Drama Club,Software Engineer,Yes,
+RE,3,6,6.4,99,NCC,Entrepreneur,Yes,EWS
+CE,3,6,9.9,73,NCC,Software Engineer,No,Merit
+EC,2,3,8.88,90,Coding Club,Entrepreneur,Yes,EWS
+ETC,2,4,8.24,72,Music Club,Professor,Yes,ST
+ETC,4,8,6.95,87,NCC,Data Scientist,Yes,
+CE,2,4,9.15,92,Music Club,Professor,No,ST
+RE,2,4,7.79,98,Robotics Club,Software Engineer,No,OBC
+CS,4,7,8.15,88,Drama Club,Research Scientist,Yes,ST
+IT,3,5,9.58,99,Drama Club,AI Engineer,No,Merit
+EC,2,3,5.72,79,Photography Club,Pilot,Yes,ST
+CS,3,6,6.38,98,Drama Club,Data Scientist,Yes,
+CT,1,2,8.62,95,NSS,Software Engineer,No,ST
+CS,1,1,8.68,81,Sports Club,Professor,No,
+AE,2,4,8.38,91,Photography Club,Data Scientist,No,SC
+CT,4,8,8.12,68,NCC,Data Scientist,No,ST
+IT,2,4,7.69,89,Robotics Club,Software Engineer,Yes,
+RE,3,6,8.31,91,NSS,Professor,No,SC
+ETC,3,5,7.83,82,Photography Club,Research Scientist,Yes,ST
+CT,4,7,6.72,68,Coding Club,Software Engineer,Yes,EWS
+CT,1,1,8.45,65,Drama Club,Robotics Engineer,No,SC
+CT,4,7,7.57,71,Photography Club,Entrepreneur,No,Merit
+ETC,3,6,8.94,89,NSS,Entrepreneur,Yes,SC
+IT,1,2,7.89,78,NSS,AI Engineer,Yes,Merit
+RE,3,6,8.8,97,Photography Club,AI Engineer,No,EWS
+IT,1,1,8.17,98,Robotics Club,Software Engineer,Yes,ST
+AI/ML,1,1,5.99,96,Coding Club,Robotics Engineer,Yes,OBC
+EC,2,4,9.12,65,NCC,Pilot,No,EWS
+EC,2,3,8.77,93,Coding Club,AI Engineer,Yes,OBC
+IIOT,2,3,8.85,84,NSS,Research Scientist,No,SC
+EE,1,1,7.4,66,Sports Club,AI Engineer,No,
+IT,4,7,6.62,65,Music Club,Research Scientist,No,Merit
+CE,4,7,7.4,93,NSS,Entrepreneur,No,SC
+ME,3,5,6.24,78,NSS,Research Scientist,No,SC
+AI/ML,4,7,6.96,91,Music Club,Software Engineer,Yes,OBC
+IIOT,4,8,6.27,95,Robotics Club,AI Engineer,Yes,ST
+CT,2,3,5.68,66,NCC,Data Scientist,Yes,EWS
+EC,3,6,7.71,94,Robotics Club,Software Engineer,No,EWS
+AE,2,3,8.93,75,Drama Club,Research Scientist,No,OBC
+DS,4,8,9.33,67,Music Club,Research Scientist,Yes,SC
+CT,4,8,8.45,75,Music Club,AI Engineer,No,ST
+RE,1,2,7.91,76,Music Club,Robotics Engineer,No,OBC
+EC,1,1,6.35,100,Music Club,Pilot,Yes,
+CT,3,6,6.28,70,Sports Club,Professor,No,SC
+AE,4,8,5.88,69,Drama Club,Professor,Yes,Merit
+IIOT,3,6,8.63,87,Photography Club,Entrepreneur,Yes,SC
+IIOT,1,1,9.02,63,NSS,Robotics Engineer,Yes,EWS
+CT,1,1,7.05,83,Coding Club,Professor,Yes,Merit
+CT,4,8,7.86,64,NCC,Software Engineer,Yes,SC
+DS,3,6,6.17,80,NCC,AI Engineer,No,Merit
+AE,2,3,7.25,94,Photography Club,Software Engineer,No,OBC
+EC,3,5,6.44,70,Music Club,Professor,Yes,ST
+ME,4,8,5.73,64,Robotics Club,Robotics Engineer,Yes,SC
+CE,2,4,5.58,78,Music Club,Professor,No,Merit
+IT,1,1,9.7,67,Sports Club,Software Engineer,No,EWS
+AE,2,4,6.49,81,Sports Club,Entrepreneur,No,ST
+DS,2,4,7.35,62,Photography Club,Research Scientist,No,Merit
+IT,2,3,7.9,74,NSS,AI Engineer,Yes,OBC
+IIOT,3,5,6.17,61,Photography Club,Pilot,Yes,EWS
+AI/ML,2,3,7.39,82,Music Club,Research Scientist,No,SC
+DS,1,1,7.12,98,NCC,AI Engineer,No,EWS
+EE,1,2,9.17,91,Photography Club,Entrepreneur,Yes,ST
+EC,2,3,9.4,61,Drama Club,Data Scientist,Yes,
+RE,3,6,8.61,78,Drama Club,Professor,Yes,Merit
+CE,4,7,9.5,95,Drama Club,Robotics Engineer,Yes,ST
+IT,2,4,9.69,64,NCC,Software Engineer,Yes,SC
+CE,3,6,9.75,95,NSS,Pilot,No,SC
+AE,4,8,6.28,61,NSS,Software Engineer,No,EWS
+EC,3,5,5.94,90,Robotics Club,Professor,No,OBC
+ME,3,5,6.16,86,Photography Club,Robotics Engineer,Yes,Merit
+CS,3,6,9.23,79,Robotics Club,Data Scientist,No,SC
+AE,4,7,6.53,73,Sports Club,Research Scientist,No,EWS
+AE,3,5,7.48,69,NCC,Data Scientist,No,EWS
+IIOT,3,6,7.11,75,Photography Club,Software Engineer,No,Merit
+EE,2,4,6.24,91,NCC,AI Engineer,Yes,SC
+AI/ML,3,6,6.84,91,Photography Club,AI Engineer,Yes,SC
+EE,1,2,6.3,80,Robotics Club,Professor,Yes,Merit
+ETC,4,8,6.9,71,NSS,Entrepreneur,No,OBC
+CE,2,3,7.7,62,Sports Club,Pilot,No,
+EC,2,3,5.69,68,Robotics Club,Pilot,No,
+DS,2,3,9.72,76,Drama Club,Pilot,No,EWS
+EC,1,1,6.15,62,Music Club,Software Engineer,No,EWS
+AE,4,8,8.63,95,NSS,Entrepreneur,Yes,EWS
+IIOT,4,7,6.07,82,NSS,AI Engineer,Yes,
+IT,4,8,7.66,96,Photography Club,Entrepreneur,No,
+AE,1,1,8.46,97,Coding Club,Professor,No,ST
+ME,1,1,8.24,60,NSS,Data Scientist,No,
+DS,2,4,7.45,66,Photography Club,Software Engineer,Yes,EWS
+AI/ML,3,5,7.74,82,Drama Club,Data Scientist,No,SC
+RE,4,7,9.05,76,Music Club,Entrepreneur,Yes,SC
+CS,3,6,6.87,77,NSS,Professor,Yes,ST
+EE,2,3,5.6,76,Drama Club,Robotics Engineer,Yes,EWS
+RE,4,7,9.51,97,Music Club,Research Scientist,Yes,EWS
+IIOT,4,7,7.63,89,Robotics Club,Data Scientist,No,ST
+AE,1,2,7.8,79,Drama Club,Robotics Engineer,Yes,ST
+CS,4,8,7.31,76,Coding Club,Entrepreneur,Yes,Merit
+IIOT,2,3,9.85,76,NCC,Data Scientist,Yes,
+RE,1,1,5.89,99,Photography Club,Research Scientist,No,OBC
+ME,3,5,6.61,95,Drama Club,Professor,No,OBC
+CS,1,1,5.6,82,Drama Club,Research Scientist,No,OBC
+AI/ML,3,6,7.07,88,Drama Club,AI Engineer,Yes,EWS
+AE,2,4,7.25,94,Sports Club,Professor,Yes,
+AE,2,4,6.41,94,Drama Club,Entrepreneur,No,Merit
+DS,1,2,7.25,72,Music Club,Pilot,No,
+CE,1,1,8.76,80,Robotics Club,Entrepreneur,Yes,Merit
+CS,1,1,5.67,64,Sports Club,Data Scientist,No,ST
+AE,1,2,7.83,77,NSS,Professor,Yes,SC
+RE,4,7,9.05,80,Coding Club,Robotics Engineer,Yes,OBC
+CT,2,3,9.57,66,Music Club,Data Scientist,Yes,SC
+RE,2,4,8.53,93,Music Club,Professor,Yes,Merit
+AE,3,5,9.15,83,Photography Club,AI Engineer,Yes,OBC
+IT,1,1,6.16,68,Sports Club,Robotics Engineer,Yes,OBC
+CT,2,4,9.23,74,Drama Club,Entrepreneur,No,SC
+IT,4,7,5.53,89,NCC,AI Engineer,No,SC
+AI/ML,2,3,9.63,71,Music Club,Data Scientist,Yes,OBC
+AI/ML,1,1,8.67,90,NSS,AI Engineer,Yes,Merit
+CS,2,3,8.77,87,Drama Club,Data Scientist,No,OBC
+CS,4,8,5.7,66,NSS,Entrepreneur,Yes,EWS
+EE,2,3,9.22,99,Coding Club,Professor,Yes,Merit
+ETC,4,7,6.33,98,NSS,Professor,Yes,OBC
+AI/ML,3,5,5.83,68,NSS,Data Scientist,No,
+RE,1,1,9.09,82,Drama Club,Research Scientist,Yes,OBC
+IIOT,2,3,8.08,76,NSS,Data Scientist,Yes,SC
+CT,4,7,9.14,84,Robotics Club,AI Engineer,Yes,
+CE,2,4,7.5,97,Sports Club,Research Scientist,Yes,ST
+CS,3,6,5.59,73,Coding Club,Robotics Engineer,Yes,OBC
+RE,4,7,5.57,100,NSS,Research Scientist,Yes,
+AI/ML,1,1,6.56,91,Photography Club,Data Scientist,No,EWS
+AE,2,4,7.89,65,Drama Club,Entrepreneur,Yes,OBC
+AI/ML,2,3,7.03,82,Sports Club,Pilot,Yes,EWS
+EC,1,2,8.04,74,Drama Club,AI Engineer,Yes,ST
+CE,4,7,6.76,79,Drama Club,Data Scientist,Yes,EWS
+CE,2,3,7.28,97,Coding Club,Entrepreneur,Yes,ST
+ETC,4,7,8.54,83,Drama Club,Software Engineer,Yes,Merit
+AE,2,4,8.24,89,Coding Club,Professor,No,OBC
+CS,2,4,8.97,71,Coding Club,Professor,No,
+RE,1,1,7.5,90,NCC,Research Scientist,No,Merit
+CS,4,7,6.87,83,Drama Club,Professor,Yes,ST
+IIOT,4,8,8.98,89,Sports Club,Pilot,Yes,
+RE,4,8,6.78,64,Drama Club,Robotics Engineer,No,ST
+CS,4,7,9.06,69,NCC,AI Engineer,No,EWS
+CE,3,6,8.49,79,Coding Club,Pilot,Yes,
+CE,3,6,7.95,80,NSS,Professor,No,SC
+AE,2,3,8.56,71,Coding Club,Data Scientist,No,ST
+IIOT,1,1,6.51,88,Sports Club,Data Scientist,Yes,
+EC,2,4,8.36,63,NCC,Robotics Engineer,No,SC
+CT,3,5,9.27,85,Drama Club,AI Engineer,No,
+AE,3,5,5.74,65,NCC,Research Scientist,Yes,Merit
+ETC,2,3,6.3,66,Coding Club,Entrepreneur,No,SC
+AE,2,3,8.73,76,Coding Club,Pilot,Yes,
+ETC,3,6,7.0,87,NSS,AI Engineer,No,OBC
+AE,1,2,9.71,72,Music Club,Entrepreneur,No,ST
+AE,2,4,6.45,63,NSS,Professor,Yes,ST
+CS,2,4,9.64,92,Music Club,Pilot,Yes,Merit
+RE,1,2,5.89,87,Music Club,Data Scientist,Yes,EWS
+CS,2,3,9.4,66,Coding Club,AI Engineer,No,ST
+CT,2,3,5.57,99,Coding Club,Pilot,No,Merit
+EC,2,4,9.28,88,NSS,Research Scientist,No,SC
+RE,4,8,6.65,79,NCC,Data Scientist,Yes,ST
+CT,1,2,7.35,72,NSS,Research Scientist,Yes,
+AI/ML,1,1,5.53,80,NCC,Robotics Engineer,Yes,SC
+CS,1,1,9.14,63,Sports Club,Research Scientist,No,OBC
+ME,4,7,5.77,91,Photography Club,Pilot,No,ST
+CE,3,5,5.66,99,Music Club,Data Scientist,Yes,ST
+DS,2,3,5.6,67,Music Club,Professor,No,SC
+ETC,1,2,6.89,98,NCC,Software Engineer,No,SC
+DS,3,6,7.29,83,Coding Club,Entrepreneur,No,ST
+EE,4,7,6.38,60,Photography Club,AI Engineer,Yes,SC
+DS,4,7,8.5,99,NCC,Professor,No,Merit
+IIOT,4,8,5.63,74,Sports Club,Data Scientist,No,OBC
+CS,4,8,8.27,100,Photography Club,Entrepreneur,No,Merit
+CT,1,1,6.24,78,Robotics Club,Entrepreneur,No,
+CT,4,7,6.4,81,Music Club,Pilot,Yes,EWS
+EE,1,1,6.49,95,Drama Club,Entrepreneur,No,EWS
+RE,4,8,7.44,66,NCC,Data Scientist,No,EWS
+RE,2,3,6.98,70,Drama Club,Professor,No,OBC
+ETC,2,4,7.14,82,NSS,Robotics Engineer,No,Merit
+EE,2,3,7.16,97,Robotics Club,Professor,Yes,EWS
+ETC,3,6,9.62,69,Drama Club,Software Engineer,No,ST
+IIOT,4,7,7.89,77,Photography Club,Software Engineer,No,EWS
+CS,2,4,8.47,82,Coding Club,Entrepreneur,Yes,SC
+RE,1,1,7.69,98,NSS,Robotics Engineer,Yes,
+IIOT,3,5,7.16,91,Photography Club,Data Scientist,Yes,Merit
+AI/ML,4,8,7.43,76,Music Club,Pilot,Yes,
+CT,3,6,9.67,84,Drama Club,Professor,Yes,Merit
+AE,3,6,5.97,83,NCC,AI Engineer,No,Merit
+AE,4,8,8.09,96,Drama Club,Professor,Yes,OBC
+AI/ML,2,3,6.13,80,Photography Club,Data Scientist,Yes,
+AI/ML,4,8,9.3,71,NSS,Entrepreneur,No,
+IT,2,4,6.73,70,NSS,Data Scientist,No,EWS
+IIOT,1,1,6.93,96,Sports Club,Data Scientist,Yes,SC
+CE,1,2,7.21,63,Sports Club,Pilot,Yes,OBC
+ETC,3,5,7.26,68,Coding Club,Professor,Yes,SC
+ETC,4,7,9.26,83,Music Club,Robotics Engineer,Yes,
+AI/ML,1,2,8.09,67,Sports Club,Software Engineer,No,ST
+IT,1,2,6.5,92,NSS,Pilot,No,OBC
+RE,4,8,7.37,64,Drama Club,AI Engineer,No,SC
+CT,2,4,7.64,60,Photography Club,Research Scientist,Yes,Merit
+DS,1,1,7.43,85,Sports Club,Pilot,No,
+DS,3,5,8.87,74,Sports Club,Pilot,No,Merit
+DS,3,5,5.57,99,NSS,AI Engineer,No,Merit
+DS,3,5,9.69,100,Photography Club,Research Scientist,Yes,
+EE,3,5,5.6,85,Coding Club,Research Scientist,No,Merit
+CT,3,5,8.5,98,Robotics Club,Research Scientist,No,OBC
+ME,2,3,8.58,62,NSS,Research Scientist,No,ST
+CS,2,3,9.18,94,NCC,Software Engineer,No,OBC
+DS,2,3,5.79,96,Robotics Club,Pilot,No,EWS
+AE,1,2,8.21,76,NCC,Software Engineer,No,Merit
+EE,4,7,9.44,64,Photography Club,AI Engineer,Yes,EWS
+ME,4,8,9.31,97,NCC,Research Scientist,Yes,OBC
+IIOT,1,2,8.14,64,NSS,Software Engineer,Yes,
+CE,2,4,9.07,89,Robotics Club,AI Engineer,No,EWS
+RE,1,2,8.57,83,Robotics Club,Entrepreneur,Yes,OBC
+AE,1,1,6.6,84,NCC,Professor,No,OBC
+RE,1,2,8.59,70,Music Club,Software Engineer,Yes,SC
+ETC,4,8,7.08,93,Sports Club,AI Engineer,Yes,ST
+EE,2,4,7.62,72,Sports Club,Data Scientist,Yes,OBC
+EE,1,1,8.12,74,Coding Club,Pilot,No,ST
+ME,2,3,8.82,64,NCC,Professor,No,SC
+CS,4,7,9.65,66,NCC,AI Engineer,Yes,SC
+DS,4,7,6.7,87,Coding Club,Software Engineer,Yes,
+EC,2,3,8.56,77,NSS,Entrepreneur,No,Merit
+CS,3,6,9.36,69,Photography Club,Research Scientist,No,EWS
+RE,1,2,7.47,88,NCC,Software Engineer,Yes,EWS
+RE,4,8,8.17,82,NCC,Pilot,Yes,SC
+RE,4,7,9.43,69,Music Club,AI Engineer,Yes,SC
+CE,2,4,8.9,71,NSS,Professor,No,Merit
+IT,2,4,9.33,75,Photography Club,Data Scientist,No,OBC
+DS,1,2,7.75,87,Drama Club,Data Scientist,Yes,Merit
+EC,4,8,7.79,74,Robotics Club,Software Engineer,No,SC
+CT,4,8,5.61,70,Robotics Club,Software Engineer,No,EWS
+EC,1,2,8.4,85,Coding Club,Pilot,No,
+ETC,1,1,8.94,94,Photography Club,Data Scientist,No,ST
+EC,3,5,9.23,61,Photography Club,Software Engineer,Yes,EWS
+CE,4,7,8.99,69,Photography Club,AI Engineer,No,
+EE,1,1,5.98,96,NCC,Pilot,Yes,Merit
+ETC,4,8,8.09,92,Coding Club,Robotics Engineer,Yes,OBC
+CE,3,6,9.69,77,Coding Club,Pilot,Yes,
+CE,1,2,7.38,75,Photography Club,AI Engineer,Yes,Merit
+CS,2,4,7.63,61,Coding Club,Entrepreneur,Yes,Merit
+EE,3,6,8.21,80,Photography Club,Pilot,No,
+CS,3,5,9.7,69,Robotics Club,Entrepreneur,Yes,Merit
+IT,1,2,6.99,75,Sports Club,Pilot,No,
+IT,1,2,7.03,84,NCC,AI Engineer,Yes,OBC
+CS,1,2,9.8,100,Music Club,Professor,Yes,OBC
+ME,2,4,9.6,90,Photography Club,Data Scientist,Yes,SC
+CS,2,4,7.51,61,Music Club,Data Scientist,Yes,EWS
+CS,4,7,6.5,60,Robotics Club,Data Scientist,No,
+AI/ML,3,6,6.66,80,Drama Club,AI Engineer,Yes,Merit
+CE,3,6,7.75,72,Music Club,Software Engineer,Yes,Merit
+CE,3,6,6.37,99,Photography Club,Data Scientist,Yes,SC
+EC,4,7,6.54,99,Music Club,Professor,Yes,SC
+DS,4,7,9.68,84,Robotics Club,Data Scientist,No,ST
+CE,3,5,7.38,70,Coding Club,Research Scientist,Yes,EWS
+EC,3,5,6.27,86,NCC,Software Engineer,Yes,OBC
+IT,3,5,8.94,69,Robotics Club,Pilot,No,SC
+EC,4,8,6.67,91,NSS,Software Engineer,Yes,
+CE,2,3,9.54,76,Drama Club,Research Scientist,No,Merit
+AE,4,8,9.76,82,Music Club,Research Scientist,Yes,EWS
+CS,3,6,8.44,79,Music Club,Robotics Engineer,No,EWS
+ME,4,7,8.45,62,Sports Club,Software Engineer,Yes,Merit
+ME,3,5,6.6,88,Coding Club,AI Engineer,No,
+RE,3,6,8.5,83,Drama Club,Professor,Yes,
+CT,3,6,8.77,95,Drama Club,Professor,Yes,
+RE,2,3,6.97,75,Coding Club,Robotics Engineer,Yes,
+CT,4,8,7.02,70,Coding Club,Software Engineer,Yes,ST
+DS,3,6,7.05,94,Robotics Club,Data Scientist,Yes,ST
+CT,3,6,6.89,72,NSS,Research Scientist,No,SC
+CE,2,4,6.19,98,NSS,Pilot,No,EWS
+IIOT,1,1,7.47,61,Coding Club,AI Engineer,No,SC
+CT,1,1,7.33,69,Coding Club,Entrepreneur,Yes,ST
+IIOT,2,4,7.53,60,Robotics Club,Data Scientist,No,SC
+CT,4,7,9.72,97,Robotics Club,Pilot,No,Merit
+IT,1,2,5.54,90,Coding Club,AI Engineer,No,EWS
+IIOT,3,6,7.43,82,NCC,Robotics Engineer,Yes,ST
+EE,2,3,8.34,63,Sports Club,Professor,No,ST
+ETC,2,4,5.82,67,Coding Club,Robotics Engineer,Yes,SC
+CT,4,7,7.75,93,Sports Club,Data Scientist,No,EWS
+CE,3,6,5.83,96,Photography Club,Software Engineer,Yes,SC
+ETC,1,1,9.46,77,Coding Club,Robotics Engineer,Yes,SC
+ETC,3,6,7.71,78,Photography Club,Entrepreneur,No,SC
+AE,2,4,9.26,94,Drama Club,Entrepreneur,Yes,Merit
+ETC,2,3,9.69,87,Music Club,Software Engineer,Yes,EWS
+CT,2,4,9.46,98,Robotics Club,Pilot,No,SC
+IT,2,4,8.75,98,NCC,Robotics Engineer,Yes,
+CE,4,8,5.62,98,Drama Club,Research Scientist,Yes,ST
+DS,2,3,6.84,97,Robotics Club,Software Engineer,No,EWS
+ETC,2,3,6.4,60,Coding Club,Research Scientist,Yes,OBC
+ETC,4,8,5.68,65,NCC,Professor,Yes,ST
+AI/ML,3,6,7.63,88,Music Club,Robotics Engineer,Yes,ST
+ETC,3,5,8.23,84,NSS,Robotics Engineer,No,EWS
+DS,2,3,9.88,72,Robotics Club,Data Scientist,Yes,EWS
+RE,1,1,9.0,62,Drama Club,Robotics Engineer,No,
+IT,3,5,6.26,87,NSS,Software Engineer,No,
+IIOT,4,8,9.56,67,NCC,AI Engineer,No,EWS
+RE,3,5,6.54,61,Sports Club,Robotics Engineer,No,EWS
+EE,3,6,9.11,82,NCC,Professor,No,SC
+AI/ML,4,7,8.63,94,Coding Club,Robotics Engineer,No,
+IT,4,7,9.15,73,Photography Club,Research Scientist,Yes,OBC
+DS,3,5,9.58,70,Sports Club,Software Engineer,Yes,Merit
+AE,4,7,6.17,90,Coding Club,AI Engineer,No,
+EC,1,2,7.72,62,Robotics Club,AI Engineer,No,ST
+EC,1,1,6.03,99,Photography Club,Data Scientist,No,
+CE,3,5,6.94,76,NCC,Software Engineer,No,ST
+IT,3,6,7.35,85,NCC,AI Engineer,Yes,EWS
+EE,4,7,7.81,69,NSS,Entrepreneur,No,SC
+ME,4,8,9.56,74,Drama Club,Data Scientist,No,
+EE,3,5,9.23,88,NCC,Entrepreneur,No,ST
+DS,3,6,6.79,83,NSS,Research Scientist,No,EWS
+AI/ML,3,5,5.63,78,NCC,Entrepreneur,Yes,
+ME,2,4,7.92,90,Robotics Club,Software Engineer,No,SC
+EC,2,4,7.16,94,Photography Club,AI Engineer,No,OBC
+RE,1,2,5.83,60,Robotics Club,Research Scientist,Yes,EWS
+EC,2,3,6.83,100,Coding Club,Data Scientist,Yes,
+AI/ML,1,2,6.94,69,Photography Club,Software Engineer,No,Merit
+AI/ML,1,1,7.25,82,Music Club,Data Scientist,No,OBC
+IIOT,2,3,5.51,68,Photography Club,Entrepreneur,Yes,SC
+CT,3,6,9.43,63,NCC,Research Scientist,No,OBC
+EE,4,7,6.08,61,NSS,Software Engineer,Yes,EWS
+EC,1,2,7.14,88,Photography Club,Research Scientist,No,Merit
+ETC,3,6,5.6,92,Robotics Club,Pilot,No,EWS
+EC,3,5,7.45,83,Sports Club,AI Engineer,No,SC
+CT,3,5,8.29,83,Drama Club,Data Scientist,Yes,Merit
+RE,1,2,6.93,65,Robotics Club,Research Scientist,Yes,Merit
+AI/ML,4,7,8.72,88,Photography Club,Data Scientist,No,Merit
+IIOT,4,8,7.3,89,NSS,Pilot,No,OBC
+ETC,4,8,9.81,62,Music Club,Pilot,Yes,EWS
+CS,3,6,9.3,69,Drama Club,Professor,Yes,OBC
+IIOT,2,3,6.45,60,Music Club,Software Engineer,No,OBC
+CS,1,1,8.45,94,Robotics Club,Research Scientist,No,EWS
+AI/ML,1,2,7.5,75,NCC,Research Scientist,Yes,SC
+DS,3,6,8.27,90,Drama Club,Robotics Engineer,No,Merit
+ME,2,4,5.7,90,Photography Club,AI Engineer,No,OBC
+RE,3,5,7.0,87,Photography Club,Robotics Engineer,No,OBC
+IIOT,4,7,9.57,73,NCC,Software Engineer,No,EWS
+RE,2,3,5.77,74,Robotics Club,Research Scientist,No,ST
+CE,3,6,8.15,95,Drama Club,Robotics Engineer,Yes,ST
+ETC,3,5,7.34,100,NCC,Professor,Yes,OBC
+IIOT,1,1,8.9,92,Sports Club,Robotics Engineer,No,EWS
+AE,4,7,5.85,76,NSS,Research Scientist,Yes,Merit
+ETC,2,4,8.08,82,Photography Club,Robotics Engineer,Yes,OBC
+CE,2,3,9.53,61,NCC,Research Scientist,Yes,OBC
+ME,4,8,8.75,96,Photography Club,Research Scientist,No,
+DS,1,1,6.24,90,NCC,Pilot,Yes,Merit
+DS,4,7,5.86,90,Drama Club,Pilot,No,SC
+CE,2,3,8.04,62,Drama Club,Entrepreneur,Yes,
+CS,1,2,5.85,100,Photography Club,Research Scientist,Yes,OBC
+ME,2,3,9.16,96,Sports Club,Robotics Engineer,No,EWS
+CS,3,5,6.14,63,Sports Club,Software Engineer,No,SC
+DS,1,2,6.81,97,Coding Club,Software Engineer,No,ST
+RE,3,5,6.87,62,Sports Club,Professor,No,OBC
+RE,4,8,7.49,60,Sports Club,Professor,Yes,Merit
+AE,3,5,8.18,85,NCC,Entrepreneur,Yes,OBC
+AE,3,5,6.85,60,Robotics Club,AI Engineer,No,
+EC,4,8,5.67,72,NCC,Robotics Engineer,No,SC
+DS,2,3,6.99,73,NCC,Entrepreneur,No,SC
+IIOT,3,5,8.56,62,NCC,Data Scientist,No,OBC
+CT,1,1,9.21,82,Sports Club,Pilot,No,
+EC,1,2,9.11,85,Sports Club,AI Engineer,No,SC
+CE,3,6,6.08,67,Robotics Club,AI Engineer,Yes,Merit
+AE,2,3,8.9,68,Coding Club,Research Scientist,Yes,SC
+ME,2,3,7.46,90,NSS,Data Scientist,No,ST
+IIOT,3,6,9.51,67,Sports Club,Professor,No,SC
+EC,4,7,9.42,81,Robotics Club,Software Engineer,Yes,
+RE,3,6,7.52,63,Coding Club,Entrepreneur,Yes,OBC
+AE,4,8,9.35,64,Music Club,Entrepreneur,No,
+DS,1,1,8.39,82,NSS,Robotics Engineer,No,
+ME,2,4,9.4,87,NCC,Pilot,No,SC
+IT,3,5,5.89,88,Music Club,Robotics Engineer,Yes,
+DS,3,6,6.62,79,Music Club,Data Scientist,Yes,OBC
+EC,3,6,8.1,65,Music Club,Software Engineer,Yes,OBC
+ME,1,2,9.78,78,NCC,Software Engineer,Yes,OBC
+IT,4,8,7.91,83,Drama Club,Professor,No,Merit
+ME,4,7,9.1,79,Robotics Club,Professor,Yes,
+EC,3,6,7.69,71,NCC,AI Engineer,Yes,SC
+CE,1,1,8.13,79,Drama Club,Research Scientist,Yes,OBC
+IT,3,5,6.02,87,Drama Club,Entrepreneur,Yes,ST
+CS,4,7,9.84,79,Music Club,Entrepreneur,No,Merit
+ETC,4,7,8.72,88,Photography Club,Entrepreneur,Yes,EWS
+IT,2,3,9.42,100,NSS,Professor,Yes,EWS
+RE,1,2,9.68,61,Coding Club,Data Scientist,No,
+CS,4,7,7.59,69,NSS,AI Engineer,No,SC
+CE,2,4,5.68,87,Sports Club,Professor,Yes,
+DS,2,3,6.08,70,NCC,Research Scientist,Yes,
+CT,3,5,8.79,69,Robotics Club,Professor,Yes,ST
+AE,1,1,6.01,78,NCC,Research Scientist,No,EWS
+CS,1,2,9.27,95,Coding Club,Pilot,No,
+RE,4,8,6.9,81,NCC,Professor,Yes,
+CS,3,6,7.05,85,Robotics Club,Data Scientist,No,Merit
+DS,4,8,5.86,91,NSS,AI Engineer,No,EWS
+IT,2,3,6.31,62,Photography Club,Robotics Engineer,Yes,EWS
+EE,3,6,8.62,60,Robotics Club,Pilot,No,Merit
+IIOT,2,3,5.75,73,Coding Club,Research Scientist,Yes,Merit
+CS,2,4,6.34,79,Drama Club,Entrepreneur,No,OBC
+DS,3,6,6.37,88,Coding Club,AI Engineer,Yes,EWS
+RE,2,3,5.51,87,NCC,Robotics Engineer,No,ST
+IIOT,3,5,8.41,88,Photography Club,Entrepreneur,Yes,EWS
+IT,4,8,5.84,68,Drama Club,Robotics Engineer,No,OBC
+DS,4,8,9.31,92,Robotics Club,Pilot,No,EWS
+IT,3,5,7.73,76,NSS,AI Engineer,No,SC
+CE,1,1,9.42,87,Photography Club,Software Engineer,Yes,ST
+DS,1,1,8.72,100,NCC,Pilot,No,
+RE,3,5,7.53,84,Drama Club,Software Engineer,No,Merit
+DS,3,5,8.05,87,Drama Club,Pilot,No,
+DS,4,7,7.79,65,Music Club,Pilot,No,
+AE,3,6,8.5,76,Music Club,AI Engineer,Yes,EWS
+CT,1,1,6.93,60,Photography Club,Robotics Engineer,Yes,EWS
+DS,2,4,7.46,76,Sports Club,Entrepreneur,Yes,SC
+RE,2,3,9.62,100,Drama Club,Pilot,Yes,SC
+AE,2,3,8.87,61,Photography Club,Research Scientist,No,
+ME,1,1,7.17,89,Music Club,Research Scientist,Yes,OBC
+AE,1,1,7.72,84,Photography Club,AI Engineer,Yes,ST
+AI/ML,3,5,6.2,77,Music Club,Entrepreneur,No,OBC
+IIOT,1,1,7.64,83,NSS,Pilot,Yes,Merit
+IT,4,8,9.63,91,NCC,Entrepreneur,Yes,EWS
+IT,4,8,9.09,85,Robotics Club,AI Engineer,Yes,Merit
+DS,2,3,7.15,76,Music Club,Professor,Yes,SC
+IIOT,2,3,9.74,88,Drama Club,Pilot,No,SC
+EE,1,2,6.43,62,Photography Club,Professor,Yes,SC
+RE,1,2,9.82,76,Photography Club,AI Engineer,Yes,EWS
+ETC,3,6,7.74,88,Robotics Club,Professor,Yes,Merit
+CS,3,5,7.31,70,NSS,Professor,Yes,
+AE,3,6,6.87,86,Coding Club,AI Engineer,Yes,Merit
+CT,4,8,7.22,74,Sports Club,Pilot,Yes,Merit
+EE,3,5,7.93,73,Sports Club,Data Scientist,No,EWS
+IT,1,2,9.62,68,Coding Club,Research Scientist,No,OBC
+IIOT,4,8,7.76,94,Drama Club,AI Engineer,No,Merit
+CS,3,5,7.89,65,Music Club,Entrepreneur,Yes,EWS
+ME,4,7,6.85,75,NSS,Robotics Engineer,Yes,Merit
+RE,4,7,5.68,70,Drama Club,AI Engineer,No,
+CT,4,7,6.77,98,Drama Club,Software Engineer,No,
+AE,1,2,9.17,93,Music Club,Robotics Engineer,Yes,ST
+CT,3,5,7.22,93,Music Club,Pilot,No,
+DS,3,5,8.78,71,NCC,Software Engineer,No,Merit
+EC,1,1,5.72,96,Sports Club,Professor,No,OBC
+AI/ML,3,5,8.99,72,Sports Club,Pilot,Yes,ST
+EC,1,1,8.4,83,Drama Club,Professor,Yes,SC
+CS,1,2,5.79,70,Photography Club,Data Scientist,No,OBC
+AE,2,4,9.74,66,Robotics Club,Pilot,No,OBC
+AI/ML,2,3,8.2,92,NCC,Data Scientist,No,ST
+ME,1,1,9.85,66,Robotics Club,Research Scientist,No,OBC
+CE,1,1,7.61,73,NSS,Research Scientist,Yes,OBC
+EE,1,1,9.25,80,NCC,Research Scientist,No,
+IIOT,1,1,6.06,83,Robotics Club,Research Scientist,Yes,SC
+IIOT,2,3,7.13,82,Drama Club,AI Engineer,Yes,ST
+RE,4,8,6.99,93,Coding Club,Professor,Yes,
+CE,2,3,9.32,64,Robotics Club,Entrepreneur,No,ST
+AE,3,6,6.43,94,Drama Club,AI Engineer,Yes,OBC
+CE,4,7,8.86,80,Music Club,Robotics Engineer,No,
+IT,3,5,8.12,72,Drama Club,AI Engineer,No,OBC
+EC,3,6,8.95,75,NCC,Professor,Yes,
+EE,1,2,8.78,99,Photography Club,Robotics Engineer,No,Merit
+RE,4,8,7.25,70,Coding Club,Professor,Yes,OBC
+CT,1,1,6.61,69,Sports Club,Research Scientist,No,
+EC,2,3,5.66,90,Robotics Club,Research Scientist,Yes,
+ETC,4,8,9.34,77,Sports Club,Software Engineer,Yes,EWS
+ME,3,6,7.63,81,Drama Club,Research Scientist,No,
+CS,3,5,8.3,83,Music Club,Software Engineer,No,OBC
+IT,3,6,8.37,76,Music Club,Robotics Engineer,Yes,ST
+IT,3,6,7.22,84,Photography Club,Software Engineer,Yes,Merit
+DS,2,3,7.67,98,NCC,AI Engineer,Yes,
+ETC,1,2,5.66,96,NSS,Robotics Engineer,Yes,ST
+ETC,2,4,8.19,96,Photography Club,AI Engineer,No,SC
+ETC,2,3,8.2,84,Drama Club,Data Scientist,No,EWS
+AI/ML,4,8,7.81,100,Robotics Club,Professor,No,ST
+RE,3,6,6.39,89,Coding Club,Entrepreneur,Yes,
+CS,2,4,8.66,72,Coding Club,AI Engineer,Yes,ST
+ETC,1,2,6.68,95,Coding Club,Research Scientist,Yes,EWS
+CS,1,2,6.81,70,Robotics Club,Data Scientist,Yes,
+AI/ML,1,2,6.74,91,NCC,Entrepreneur,No,
+EE,1,2,6.11,94,Music Club,Software Engineer,Yes,
+ME,2,3,9.63,95,Robotics Club,Data Scientist,No,SC
+IIOT,1,2,6.77,60,Music Club,Robotics Engineer,Yes,
+CS,1,1,5.71,97,Music Club,Entrepreneur,Yes,Merit
+ETC,2,4,6.94,68,NSS,Pilot,Yes,EWS
+IIOT,3,5,7.8,97,Sports Club,AI Engineer,Yes,EWS
+IIOT,3,6,6.9,92,Coding Club,Professor,Yes,
+IIOT,4,7,8.53,93,Sports Club,Data Scientist,No,
+IIOT,1,2,6.62,63,Photography Club,Data Scientist,Yes,EWS
+IT,1,2,9.53,89,NSS,Research Scientist,Yes,EWS
+AI/ML,2,4,7.0,66,Robotics Club,Pilot,No,
+EE,2,3,8.3,90,Drama Club,Research Scientist,No,ST
+CE,4,8,8.74,83,Sports Club,Entrepreneur,Yes,EWS
+AI/ML,3,5,7.56,62,Music Club,Entrepreneur,Yes,Merit
+CT,3,6,7.07,67,Photography Club,Pilot,No,SC
+ETC,3,5,8.62,76,NCC,Pilot,No,OBC
+ETC,4,7,8.33,83,NCC,Entrepreneur,No,SC
+RE,1,1,9.87,88,NSS,Research Scientist,Yes,Merit
+ME,4,7,8.82,62,Coding Club,Software Engineer,Yes,OBC
+IIOT,2,4,9.38,66,Photography Club,Research Scientist,Yes,Merit
+IIOT,1,2,8.28,80,Coding Club,AI Engineer,Yes,
+IIOT,1,2,5.74,65,Coding Club,Robotics Engineer,Yes,SC
+DS,3,5,9.1,80,Robotics Club,Research Scientist,Yes,SC
+DS,2,3,6.78,78,Robotics Club,Software Engineer,No,OBC
+EC,2,4,9.12,87,Music Club,Data Scientist,No,SC
+IT,2,3,8.32,98,Music Club,Software Engineer,Yes,EWS
+CT,3,5,6.35,95,NSS,Professor,Yes,ST
+CS,2,3,6.85,94,Coding Club,Research Scientist,Yes,ST
+IIOT,1,1,8.79,85,Drama Club,Entrepreneur,No,SC
+ETC,1,1,7.72,75,NCC,Pilot,No,OBC
+IT,3,6,5.69,66,Drama Club,Professor,Yes,Merit
+RE,3,6,6.02,82,Music Club,Research Scientist,Yes,EWS
+CE,2,3,7.47,75,Drama Club,Professor,Yes,ST
+DS,2,4,5.99,78,Photography Club,Professor,Yes,EWS
+AE,4,8,9.39,92,Coding Club,Pilot,No,EWS
+AE,4,8,8.52,77,NSS,Software Engineer,Yes,
+RE,2,3,6.84,65,NCC,Robotics Engineer,Yes,OBC
+ETC,3,6,6.12,74,Photography Club,AI Engineer,No,SC
+EE,2,3,8.7,97,Coding Club,AI Engineer,Yes,Merit
+CT,1,1,6.04,65,Photography Club,Data Scientist,Yes,EWS
+AI/ML,1,2,6.38,92,NCC,Professor,Yes,Merit
+DS,2,4,7.47,65,Photography Club,AI Engineer,Yes,SC
+ETC,2,3,8.01,61,Drama Club,Data Scientist,No,SC
+EE,1,1,9.23,62,Photography Club,Software Engineer,Yes,
+CS,4,7,5.89,72,Sports Club,Pilot,No,ST
+AE,2,4,8.67,87,Music Club,Software Engineer,No,Merit
+IT,1,2,7.4,67,NSS,Professor,Yes,OBC
+IIOT,3,5,6.05,83,Drama Club,Entrepreneur,Yes,
+IIOT,3,6,6.79,87,Drama Club,AI Engineer,Yes,EWS
+IIOT,1,2,9.25,78,Music Club,Professor,No,ST
+DS,4,8,6.32,80,Sports Club,AI Engineer,No,
+CS,1,2,7.42,69,Sports Club,Research Scientist,Yes,OBC
+CS,4,8,9.41,65,Coding Club,Entrepreneur,No,EWS
+RE,2,4,7.19,92,NSS,Professor,No,
+ME,3,6,6.91,71,Coding Club,Robotics Engineer,No,
+CS,3,5,8.68,76,Music Club,Research Scientist,No,Merit
+CT,2,4,9.46,76,NCC,Research Scientist,Yes,OBC
+AI/ML,4,7,8.57,84,Drama Club,Entrepreneur,No,Merit
+ME,4,7,7.42,69,Music Club,AI Engineer,No,EWS
+CE,2,3,5.97,80,Photography Club,Entrepreneur,No,ST
+RE,1,2,8.71,89,Coding Club,AI Engineer,No,SC
+AE,3,5,6.77,81,Sports Club,Robotics Engineer,No,
+DS,2,4,6.2,67,NCC,Data Scientist,Yes,
+ME,2,3,6.95,100,NCC,Data Scientist,Yes,OBC
+IT,1,2,5.54,75,Robotics Club,Entrepreneur,No,SC
+CE,4,7,9.59,60,Sports Club,Research Scientist,No,Merit
+IT,1,2,8.17,94,Sports Club,Professor,Yes,SC
+AE,1,2,5.82,73,Coding Club,Pilot,Yes,ST
+ME,1,2,9.56,100,Music Club,Data Scientist,Yes,OBC
+CS,1,1,7.39,85,Robotics Club,Research Scientist,No,ST
+ETC,1,1,8.53,67,Sports Club,Professor,No,SC
+EC,4,8,7.07,95,Robotics Club,Entrepreneur,Yes,
+EE,3,5,7.0,93,Music Club,Robotics Engineer,No,OBC
+IT,4,8,7.91,95,Sports Club,Professor,No,ST
+RE,3,5,6.68,78,NCC,Entrepreneur,Yes,ST
+IIOT,2,4,6.54,84,NCC,Professor,No,SC
+CT,3,5,8.01,93,Drama Club,Professor,No,Merit
+RE,4,7,7.6,84,Photography Club,AI Engineer,Yes,Merit
+EE,2,4,5.67,67,Coding Club,AI Engineer,No,ST
+EC,1,1,6.12,88,Sports Club,Pilot,No,EWS
+DS,4,8,5.66,98,Photography Club,Research Scientist,No,EWS
+EC,3,6,6.99,72,Music Club,Research Scientist,No,
+DS,4,8,9.71,70,Photography Club,Robotics Engineer,Yes,ST
+EC,1,2,7.27,95,Sports Club,Data Scientist,Yes,
+CT,3,5,6.98,61,Coding Club,AI Engineer,Yes,OBC
+CS,4,7,7.0,78,NSS,AI Engineer,Yes,EWS
+RE,4,8,8.82,79,Robotics Club,AI Engineer,No,
+ME,2,4,8.38,73,Coding Club,Data Scientist,Yes,
+CT,1,2,5.63,98,Robotics Club,Entrepreneur,No,Merit
+RE,3,6,9.21,82,Photography Club,Research Scientist,Yes,
+IIOT,2,3,9.56,77,NCC,Software Engineer,Yes,EWS
+CE,2,3,6.99,73,NSS,Data Scientist,No,SC
+EE,3,5,9.49,81,Photography Club,Entrepreneur,No,Merit
+AE,2,3,6.38,84,Drama Club,Data Scientist,No,EWS
+EC,3,6,8.5,79,Robotics Club,Entrepreneur,No,Merit
+AE,3,6,7.7,98,Robotics Club,Data Scientist,No,Merit
+AI/ML,2,4,8.21,93,Sports Club,Research Scientist,Yes,SC
+EE,3,5,7.98,97,Robotics Club,Research Scientist,No,
+AE,2,4,7.8,80,Drama Club,AI Engineer,No,SC
+CE,1,1,9.08,84,Photography Club,Robotics Engineer,Yes,OBC
+IT,2,4,6.62,78,Photography Club,Pilot,Yes,Merit
+IIOT,3,6,6.96,86,Drama Club,Software Engineer,No,OBC
+ME,3,6,7.87,97,Drama Club,Software Engineer,Yes,SC
+DS,4,7,7.66,94,Coding Club,Professor,No,SC
+AE,4,7,7.51,60,Music Club,Research Scientist,No,
+AI/ML,3,6,6.75,84,Photography Club,Research Scientist,Yes,OBC
+CT,2,4,8.97,83,Robotics Club,AI Engineer,Yes,EWS
+CT,4,7,7.69,86,NCC,Entrepreneur,No,Merit
+EE,1,1,9.14,66,NSS,Software Engineer,Yes,
+EE,4,8,5.71,93,NSS,AI Engineer,Yes,ST
+ME,4,8,6.53,69,Drama Club,Robotics Engineer,Yes,
+DS,2,3,8.76,100,Robotics Club,Professor,Yes,Merit
+AE,1,2,6.46,88,Coding Club,Professor,Yes,OBC
+ETC,3,5,7.46,70,Music Club,Robotics Engineer,Yes,EWS
+IT,2,3,9.46,84,NSS,Professor,Yes,Merit
+ME,4,8,7.78,90,Photography Club,AI Engineer,No,SC
+EC,2,3,6.78,98,Coding Club,Entrepreneur,No,EWS
+CS,2,4,5.6,76,Photography Club,Data Scientist,No,OBC
+ME,2,3,9.03,67,NCC,Entrepreneur,Yes,ST
+CE,1,2,6.76,66,Sports Club,Data Scientist,No,ST
+EC,1,2,6.56,94,Photography Club,Pilot,Yes,SC
+CE,2,3,8.31,97,Photography Club,Entrepreneur,Yes,SC
+RE,4,8,6.32,67,Sports Club,Robotics Engineer,No,Merit
+AI/ML,1,2,6.61,81,Coding Club,Entrepreneur,No,OBC
+CT,3,6,6.22,69,Photography Club,Robotics Engineer,No,OBC
+ME,1,1,9.42,85,NCC,Entrepreneur,No,OBC
+IT,1,1,7.05,76,Sports Club,Robotics Engineer,No,Merit
+EE,3,5,8.07,79,Coding Club,Software Engineer,Yes,
+AE,3,6,6.78,89,Sports Club,Data Scientist,Yes,
+IIOT,1,1,8.4,86,NCC,Software Engineer,Yes,OBC
+CT,3,5,6.44,62,Photography Club,Professor,Yes,OBC
+CE,3,6,7.81,75,Robotics Club,Professor,Yes,
+CE,1,1,7.1,78,Photography Club,Robotics Engineer,No,
+ETC,1,1,7.58,68,Music Club,Software Engineer,No,ST
+AI/ML,4,8,8.14,100,Sports Club,Professor,Yes,EWS
+AE,2,4,7.83,68,NCC,Data Scientist,No,Merit
+ETC,3,5,7.1,64,Sports Club,Robotics Engineer,No,Merit
+ETC,3,6,7.88,84,Drama Club,Research Scientist,No,Merit
+ETC,4,8,8.62,60,NCC,Entrepreneur,No,Merit
+IT,1,2,8.71,61,Sports Club,Professor,No,OBC
+AI/ML,4,8,9.37,93,Photography Club,Entrepreneur,Yes,Merit
+IIOT,2,4,7.47,63,NCC,Robotics Engineer,Yes,SC
+CE,2,4,9.8,63,Music Club,Pilot,Yes,ST
+IIOT,4,7,8.17,95,Sports Club,Pilot,Yes,Merit
+ME,4,7,7.02,100,Drama Club,Pilot,No,EWS
+EC,2,3,5.8,72,Robotics Club,Entrepreneur,Yes,ST
+EC,3,6,9.15,68,Music Club,Professor,No,OBC
+ETC,1,2,8.97,88,NCC,Research Scientist,Yes,Merit
+CE,2,4,7.5,80,Music Club,Pilot,Yes,ST
+IIOT,4,7,5.82,84,Drama Club,Robotics Engineer,Yes,OBC
+RE,2,3,5.54,90,NSS,AI Engineer,Yes,
+AE,2,4,9.03,81,Coding Club,AI Engineer,Yes,
+IIOT,4,7,5.8,86,Coding Club,Data Scientist,No,Merit
+IT,1,2,8.86,67,Photography Club,Pilot,Yes,EWS
+IIOT,3,5,8.68,70,NCC,Software Engineer,Yes,OBC
+CT,1,2,6.65,89,Music Club,Robotics Engineer,No,ST
+IIOT,1,2,8.85,95,Robotics Club,Research Scientist,Yes,SC
+CE,2,4,9.89,96,NSS,Entrepreneur,Yes,SC
+IIOT,1,1,6.18,94,Robotics Club,Pilot,No,Merit
+EE,3,6,6.03,96,Photography Club,Professor,No,OBC
+DS,4,8,9.11,83,Drama Club,Research Scientist,No,ST
+DS,4,8,6.32,93,Drama Club,Research Scientist,No,OBC
+IT,2,3,5.98,92,Coding Club,Software Engineer,No,Merit
+CE,2,4,5.92,82,Robotics Club,Data Scientist,Yes,Merit
+CE,2,3,8.19,100,NCC,Data Scientist,No,SC
+ETC,2,4,6.98,93,Photography Club,Research Scientist,Yes,Merit
+AI/ML,3,6,6.06,61,NSS,Entrepreneur,No,OBC
+RE,4,8,8.59,69,Photography Club,Entrepreneur,Yes,EWS
+EC,1,1,5.74,89,Music Club,Professor,Yes,ST
+CT,1,2,9.34,69,Music Club,Research Scientist,No,
+ME,4,7,8.67,91,Sports Club,Pilot,No,EWS
+EE,4,7,8.0,69,Sports Club,Data Scientist,No,EWS
+ME,3,5,6.32,94,Music Club,Entrepreneur,Yes,OBC
+ME,4,8,6.69,78,Drama Club,Entrepreneur,Yes,OBC
+IT,4,7,6.58,93,Coding Club,AI Engineer,Yes,EWS
+CT,3,6,5.88,69,NCC,Entrepreneur,No,SC
+EC,3,6,6.59,78,Coding Club,Data Scientist,Yes,OBC
+EE,1,2,8.08,98,Coding Club,Software Engineer,Yes,EWS
+CT,3,6,6.9,80,Photography Club,Pilot,Yes,Merit
+RE,4,8,7.68,62,Coding Club,AI Engineer,Yes,EWS
+CS,4,8,9.72,99,Drama Club,Pilot,Yes,EWS
+CE,1,2,6.93,90,Drama Club,Research Scientist,Yes,OBC
+AE,2,4,6.87,90,Coding Club,Professor,No,ST
+CE,3,6,8.87,97,Photography Club,Robotics Engineer,No,OBC
+ETC,2,4,6.04,81,NSS,Entrepreneur,Yes,
+AE,2,4,5.54,83,Sports Club,Data Scientist,No,ST
+ETC,1,1,7.64,94,Sports Club,Software Engineer,Yes,SC
+ME,4,7,8.53,91,Drama Club,Entrepreneur,Yes,EWS
+AE,4,7,6.12,73,Photography Club,Software Engineer,No,
+RE,1,2,9.2,65,Drama Club,Robotics Engineer,Yes,
+AI/ML,2,4,9.67,68,Drama Club,Robotics Engineer,No,OBC
+CS,1,2,5.98,62,NSS,Data Scientist,Yes,ST
+AE,2,4,8.48,98,Coding Club,Software Engineer,Yes,SC
+IT,1,1,5.59,97,Drama Club,AI Engineer,Yes,SC
+CT,1,1,8.59,70,Sports Club,Entrepreneur,No,
+DS,3,6,7.64,79,Sports Club,Data Scientist,Yes,
+CE,1,1,6.6,81,Coding Club,Robotics Engineer,Yes,OBC
+ME,2,3,9.64,61,NCC,Professor,No,ST
+ETC,4,8,6.24,94,Sports Club,Robotics Engineer,No,SC
+DS,2,3,8.78,83,Sports Club,Entrepreneur,No,SC
+ME,4,7,9.03,83,Drama Club,Data Scientist,No,Merit
+DS,1,1,6.27,87,Drama Club,Pilot,Yes,EWS
+AE,2,4,9.3,99,Music Club,Software Engineer,Yes,SC
+DS,4,8,7.89,99,Robotics Club,Research Scientist,Yes,OBC
+EE,1,2,5.63,62,Robotics Club,Robotics Engineer,No,Merit
+IIOT,3,5,7.62,84,NCC,Research Scientist,No,Merit
+ME,1,2,6.56,78,Sports Club,Pilot,No,SC
+CS,2,3,9.59,60,NCC,Data Scientist,Yes,EWS
+ME,1,1,6.81,83,Photography Club,Pilot,Yes,SC
+CS,3,5,9.86,82,NCC,Data Scientist,Yes,EWS
+CS,3,6,9.46,77,Music Club,Robotics Engineer,No,
+ME,2,3,8.99,82,NSS,Robotics Engineer,No,ST
+AE,1,1,8.82,74,NCC,Professor,Yes,EWS
+IT,3,6,7.44,69,Drama Club,Professor,No,Merit
+AE,1,2,7.43,68,Music Club,Professor,No,
+CE,4,7,6.81,96,Robotics Club,AI Engineer,No,
+DS,2,4,5.68,68,Robotics Club,Software Engineer,No,OBC
+RE,3,6,7.83,87,Drama Club,Robotics Engineer,Yes,SC
+ME,4,7,6.31,85,Robotics Club,AI Engineer,No,
+ME,2,4,7.91,71,Photography Club,Software Engineer,No,Merit
+EC,1,1,6.51,85,Robotics Club,Software Engineer,Yes,OBC
+AE,2,3,5.77,87,Music Club,Research Scientist,No,EWS
+RE,4,8,7.98,62,NCC,Pilot,No,Merit
+EC,4,7,8.78,62,Drama Club,Robotics Engineer,No,Merit
+AI/ML,2,3,7.86,79,Music Club,AI Engineer,Yes,EWS
+ME,3,5,8.99,66,Photography Club,Robotics Engineer,No,EWS
+AI/ML,4,7,6.91,88,Robotics Club,Robotics Engineer,Yes,SC
+DS,3,5,6.21,90,Music Club,Data Scientist,No,
+EC,4,8,8.09,72,Sports Club,Entrepreneur,Yes,OBC
+DS,4,7,8.07,66,NSS,Pilot,Yes,EWS
+CS,4,8,7.92,71,Sports Club,Pilot,Yes,OBC
+RE,3,6,6.13,78,Photography Club,Robotics Engineer,No,OBC
+EE,2,3,5.93,99,NCC,Data Scientist,No,OBC
+ME,2,3,7.07,90,Photography Club,AI Engineer,No,ST
+ME,3,5,5.66,95,Robotics Club,Pilot,Yes,Merit
+DS,3,6,7.78,78,Sports Club,Robotics Engineer,No,OBC
+EC,4,7,8.1,83,Robotics Club,Robotics Engineer,Yes,EWS
+ME,4,7,6.9,63,Music Club,Research Scientist,Yes,Merit
+DS,2,4,5.63,87,NSS,Research Scientist,No,EWS
+ME,1,2,7.61,81,Coding Club,Software Engineer,No,
+CE,1,1,6.92,79,Robotics Club,Software Engineer,Yes,
+IT,2,3,6.13,74,Photography Club,AI Engineer,Yes,SC
+CS,4,7,7.21,68,NCC,Professor,Yes,
+IT,1,1,7.72,74,NCC,Research Scientist,Yes,ST
+RE,4,7,8.51,62,Sports Club,Research Scientist,No,OBC
+ETC,4,7,7.67,63,Photography Club,Pilot,No,
+ME,3,5,8.29,60,Robotics Club,Robotics Engineer,Yes,OBC
+CT,3,6,8.87,96,NCC,Pilot,No,SC
+ETC,4,8,8.07,91,NCC,Professor,Yes,
+ETC,4,7,9.34,100,Coding Club,Entrepreneur,Yes,Merit
+IIOT,2,3,5.8,71,NCC,Research Scientist,Yes,Merit
+AI/ML,1,2,8.91,98,Coding Club,Research Scientist,Yes,Merit
+CS,3,6,5.87,60,Sports Club,Software Engineer,No,
+AE,2,3,8.92,76,Coding Club,Professor,Yes,OBC
+EC,3,6,6.44,97,Photography Club,Pilot,Yes,EWS
+DS,1,1,8.37,81,NCC,Software Engineer,Yes,
+ME,3,5,7.78,62,Music Club,Professor,Yes,SC
+CT,2,4,6.86,80,NCC,Entrepreneur,Yes,OBC
+ETC,4,7,9.86,91,Robotics Club,Software Engineer,No,
+EE,2,3,7.53,93,NSS,AI Engineer,No,Merit
+ETC,1,2,7.88,98,NCC,AI Engineer,Yes,EWS
+AE,4,8,5.82,64,Drama Club,Entrepreneur,Yes,ST
+AE,2,4,8.57,95,NCC,Software Engineer,No,OBC
+RE,1,1,6.66,97,Coding Club,AI Engineer,No,OBC
+EE,4,8,9.87,71,Music Club,Robotics Engineer,No,OBC
+ETC,1,1,8.32,94,NSS,Professor,No,EWS
+EC,2,4,6.71,62,Sports Club,Research Scientist,No,ST
+CS,3,6,8.45,93,Sports Club,Entrepreneur,No,Merit
+CS,3,6,7.3,63,Sports Club,Data Scientist,Yes,OBC
+CE,2,4,9.39,98,Coding Club,Pilot,No,SC
+AE,1,1,8.8,91,Robotics Club,Robotics Engineer,No,Merit
+EC,2,4,7.2,64,Sports Club,AI Engineer,No,OBC
+AI/ML,1,2,6.5,83,NCC,Research Scientist,Yes,ST
+ME,4,8,5.57,84,Coding Club,Research Scientist,No,Merit
+IIOT,2,4,9.26,73,NSS,Software Engineer,No,Merit
+CS,4,7,7.49,65,Drama Club,Entrepreneur,Yes,ST
+IT,2,4,8.85,68,Sports Club,Software Engineer,Yes,SC
+AI/ML,1,1,8.76,83,NSS,Pilot,No,Merit
+EE,4,8,8.35,96,Photography Club,Software Engineer,Yes,ST
+IIOT,3,6,9.07,97,Sports Club,Data Scientist,Yes,Merit
+CT,4,8,9.61,90,Photography Club,Software Engineer,No,ST
+CS,1,2,5.62,60,NSS,Research Scientist,Yes,ST
+AE,3,6,7.3,67,Robotics Club,Software Engineer,No,OBC
+DS,3,5,6.24,96,Coding Club,Software Engineer,No,Merit
+EC,4,7,6.38,90,NSS,Entrepreneur,Yes,ST
+ME,1,2,5.87,70,Photography Club,Pilot,No,OBC
+IT,2,3,9.5,81,Music Club,AI Engineer,No,ST
+DS,3,5,8.55,100,NCC,Data Scientist,No,EWS
+DS,4,7,9.57,80,Music Club,Professor,No,OBC
+EC,3,5,9.77,94,Drama Club,Software Engineer,Yes,OBC
+DS,3,5,8.83,96,Robotics Club,Professor,No,
+IIOT,3,5,7.49,91,Coding Club,Data Scientist,No,EWS
+AI/ML,2,4,9.11,72,Sports Club,Research Scientist,Yes,
+EE,3,6,9.25,63,Music Club,Research Scientist,No,
+IIOT,4,7,5.82,67,Drama Club,Robotics Engineer,No,SC
+IT,3,5,9.65,93,Robotics Club,Software Engineer,Yes,
+IIOT,4,7,6.23,98,Music Club,Research Scientist,Yes,EWS
+CE,2,3,9.08,82,Music Club,AI Engineer,Yes,ST
+IT,1,1,8.43,75,Sports Club,Robotics Engineer,No,ST
+ETC,1,2,9.83,79,NCC,Pilot,No,OBC
+IT,2,4,7.2,89,Drama Club,Research Scientist,Yes,SC
+IT,1,2,8.91,85,Photography Club,Entrepreneur,Yes,SC
+EE,3,5,9.22,91,Photography Club,Entrepreneur,Yes,ST
+CT,2,4,7.57,63,Drama Club,AI Engineer,Yes,ST
+DS,2,3,7.88,64,Photography Club,Software Engineer,Yes,SC
+ME,1,2,6.2,77,Drama Club,Research Scientist,Yes,Merit
+AE,3,6,7.93,73,Coding Club,Entrepreneur,No,EWS
+CT,4,7,8.72,94,NSS,AI Engineer,Yes,SC
+ETC,3,5,8.87,81,Music Club,Data Scientist,Yes,EWS
+EC,3,5,8.55,62,Drama Club,Data Scientist,Yes,Merit
+AE,4,8,6.16,62,Photography Club,AI Engineer,No,
+CT,1,1,8.44,83,Sports Club,Pilot,Yes,EWS
+IT,1,1,9.52,61,NSS,Research Scientist,No,SC
+EE,2,3,5.88,71,Music Club,Entrepreneur,No,SC
+ME,4,8,8.73,64,Coding Club,Pilot,No,ST
+AE,1,2,9.32,88,NSS,AI Engineer,No,ST
+AE,4,7,8.75,70,Sports Club,Entrepreneur,No,EWS
+ETC,1,1,6.79,68,Photography Club,Robotics Engineer,Yes,SC
+ETC,3,5,9.57,82,Sports Club,Data Scientist,No,OBC
+ME,1,1,7.56,91,Drama Club,Entrepreneur,Yes,SC
+DS,4,8,9.32,97,Drama Club,Data Scientist,No,ST
+RE,3,6,5.87,93,NSS,Research Scientist,Yes,Merit
+ETC,4,7,5.55,100,Music Club,AI Engineer,No,EWS
+CS,4,8,8.71,75,NCC,AI Engineer,Yes,EWS
+ETC,3,5,9.17,76,Robotics Club,Robotics Engineer,Yes,Merit
+IIOT,1,1,6.08,85,NCC,Pilot,No,OBC
+CT,1,1,6.6,63,Photography Club,Entrepreneur,No,Merit
+CS,3,5,8.41,89,NCC,Data Scientist,Yes,ST
+EE,1,2,9.35,76,Robotics Club,Pilot,No,Merit
+IT,3,6,7.45,96,Coding Club,Research Scientist,No,
+AI/ML,1,2,6.06,92,Music Club,Professor,No,
+AI/ML,4,7,7.51,77,Sports Club,Data Scientist,Yes,EWS
+CS,1,1,9.23,89,Photography Club,Data Scientist,Yes,OBC
+ETC,3,6,7.0,73,Robotics Club,AI Engineer,Yes,
+IT,2,3,7.46,98,Coding Club,Research Scientist,No,Merit
+IT,1,2,6.19,100,NCC,Data Scientist,No,
+ETC,2,4,8.85,72,Sports Club,Entrepreneur,Yes,
+IT,4,8,7.43,76,Drama Club,Data Scientist,No,SC
+EE,4,7,5.55,79,Robotics Club,Robotics Engineer,Yes,Merit
+CE,2,4,7.06,80,Photography Club,Pilot,Yes,EWS
+EE,4,8,6.04,100,NSS,Robotics Engineer,No,Merit
+CE,3,5,8.14,60,Sports Club,Robotics Engineer,Yes,ST
+ME,1,1,6.4,64,Drama Club,Software Engineer,Yes,
+IT,4,7,7.79,65,Drama Club,Entrepreneur,Yes,OBC
+CS,3,5,6.54,77,Drama Club,AI Engineer,No,OBC
+IIOT,4,8,8.7,74,Robotics Club,Professor,Yes,SC
+AE,1,1,9.0,80,Drama Club,AI Engineer,No,ST
+ETC,4,8,6.49,88,Robotics Club,Professor,No,SC
+RE,2,4,6.75,70,Photography Club,Professor,Yes,SC
+CE,2,3,6.29,99,Coding Club,Professor,No,OBC
+EC,4,8,6.32,85,Coding Club,Research Scientist,No,EWS
+AI/ML,4,8,8.54,93,Robotics Club,Professor,No,Merit
+EC,2,3,9.8,65,Music Club,Professor,No,SC
+AI/ML,3,6,6.31,61,Photography Club,Data Scientist,No,Merit
+AI/ML,2,4,8.0,95,Sports Club,Software Engineer,Yes,ST
+CS,3,6,8.84,86,NSS,Software Engineer,No,EWS
+EC,2,3,7.62,60,Sports Club,Pilot,Yes,Merit
+ETC,1,2,6.0,72,Robotics Club,AI Engineer,Yes,SC
+CT,1,1,6.96,97,Music Club,Professor,No,Merit
+EE,4,7,7.45,82,Photography Club,Data Scientist,No,EWS
+EC,4,8,8.96,99,Drama Club,Pilot,Yes,Merit
+CS,3,5,8.97,87,Drama Club,Robotics Engineer,No,Merit
+DS,3,5,7.52,60,Coding Club,Research Scientist,Yes,Merit
+CS,4,7,5.85,76,Photography Club,Entrepreneur,Yes,EWS
+EC,4,8,8.52,85,NSS,Robotics Engineer,No,
+ME,2,3,9.36,78,NCC,Software Engineer,No,EWS
+DS,3,6,9.82,68,Sports Club,Robotics Engineer,No,EWS
+RE,4,7,7.18,72,Music Club,Data Scientist,Yes,EWS
+ME,1,1,7.6,63,Sports Club,Entrepreneur,Yes,Merit
+ME,3,5,6.25,96,NSS,Data Scientist,Yes,ST
+DS,1,2,7.38,91,NCC,Data Scientist,No,Merit
+AE,4,8,8.38,73,Coding Club,AI Engineer,No,
+IT,3,6,5.61,74,Drama Club,Professor,Yes,EWS
+AI/ML,4,8,8.05,63,Coding Club,Pilot,Yes,
+IIOT,3,5,6.06,63,NCC,AI Engineer,Yes,Merit
+EC,2,4,7.46,81,Robotics Club,Data Scientist,No,ST
+AE,2,4,9.6,72,Robotics Club,AI Engineer,No,Merit
+IT,3,6,8.56,88,Drama Club,Professor,Yes,ST
+IIOT,2,3,5.59,97,NSS,Professor,Yes,OBC
+IIOT,4,7,6.26,91,Music Club,Entrepreneur,No,SC
+ETC,4,8,9.8,94,NCC,Data Scientist,No,OBC
+ETC,3,6,8.68,94,Sports Club,Software Engineer,Yes,Merit
+EC,4,8,7.06,91,NSS,Entrepreneur,Yes,SC
+AI/ML,2,3,8.55,67,NCC,Software Engineer,Yes,
+EC,4,7,9.18,62,NCC,AI Engineer,No,
+ME,3,6,6.54,68,Music Club,Software Engineer,Yes,EWS
+IT,4,7,8.84,92,NSS,Entrepreneur,No,
+IT,4,7,8.63,84,Drama Club,Entrepreneur,No,ST
+AE,4,7,7.42,62,NCC,Research Scientist,Yes,SC
+CS,1,2,8.24,83,Music Club,AI Engineer,No,OBC
+AI/ML,3,6,7.28,97,Drama Club,Pilot,Yes,
+IT,1,2,6.47,75,Coding Club,Professor,Yes,SC
+AI/ML,4,8,7.79,80,Music Club,AI Engineer,No,EWS
+AI/ML,2,4,6.63,85,Photography Club,AI Engineer,No,ST
+IIOT,1,2,7.81,75,Music Club,Data Scientist,No,SC
+CT,1,1,7.38,63,Robotics Club,Entrepreneur,Yes,OBC
+ETC,1,1,9.37,97,NSS,Entrepreneur,No,ST
+IT,1,1,6.15,84,Coding Club,Data Scientist,No,
+EE,1,1,9.43,77,NSS,Professor,No,SC
+AI/ML,4,7,8.85,60,Drama Club,Data Scientist,Yes,EWS
+AI/ML,3,5,7.27,83,Music Club,Pilot,Yes,SC
+IT,3,5,7.83,96,Coding Club,AI Engineer,No,EWS
+CS,2,4,9.22,76,Photography Club,Robotics Engineer,No,SC
+IIOT,3,6,8.95,86,Photography Club,Entrepreneur,Yes,Merit
+CE,1,1,9.78,63,Drama Club,Robotics Engineer,No,EWS
+AI/ML,2,3,7.01,72,Drama Club,Professor,No,ST
+ETC,2,3,8.05,93,Music Club,Data Scientist,Yes,SC
+EE,1,2,8.29,82,Robotics Club,Research Scientist,No,SC
+ETC,1,2,8.52,99,Music Club,Software Engineer,Yes,Merit
+IT,4,8,6.77,76,NCC,Research Scientist,Yes,OBC
+IIOT,4,7,7.09,100,NCC,AI Engineer,No,Merit
+CT,4,7,9.44,96,Drama Club,Pilot,No,OBC
+EE,2,3,6.89,72,NSS,Data Scientist,No,ST
+DS,2,3,8.08,80,Robotics Club,Entrepreneur,No,EWS
+RE,2,3,8.44,100,NSS,Entrepreneur,Yes,Merit
+AI/ML,4,8,8.96,77,Music Club,AI Engineer,Yes,EWS
+EE,4,8,7.79,72,NSS,Data Scientist,Yes,
+AE,2,3,8.56,92,Sports Club,Professor,Yes,Merit
+CS,3,6,7.32,84,Drama Club,Professor,Yes,
+EE,3,5,6.64,98,Drama Club,Research Scientist,No,EWS
+ETC,2,4,6.58,91,Music Club,AI Engineer,No,ST
+DS,3,5,6.59,70,Photography Club,Software Engineer,No,ST
+AE,2,3,6.03,81,Robotics Club,AI Engineer,No,SC
+EE,3,6,7.72,95,Photography Club,Pilot,Yes,EWS
+CE,2,4,5.66,65,Robotics Club,AI Engineer,Yes,SC
+CS,1,2,6.06,66,NSS,Robotics Engineer,Yes,Merit
+EC,3,6,7.21,71,Drama Club,AI Engineer,No,OBC
+DS,1,1,8.47,72,Robotics Club,Data Scientist,No,Merit
+DS,1,2,6.01,89,Photography Club,Data Scientist,No,OBC
+CE,1,2,5.73,73,Drama Club,Robotics Engineer,Yes,ST
+ME,2,4,6.58,71,Photography Club,AI Engineer,No,EWS
+IT,2,3,8.88,72,NCC,Entrepreneur,Yes,SC
+CT,1,1,6.39,91,NSS,Robotics Engineer,Yes,ST
+EC,4,7,6.58,86,NSS,Pilot,No,OBC
+ETC,3,6,5.68,99,NCC,Data Scientist,Yes,OBC
+RE,2,3,6.16,85,Coding Club,Robotics Engineer,No,OBC
+CT,1,1,8.21,64,Coding Club,Research Scientist,No,Merit
+AE,1,1,9.76,87,Sports Club,Pilot,No,Merit
+AE,4,8,6.81,68,Drama Club,Data Scientist,Yes,EWS
+ETC,3,5,7.08,92,Sports Club,Robotics Engineer,Yes,
+DS,4,7,9.45,75,Music Club,Pilot,No,SC
+AE,3,5,9.63,66,Robotics Club,Research Scientist,Yes,SC
+IT,4,7,8.26,82,Drama Club,Pilot,No,
+ETC,3,6,9.51,95,Coding Club,Entrepreneur,Yes,
+CS,2,3,8.81,74,Drama Club,Professor,Yes,SC
+IT,4,7,8.0,82,NSS,Professor,No,SC
+DS,4,7,8.97,94,Music Club,Research Scientist,Yes,EWS
+EC,4,8,9.32,60,Robotics Club,Professor,Yes,ST
+RE,4,7,9.79,69,Music Club,Professor,Yes,SC
+EE,1,2,7.57,91,NCC,Research Scientist,No,
+CT,4,7,6.84,66,NCC,Professor,Yes,EWS
+IT,1,1,7.71,62,Music Club,AI Engineer,No,
+EC,2,3,8.6,76,Music Club,Entrepreneur,No,EWS
+AE,1,1,8.1,73,Photography Club,AI Engineer,No,
+AI/ML,2,4,7.46,97,Sports Club,Software Engineer,Yes,EWS
+AE,1,2,8.18,76,NCC,Pilot,No,EWS
+AE,2,4,6.31,92,Sports Club,Pilot,Yes,EWS
+AE,1,2,6.88,93,NSS,Research Scientist,Yes,ST
+IT,1,2,8.91,68,Photography Club,Data Scientist,Yes,
+ME,1,1,7.72,92,NSS,AI Engineer,No,EWS
+CS,4,7,6.56,71,Photography Club,Pilot,No,EWS
+CE,2,4,9.87,63,NCC,Software Engineer,Yes,Merit
+CS,2,3,9.4,79,Drama Club,Data Scientist,Yes,OBC
+IT,2,3,8.92,80,Photography Club,Professor,Yes,OBC
+ETC,4,7,8.88,88,Sports Club,Pilot,No,EWS
+IT,2,3,7.59,65,Coding Club,Research Scientist,Yes,EWS
+IIOT,2,3,5.78,73,NCC,Entrepreneur,Yes,OBC
+EE,1,1,5.84,93,NSS,Research Scientist,No,ST
+CS,1,2,7.78,84,NCC,Professor,Yes,OBC
+RE,1,2,8.76,74,Robotics Club,AI Engineer,No,ST
+CS,2,4,8.59,83,Drama Club,Robotics Engineer,Yes,SC
+RE,3,5,7.01,91,Music Club,Research Scientist,Yes,SC
+ME,3,5,5.55,74,Drama Club,Data Scientist,Yes,OBC
+AI/ML,1,2,6.3,86,Robotics Club,Pilot,No,EWS
+IIOT,1,2,9.67,81,Music Club,AI Engineer,Yes,EWS
+CT,1,2,7.48,83,Drama Club,Robotics Engineer,No,EWS
+ME,4,7,7.33,86,Drama Club,Pilot,No,OBC
+AE,1,1,5.89,79,Music Club,Pilot,No,SC
+ME,4,7,8.5,91,Coding Club,Entrepreneur,Yes,
+CE,1,2,7.28,94,NCC,Entrepreneur,No,SC
+CS,4,7,7.18,98,Drama Club,Data Scientist,Yes,OBC
+CT,2,4,7.37,72,Drama Club,Robotics Engineer,No,EWS
+AI/ML,1,1,9.58,68,Coding Club,Pilot,Yes,
+AI/ML,1,1,7.83,85,Music Club,Professor,No,
+RE,3,6,6.18,70,Coding Club,Pilot,No,
+CS,1,1,9.13,61,Coding Club,Research Scientist,Yes,EWS
+CE,1,2,8.0,73,Drama Club,Professor,Yes,SC
+DS,2,3,7.95,87,NCC,Data Scientist,Yes,SC
+ME,1,2,9.71,80,Robotics Club,Data Scientist,Yes,EWS
+CT,3,5,8.83,100,Coding Club,Software Engineer,No,SC
+CE,2,3,9.69,93,NSS,Professor,No,Merit
+DS,3,5,7.26,86,NSS,Data Scientist,No,SC
+EC,4,7,9.75,98,NCC,AI Engineer,No,
+DS,3,5,6.72,64,Music Club,Robotics Engineer,No,SC
+RE,4,7,8.45,62,NSS,Pilot,No,Merit
+CS,3,6,7.21,89,Drama Club,Entrepreneur,No,
+AI/ML,4,8,8.42,87,Sports Club,Software Engineer,No,SC
+AI/ML,4,8,9.81,72,Photography Club,Data Scientist,Yes,EWS
+EE,4,8,9.78,72,NCC,Professor,No,SC
+IT,3,6,8.63,71,Sports Club,Entrepreneur,Yes,Merit
+EC,4,7,7.08,62,Photography Club,AI Engineer,Yes,
+CE,3,6,6.81,68,Music Club,Software Engineer,No,ST
+CT,4,7,7.03,99,Photography Club,Data Scientist,No,
+DS,4,8,6.92,95,Sports Club,AI Engineer,Yes,
+CS,3,6,6.25,64,Photography Club,Data Scientist,Yes,EWS
+AE,1,1,6.45,68,NSS,Professor,Yes,Merit
+CT,1,2,7.88,74,NCC,Professor,Yes,ST
+EE,1,1,7.79,92,NCC,Research Scientist,Yes,EWS
+IIOT,3,6,9.41,64,Drama Club,Software Engineer,No,OBC
+EE,4,7,6.73,90,Robotics Club,Robotics Engineer,Yes,ST
+IT,3,6,7.06,68,Coding Club,Data Scientist,No,ST
+RE,1,2,8.06,74,Music Club,Entrepreneur,No,Merit
+ME,3,6,7.78,89,Coding Club,Research Scientist,Yes,Merit
+ME,4,8,7.6,80,Drama Club,Professor,Yes,OBC
+ME,4,7,5.56,82,Drama Club,Robotics Engineer,Yes,OBC
+CT,1,2,8.52,87,NCC,Entrepreneur,No,
+ME,4,8,6.68,66,Music Club,Data Scientist,No,EWS
+IT,1,1,9.73,61,Photography Club,Entrepreneur,Yes,OBC
+EC,4,8,7.26,67,Music Club,Pilot,Yes,Merit
+EE,1,2,9.12,99,Drama Club,Data Scientist,No,EWS
+EC,2,4,6.34,78,Coding Club,Robotics Engineer,No,
+EE,1,1,9.29,73,NCC,Data Scientist,No,SC
+DS,4,7,6.53,74,NSS,Research Scientist,Yes,
+CT,1,2,5.57,81,Music Club,AI Engineer,Yes,ST
+IIOT,3,5,7.32,94,Sports Club,Pilot,Yes,OBC
+EC,3,5,9.8,63,Drama Club,Data Scientist,No,OBC
+DS,2,4,8.82,62,NCC,Software Engineer,No,OBC
+CT,2,4,8.85,90,Coding Club,Professor,Yes,EWS
+AE,2,3,8.38,79,NSS,AI Engineer,Yes,
+AE,2,3,9.16,93,Drama Club,Data Scientist,No,OBC
+EE,2,4,7.4,100,Coding Club,Software Engineer,Yes,
+RE,3,6,7.87,67,NSS,Pilot,Yes,Merit
+RE,4,7,5.52,91,NCC,Entrepreneur,No,OBC
+ME,4,7,9.66,64,NCC,Pilot,Yes,EWS
+EC,1,2,6.42,95,Coding Club,Professor,No,SC
+DS,3,6,7.9,93,Robotics Club,AI Engineer,No,EWS
+RE,4,7,9.38,82,Music Club,Entrepreneur,Yes,EWS
+DS,2,3,6.29,83,Music Club,Pilot,Yes,
+ME,4,8,8.6,65,NCC,Research Scientist,No,EWS
+EC,4,8,9.88,61,Robotics Club,Entrepreneur,Yes,OBC
+ME,2,3,5.92,67,Photography Club,Entrepreneur,No,EWS
+DS,2,4,6.72,99,NCC,Entrepreneur,Yes,SC
+CS,3,6,5.99,77,Robotics Club,Research Scientist,Yes,OBC
+EE,1,1,8.5,100,Photography Club,Professor,Yes,OBC
+IIOT,4,7,9.52,94,Sports Club,AI Engineer,Yes,OBC
+AE,1,1,9.61,65,Coding Club,Data Scientist,No,EWS
+ETC,3,5,8.87,73,Music Club,Research Scientist,No,
+DS,1,2,6.37,82,NSS,Research Scientist,Yes,OBC
+ME,4,7,8.2,84,Coding Club,Pilot,No,
+IIOT,4,8,8.67,64,Coding Club,AI Engineer,Yes,SC
+DS,4,7,6.51,87,NCC,Entrepreneur,Yes,Merit
+IIOT,1,1,8.32,89,Robotics Club,Robotics Engineer,No,OBC
+RE,4,7,8.09,98,Music Club,Professor,No,SC
+CT,3,5,5.57,93,NCC,Entrepreneur,No,Merit
+IT,4,8,9.11,94,Sports Club,Professor,Yes,OBC
+DS,2,4,8.67,88,Drama Club,Data Scientist,Yes,Merit
+ETC,4,7,5.91,79,Drama Club,AI Engineer,No,
+AI/ML,2,3,8.01,96,Coding Club,Professor,No,EWS
+DS,4,8,5.73,79,Sports Club,Research Scientist,Yes,
+CE,2,3,6.49,77,Photography Club,Professor,Yes,SC
+ME,4,8,9.48,70,NSS,Professor,Yes,EWS
+AI/ML,1,1,9.48,69,NCC,Robotics Engineer,Yes,
+CE,2,4,7.5,92,Sports Club,AI Engineer,No,
+EE,1,2,6.22,100,Robotics Club,Robotics Engineer,Yes,
+ETC,4,8,9.77,75,NCC,Entrepreneur,No,
+EC,2,3,8.97,81,Music Club,Data Scientist,No,EWS
+EE,4,7,8.79,81,Photography Club,Professor,No,
+RE,1,2,6.37,81,Drama Club,Professor,No,EWS
+EC,4,8,9.23,75,NCC,Professor,No,
+EE,3,6,6.56,63,Photography Club,Professor,No,
+ME,1,2,8.04,90,Coding Club,Robotics Engineer,No,EWS
+CT,2,3,8.5,79,NSS,Professor,Yes,ST
+ETC,2,4,6.71,95,NSS,AI Engineer,Yes,SC
+DS,1,2,9.28,65,NCC,Professor,Yes,OBC
+IT,2,3,9.23,74,Coding Club,Research Scientist,No,SC
+RE,4,7,7.08,62,Music Club,Data Scientist,Yes,Merit
+ME,1,2,9.04,93,Music Club,Robotics Engineer,Yes,SC
+RE,4,8,8.31,98,Music Club,AI Engineer,Yes,OBC
+IT,2,4,7.67,70,Photography Club,Robotics Engineer,Yes,
+AE,2,4,7.0,80,Music Club,Entrepreneur,Yes,Merit
+AE,3,6,6.01,65,Coding Club,Pilot,No,
+IT,3,5,8.31,72,NSS,Data Scientist,Yes,
+EE,1,2,6.79,84,Music Club,Pilot,No,Merit
+CT,3,6,9.47,98,NSS,Pilot,Yes,
+AE,3,5,8.17,72,Music Club,Research Scientist,Yes,EWS
+CS,2,4,5.84,75,Robotics Club,Software Engineer,No,EWS
+ETC,2,3,8.28,70,Music Club,Professor,No,SC
+CE,1,1,9.24,78,NSS,AI Engineer,Yes,ST
+CE,4,7,7.32,95,NCC,Research Scientist,Yes,ST
+AE,3,5,7.75,96,Robotics Club,Entrepreneur,Yes,Merit
+CT,4,8,7.57,85,Photography Club,Professor,No,
+DS,1,1,6.51,63,NCC,Entrepreneur,Yes,OBC
+EC,2,4,7.45,64,NCC,Entrepreneur,Yes,
+CT,1,2,7.85,100,Photography Club,AI Engineer,No,
+RE,3,6,8.33,86,NSS,Pilot,No,OBC
+DS,2,4,8.15,80,Robotics Club,Entrepreneur,No,ST
+IT,4,8,6.59,62,Robotics Club,AI Engineer,No,ST
+ETC,4,7,9.9,61,Photography Club,Robotics Engineer,No,Merit
+CE,2,4,5.81,97,NCC,Research Scientist,No,ST
+AE,3,5,8.16,80,Robotics Club,Robotics Engineer,No,
+RE,2,3,6.51,95,Photography Club,Entrepreneur,Yes,OBC
+EE,4,7,6.44,89,Music Club,Pilot,Yes,Merit
+RE,1,2,7.24,64,Music Club,Data Scientist,No,SC
+CE,4,8,8.13,89,NSS,AI Engineer,No,ST
+DS,3,6,8.21,87,Music Club,Data Scientist,No,Merit
+RE,2,4,5.75,79,Music Club,Entrepreneur,No,OBC
+EE,1,1,7.02,78,NCC,Research Scientist,Yes,ST
+ME,3,5,9.84,80,Sports Club,Professor,No,EWS
+AI/ML,1,2,6.5,74,Sports Club,Data Scientist,Yes,SC
+RE,1,1,9.1,62,Robotics Club,Robotics Engineer,Yes,ST
+ME,1,1,5.88,67,Coding Club,Entrepreneur,No,EWS
+DS,2,3,8.69,76,Robotics Club,Robotics Engineer,Yes,ST
+AI/ML,1,1,7.65,74,Drama Club,Research Scientist,Yes,Merit
+IT,1,1,9.31,99,Photography Club,Software Engineer,Yes,ST
+ETC,4,8,8.84,79,Coding Club,Research Scientist,Yes,OBC
+RE,3,5,9.18,93,NCC,Entrepreneur,No,EWS
+EE,1,1,7.42,89,NSS,Entrepreneur,Yes,SC
+ME,4,7,8.56,98,NSS,Entrepreneur,Yes,
+CS,2,4,6.7,98,Robotics Club,Robotics Engineer,No,SC
+CS,3,5,8.05,64,Photography Club,Software Engineer,No,Merit
+CT,4,7,9.28,65,Music Club,AI Engineer,No,
+IIOT,4,8,7.73,93,Photography Club,Pilot,Yes,EWS
+IT,2,4,8.01,87,Robotics Club,Pilot,Yes,SC
+CT,2,4,9.13,63,Coding Club,Data Scientist,Yes,EWS
+DS,1,1,7.52,69,Music Club,Entrepreneur,No,OBC
+EE,3,6,9.3,88,Photography Club,Data Scientist,Yes,EWS
+IIOT,3,6,9.28,72,Robotics Club,Professor,Yes,SC
+CE,4,8,9.66,75,Coding Club,Data Scientist,Yes,ST
+IT,4,8,7.14,81,NSS,Entrepreneur,No,OBC
+CT,2,4,9.04,96,NSS,AI Engineer,No,ST
+IT,3,6,6.5,95,Coding Club,Robotics Engineer,No,OBC
+DS,2,4,6.37,86,Music Club,AI Engineer,No,SC
+EE,2,4,6.27,84,Robotics Club,Software Engineer,No,OBC
+AI/ML,3,5,8.85,72,Coding Club,Entrepreneur,No,SC
+ETC,4,7,6.55,97,Coding Club,Software Engineer,Yes,Merit
+CT,1,2,7.94,96,Robotics Club,AI Engineer,No,
+EE,1,2,5.78,99,Drama Club,Entrepreneur,Yes,SC
+RE,2,3,8.72,63,Robotics Club,Entrepreneur,Yes,SC
+ETC,4,8,8.64,88,Robotics Club,Robotics Engineer,No,OBC
+AI/ML,3,6,7.06,76,Music Club,AI Engineer,Yes,EWS
+EC,3,5,6.63,89,Drama Club,Research Scientist,Yes,
+CS,2,4,7.12,72,Photography Club,Robotics Engineer,Yes,OBC
+AE,2,4,6.16,92,Photography Club,Robotics Engineer,Yes,SC
+AI/ML,3,6,8.12,73,Photography Club,Data Scientist,Yes,Merit
+EE,4,7,5.56,95,Music Club,Data Scientist,Yes,Merit
+CS,1,1,9.59,83,Sports Club,Data Scientist,No,Merit
+CE,2,4,8.02,89,Sports Club,Data Scientist,No,Merit
+RE,1,2,5.9,71,NCC,Robotics Engineer,No,EWS
+CT,1,1,5.87,61,Sports Club,Robotics Engineer,No,OBC
+EC,3,6,8.67,77,Coding Club,AI Engineer,Yes,ST
+RE,2,3,8.25,82,Photography Club,Data Scientist,No,EWS
+IIOT,3,5,7.78,99,Robotics Club,Professor,No,Merit
+AI/ML,3,6,9.14,69,Drama Club,Entrepreneur,Yes,ST
+RE,1,1,7.52,72,NSS,Professor,Yes,Merit
+CT,1,1,6.72,82,NSS,AI Engineer,No,SC
+RE,2,3,9.75,70,Sports Club,Software Engineer,No,
+ME,1,1,8.31,76,Drama Club,Pilot,No,
+CE,2,3,9.26,97,Photography Club,Research Scientist,No,SC
+ME,3,6,8.89,76,Drama Club,AI Engineer,No,OBC
+ETC,2,4,7.73,77,Music Club,Data Scientist,No,
+RE,2,3,8.02,83,Coding Club,Research Scientist,Yes,Merit
+IIOT,2,3,9.88,75,Sports Club,Entrepreneur,Yes,
+EC,4,8,8.3,69,Photography Club,Pilot,Yes,Merit
+ETC,2,3,8.87,93,NCC,Research Scientist,Yes,
+CS,4,8,6.09,65,Music Club,Robotics Engineer,No,ST
+ME,2,4,9.21,81,Music Club,Software Engineer,No,Merit
+ME,2,4,6.54,65,Sports Club,Data Scientist,Yes,ST
+ETC,2,3,8.19,61,Sports Club,AI Engineer,Yes,SC
+IT,3,6,7.65,72,NCC,Robotics Engineer,No,EWS
+CT,2,4,8.18,77,Music Club,Data Scientist,No,ST
+AE,2,4,6.02,63,Coding Club,Robotics Engineer,Yes,SC
+EC,4,7,8.87,100,Drama Club,Data Scientist,No,SC
+AI/ML,2,3,6.06,81,Music Club,Robotics Engineer,Yes,SC
+EC,2,4,9.62,96,NCC,AI Engineer,Yes,SC
+CE,2,3,7.14,61,Music Club,Pilot,Yes,
+CT,2,4,8.41,67,Drama Club,AI Engineer,Yes,EWS
+EE,4,8,5.6,75,Coding Club,AI Engineer,Yes,Merit
+RE,1,1,8.11,65,Photography Club,AI Engineer,Yes,SC
+ETC,1,1,7.76,61,Sports Club,Software Engineer,No,OBC
+EC,3,5,9.17,61,Robotics Club,Professor,No,OBC
+AI/ML,1,2,7.15,91,Photography Club,Pilot,Yes,ST
+ETC,2,3,7.64,70,Robotics Club,Data Scientist,No,EWS
+CS,1,1,7.37,83,NSS,Pilot,Yes,SC
+EE,3,6,9.25,70,Music Club,Pilot,No,ST
+EE,3,6,8.14,89,NCC,Research Scientist,No,ST
+RE,2,3,6.31,92,NSS,Data Scientist,Yes,
+ME,1,2,9.04,91,Coding Club,Software Engineer,No,ST
+IIOT,1,1,8.54,78,Robotics Club,Robotics Engineer,No,OBC
+CE,4,7,8.13,92,Photography Club,Research Scientist,Yes,ST
+ME,4,7,7.67,95,NCC,Robotics Engineer,Yes,ST
+CS,2,3,9.64,95,NCC,AI Engineer,No,
+AE,3,6,8.0,74,NSS,Data Scientist,Yes,Merit
+AE,3,5,6.44,79,Sports Club,Data Scientist,Yes,EWS
+RE,4,7,8.34,74,Photography Club,Data Scientist,No,Merit
+CT,1,1,7.77,99,NSS,Data Scientist,Yes,Merit
+ETC,4,8,6.29,90,Drama Club,Entrepreneur,Yes,SC
+IIOT,1,1,7.73,90,Robotics Club,Professor,No,ST
+ETC,1,1,9.4,96,NSS,Pilot,Yes,Merit
+EE,4,8,7.39,98,NSS,Research Scientist,No,OBC
+CT,1,1,8.29,61,Robotics Club,Data Scientist,Yes,ST
+IT,2,3,7.07,81,Drama Club,Entrepreneur,Yes,
+CT,2,4,9.14,82,Sports Club,Pilot,No,SC
+RE,3,5,6.62,85,NSS,AI Engineer,No,ST
+DS,1,2,6.66,65,NCC,Pilot,Yes,Merit
+CE,2,4,7.75,84,Coding Club,Professor,Yes,EWS
+CT,3,6,8.3,75,Music Club,Software Engineer,No,ST
+ETC,1,1,6.72,70,Coding Club,Data Scientist,No,EWS
+AI/ML,3,5,9.61,100,Sports Club,Robotics Engineer,Yes,ST
+AE,3,6,5.8,79,Photography Club,Pilot,Yes,
+CT,4,7,6.2,63,Photography Club,Professor,No,ST
+CT,1,1,6.62,69,Robotics Club,Software Engineer,No,Merit
+DS,3,5,9.33,61,NCC,Pilot,Yes,Merit
+ME,3,6,7.14,87,Photography Club,Software Engineer,Yes,Merit
+EE,3,6,5.76,80,Music Club,Pilot,Yes,SC
+ETC,2,3,8.03,77,Coding Club,Robotics Engineer,No,SC
+CT,4,7,5.59,82,NCC,Professor,Yes,SC
+ETC,1,1,9.06,97,Robotics Club,Data Scientist,No,
+EC,4,8,9.72,66,Photography Club,Pilot,No,
+AE,4,7,6.48,68,NCC,Data Scientist,No,EWS
+RE,4,8,5.99,73,Drama Club,Research Scientist,Yes,Merit
+EC,4,8,8.42,69,Robotics Club,Entrepreneur,No,EWS
+RE,1,1,9.52,74,Photography Club,Software Engineer,Yes,EWS
+DS,3,5,7.94,89,Sports Club,Software Engineer,Yes,
+CT,3,6,9.24,70,Photography Club,Entrepreneur,Yes,SC
+IIOT,3,6,8.2,86,Photography Club,Data Scientist,No,
+IT,1,2,8.89,73,Coding Club,Data Scientist,Yes,ST
+AI/ML,2,4,7.93,95,NSS,Data Scientist,No,OBC
+DS,2,4,9.35,67,Drama Club,Professor,Yes,EWS
+CS,3,5,9.07,73,NSS,Professor,Yes,Merit
+ME,2,4,7.97,99,Sports Club,AI Engineer,Yes,EWS
+RE,3,5,9.02,73,Sports Club,Pilot,Yes,OBC
+AI/ML,2,3,8.42,68,Robotics Club,Software Engineer,No,OBC
+CT,2,3,6.96,81,Music Club,AI Engineer,No,OBC
+ETC,3,6,9.6,96,NSS,Software Engineer,Yes,
+CE,4,7,6.76,77,Music Club,Robotics Engineer,No,EWS
+RE,1,2,8.02,87,Drama Club,Professor,Yes,ST
+AE,2,4,7.59,60,Coding Club,Software Engineer,Yes,EWS
+AE,2,4,8.77,95,Sports Club,Pilot,Yes,SC
+ETC,1,2,8.7,100,NCC,Software Engineer,No,
+EC,4,7,7.42,88,Robotics Club,Entrepreneur,No,
+ME,1,1,6.08,66,Robotics Club,Data Scientist,No,
+DS,1,1,8.0,72,NCC,Research Scientist,Yes,Merit
+EE,2,3,7.21,81,Robotics Club,Professor,Yes,ST
+RE,4,7,7.35,86,Robotics Club,Data Scientist,Yes,ST
+AI/ML,2,4,9.82,66,Coding Club,Data Scientist,No,ST
+CT,4,7,7.26,80,NSS,Pilot,No,Merit
+IIOT,4,7,6.61,91,Photography Club,Research Scientist,Yes,SC
+AI/ML,4,7,7.44,78,Sports Club,Professor,No,EWS
+CS,1,2,7.76,86,Robotics Club,Data Scientist,No,
+AI/ML,1,1,8.41,92,NSS,Data Scientist,Yes,OBC
+ETC,1,2,8.84,98,Robotics Club,Robotics Engineer,No,
+ETC,4,7,8.57,98,Music Club,Professor,No,EWS
+AE,3,6,9.16,69,Coding Club,AI Engineer,Yes,EWS
+IT,2,4,8.71,83,Music Club,Research Scientist,Yes,EWS
+CS,2,3,8.3,61,Photography Club,Data Scientist,Yes,OBC
+AE,1,2,7.2,71,Robotics Club,Research Scientist,No,ST
+AI/ML,2,4,5.56,82,Drama Club,AI Engineer,Yes,OBC
+AI/ML,1,1,9.46,64,Sports Club,Robotics Engineer,No,Merit
+DS,4,8,6.02,80,Robotics Club,Robotics Engineer,No,SC
+IIOT,2,3,5.54,94,NSS,Robotics Engineer,No,Merit
+ME,3,5,7.7,62,Coding Club,Software Engineer,No,EWS
+CE,1,1,7.23,100,Coding Club,Software Engineer,Yes,SC
+DS,4,8,8.91,81,Sports Club,AI Engineer,Yes,ST
+RE,3,6,9.49,100,Sports Club,Research Scientist,Yes,EWS
+AE,1,2,6.44,72,Photography Club,Robotics Engineer,Yes,
+IIOT,2,4,6.21,76,Photography Club,Entrepreneur,No,EWS
+RE,1,2,9.81,98,NCC,Research Scientist,No,
+EE,3,6,5.75,84,Music Club,Entrepreneur,No,EWS
+IIOT,2,4,8.16,83,Sports Club,Pilot,No,OBC
+ETC,3,6,7.78,95,Robotics Club,AI Engineer,Yes,SC
+CE,1,2,9.23,77,Coding Club,Robotics Engineer,Yes,ST
+IT,2,3,8.15,62,Drama Club,Pilot,Yes,EWS
+ME,1,2,6.47,82,NSS,Robotics Engineer,Yes,SC
+IT,1,1,8.31,88,Music Club,Pilot,Yes,SC
+EC,2,4,8.34,70,NSS,Professor,No,
+CE,4,7,6.36,66,Photography Club,Professor,Yes,
+DS,3,5,9.09,91,Coding Club,Entrepreneur,Yes,Merit
+IT,2,4,8.88,74,Photography Club,Data Scientist,Yes,ST
+CE,3,5,5.72,81,NCC,Robotics Engineer,No,
+CT,2,4,9.32,93,Drama Club,Software Engineer,No,SC
+IT,1,2,5.82,78,Coding Club,Entrepreneur,Yes,EWS
+AI/ML,2,4,7.1,70,NSS,Professor,Yes,ST
+RE,2,4,5.82,63,Coding Club,Professor,Yes,OBC
+CS,4,7,7.35,89,NCC,Robotics Engineer,No,OBC
+ETC,3,5,9.57,95,Music Club,Entrepreneur,No,OBC
+CE,4,7,9.87,76,Music Club,Data Scientist,No,OBC
+RE,2,4,5.82,78,NSS,Software Engineer,No,Merit
+ETC,3,6,5.61,71,NSS,Pilot,No,
+EC,3,5,8.89,99,NSS,Professor,No,OBC
+ETC,3,6,6.68,97,Photography Club,AI Engineer,No,
+CT,2,4,8.84,73,Photography Club,Research Scientist,Yes,OBC
+EC,4,8,9.67,62,NSS,Entrepreneur,No,SC
+IIOT,1,2,6.66,88,Robotics Club,Pilot,Yes,Merit
+CT,4,8,9.12,74,Photography Club,Entrepreneur,Yes,EWS
+EC,2,4,8.58,74,NSS,Robotics Engineer,Yes,ST
+AI/ML,1,2,8.12,80,Coding Club,Entrepreneur,Yes,EWS
+EC,3,5,8.89,96,Drama Club,Professor,No,SC
+ETC,3,5,7.39,77,Coding Club,AI Engineer,Yes,OBC
+EE,3,6,6.2,73,Robotics Club,Pilot,No,Merit
+ME,2,4,9.36,72,Music Club,Professor,No,EWS
+EC,2,3,8.16,99,Photography Club,Software Engineer,Yes,Merit
+AE,2,3,7.89,66,Coding Club,Research Scientist,Yes,ST
+IT,1,1,8.33,100,Coding Club,Software Engineer,Yes,OBC
+EE,3,5,9.05,85,Coding Club,Software Engineer,No,
+CE,3,6,6.23,83,NSS,AI Engineer,No,ST
+ME,2,3,8.55,65,Drama Club,Robotics Engineer,Yes,Merit
+IT,4,8,6.29,75,NSS,Professor,Yes,ST
+RE,4,7,9.82,70,Music Club,Software Engineer,No,OBC
+DS,4,7,7.11,74,NSS,Data Scientist,Yes,OBC
+ETC,2,4,5.61,91,Coding Club,Research Scientist,No,SC
+IT,4,8,7.11,90,Coding Club,Entrepreneur,Yes,ST
+EC,2,4,6.52,74,NCC,Data Scientist,No,ST
+EC,1,1,8.31,94,Sports Club,Software Engineer,Yes,OBC
+DS,1,1,5.51,67,Drama Club,Data Scientist,Yes,Merit
+AE,3,5,9.77,81,Sports Club,Software Engineer,No,EWS
+AE,1,2,7.25,78,Robotics Club,Software Engineer,Yes,EWS
+EC,3,5,5.82,61,Coding Club,Robotics Engineer,Yes,ST
+CS,3,6,6.81,62,Drama Club,Data Scientist,Yes,Merit
+IT,2,3,7.7,62,Photography Club,Research Scientist,No,EWS
+CT,4,8,6.45,77,Drama Club,Entrepreneur,No,OBC
+IIOT,3,5,6.26,81,NSS,Professor,Yes,SC
+AE,1,1,8.38,77,Coding Club,Research Scientist,Yes,EWS
+EC,1,1,9.3,82,Sports Club,Robotics Engineer,No,OBC
+RE,2,4,8.97,91,Sports Club,Professor,Yes,
+CS,3,5,7.51,71,Coding Club,Research Scientist,No,EWS
+IIOT,2,4,9.04,63,Robotics Club,Software Engineer,No,ST
+DS,4,8,6.52,84,Music Club,Software Engineer,Yes,EWS
+AI/ML,4,7,6.9,98,NCC,Data Scientist,No,SC
+AE,1,2,6.09,65,Photography Club,Entrepreneur,Yes,SC
+EC,1,2,5.98,87,Photography Club,Robotics Engineer,Yes,SC
+ETC,2,4,6.83,68,Drama Club,AI Engineer,No,Merit
+DS,1,1,6.86,67,NSS,Pilot,Yes,OBC
+CT,3,5,5.81,77,Robotics Club,Robotics Engineer,Yes,EWS
+AI/ML,2,4,7.77,60,NCC,Research Scientist,Yes,
+CE,2,4,8.39,66,Coding Club,Software Engineer,Yes,SC
+CE,4,7,5.99,78,Sports Club,AI Engineer,Yes,Merit
+AI/ML,4,7,6.39,89,NSS,Robotics Engineer,No,Merit
+ME,2,3,6.52,93,Sports Club,Pilot,Yes,EWS
+RE,2,3,7.58,89,Music Club,Pilot,No,OBC
+AE,3,5,8.02,68,NCC,Entrepreneur,Yes,OBC
+CS,4,7,5.89,93,Drama Club,Software Engineer,No,OBC
+CS,1,1,7.78,68,Robotics Club,Pilot,Yes,Merit
+AE,1,1,7.57,63,Drama Club,Professor,Yes,ST
+DS,2,3,7.55,60,NSS,Data Scientist,No,OBC
+IT,1,2,9.44,94,Robotics Club,AI Engineer,No,
+CT,3,6,5.86,74,Coding Club,Robotics Engineer,No,EWS
+AE,2,4,8.67,63,Robotics Club,AI Engineer,No,SC
+AE,1,1,9.27,82,Coding Club,Entrepreneur,Yes,EWS
+DS,1,2,8.61,89,Coding Club,Robotics Engineer,No,OBC
+ETC,4,8,6.41,79,NSS,Software Engineer,Yes,EWS
+EE,4,7,6.48,78,Coding Club,Data Scientist,Yes,OBC
+IT,1,1,8.46,97,Robotics Club,AI Engineer,No,ST
+CT,4,7,8.7,63,Coding Club,Pilot,No,SC
+ETC,2,4,9.87,72,Sports Club,Entrepreneur,No,Merit
+IIOT,4,8,8.96,64,Photography Club,Robotics Engineer,No,SC
+DS,4,7,9.4,93,Sports Club,Professor,Yes,
+CT,2,4,9.69,78,Sports Club,AI Engineer,No,SC
+IIOT,2,4,8.85,74,Photography Club,Professor,Yes,EWS
+ETC,3,5,7.84,72,NSS,Robotics Engineer,Yes,OBC
+AE,4,7,7.57,85,Music Club,Robotics Engineer,No,
+IT,2,3,5.76,93,Drama Club,Professor,Yes,ST
+IIOT,3,6,9.86,84,Coding Club,Data Scientist,No,Merit
+EC,2,4,8.29,71,Robotics Club,Entrepreneur,Yes,ST
+AI/ML,2,3,9.44,71,Robotics Club,Robotics Engineer,Yes,EWS
+ETC,1,1,8.74,77,NCC,Entrepreneur,No,
+RE,3,6,7.18,77,Sports Club,Research Scientist,Yes,
+EE,4,7,7.56,66,NSS,Pilot,No,
+CT,1,2,6.0,87,Robotics Club,Software Engineer,No,
+EE,3,6,5.51,74,Photography Club,Data Scientist,Yes,EWS
+DS,3,6,5.55,80,Coding Club,Pilot,Yes,OBC
+DS,3,5,6.72,70,Sports Club,Entrepreneur,No,
+CT,2,3,8.48,72,Sports Club,Professor,No,SC
+ETC,4,8,7.7,67,NCC,Data Scientist,Yes,
+ME,4,8,9.34,80,NSS,Pilot,Yes,
+AI/ML,4,8,7.14,60,Photography Club,Professor,Yes,OBC
+EC,2,4,7.69,72,NSS,Entrepreneur,Yes,EWS
+CE,1,1,7.66,64,Photography Club,Robotics Engineer,No,OBC
+EE,3,6,7.79,99,Coding Club,Data Scientist,Yes,Merit
+CS,2,3,5.67,66,Coding Club,Data Scientist,No,
+CS,4,7,6.44,79,Photography Club,Data Scientist,No,EWS
+RE,4,8,9.14,64,Coding Club,Data Scientist,Yes,ST
+IIOT,2,3,5.55,86,Music Club,AI Engineer,No,EWS
+CS,1,2,7.13,79,Coding Club,Research Scientist,Yes,Merit
+AE,2,4,8.93,97,Music Club,AI Engineer,Yes,
+AI/ML,2,3,8.29,78,Music Club,Robotics Engineer,No,EWS
+ME,3,6,8.7,74,Robotics Club,Entrepreneur,Yes,ST
+ME,1,2,9.3,78,NSS,Research Scientist,No,
+EE,2,3,8.36,90,Photography Club,Entrepreneur,Yes,
+CS,4,8,6.62,87,Photography Club,Data Scientist,No,
+IIOT,4,7,8.9,86,Sports Club,AI Engineer,No,EWS
+EE,4,7,8.9,66,Sports Club,Robotics Engineer,No,OBC
+ME,3,6,9.03,63,Sports Club,Robotics Engineer,Yes,Merit
+CS,3,6,7.42,95,NCC,Research Scientist,No,
+CE,1,2,8.36,72,Drama Club,Data Scientist,No,OBC
+IT,1,2,7.42,68,NCC,Robotics Engineer,No,ST
+ME,3,6,7.81,83,Robotics Club,Research Scientist,Yes,
+RE,1,2,7.26,60,Music Club,AI Engineer,Yes,
+DS,1,1,8.51,78,Drama Club,Entrepreneur,Yes,
+EC,3,5,6.48,91,Photography Club,AI Engineer,No,SC
+IIOT,4,7,7.89,97,NCC,Professor,Yes,
+EC,1,2,8.51,74,Photography Club,AI Engineer,No,SC
+IT,3,6,6.53,97,Coding Club,Software Engineer,Yes,EWS
+EC,1,2,9.47,73,NCC,Data Scientist,Yes,OBC
+AE,2,4,6.97,95,Music Club,Research Scientist,Yes,Merit
+CT,1,1,8.46,68,Sports Club,AI Engineer,Yes,
+IT,2,4,9.28,91,NSS,Research Scientist,Yes,EWS
+EE,1,1,5.91,96,Sports Club,AI Engineer,No,EWS
+CS,1,1,8.53,60,Photography Club,Pilot,No,SC
+RE,1,1,6.74,65,Music Club,Entrepreneur,No,OBC
+CE,2,4,8.77,88,Sports Club,Software Engineer,No,Merit
+ME,1,2,9.31,82,Sports Club,Pilot,Yes,Merit
+CT,2,4,9.15,66,NCC,Pilot,Yes,
+AE,1,1,6.69,96,Coding Club,Professor,No,Merit
+CT,4,7,8.93,80,Robotics Club,Pilot,Yes,OBC
+AI/ML,4,7,6.21,94,NCC,Data Scientist,No,ST
+CS,1,2,9.58,85,Drama Club,Software Engineer,Yes,SC
+IT,3,5,6.28,96,Photography Club,Software Engineer,Yes,ST
+CE,2,3,6.36,68,NSS,Entrepreneur,No,OBC
+ETC,4,8,7.86,85,Sports Club,Professor,Yes,OBC
+EC,1,1,8.76,73,Photography Club,Research Scientist,No,Merit
+IIOT,3,6,8.77,90,NSS,Robotics Engineer,No,OBC
+EC,3,5,7.0,86,Music Club,Pilot,Yes,OBC
+IIOT,2,3,9.1,71,Sports Club,Entrepreneur,Yes,EWS
+AE,2,3,6.86,100,Robotics Club,Software Engineer,Yes,SC
+EC,3,6,5.67,70,Music Club,Research Scientist,Yes,EWS
+AI/ML,3,5,7.91,85,NCC,Robotics Engineer,No,Merit
+CS,4,7,9.65,76,NCC,Professor,No,EWS
+AI/ML,3,6,8.37,98,Drama Club,Robotics Engineer,Yes,SC
+CE,3,6,8.18,85,Drama Club,Software Engineer,Yes,
+CE,3,6,7.22,71,NSS,Data Scientist,No,OBC
+EC,3,6,7.97,61,Drama Club,Data Scientist,No,EWS
+CT,3,5,8.05,83,Music Club,AI Engineer,Yes,OBC
+EE,1,2,6.13,69,Drama Club,Data Scientist,No,ST
+ME,2,3,8.1,86,NSS,AI Engineer,No,SC
+AI/ML,4,7,5.64,96,Coding Club,Software Engineer,Yes,OBC
+RE,2,4,7.31,100,NCC,Pilot,Yes,OBC
+EE,3,6,7.16,77,NCC,AI Engineer,Yes,OBC
+CT,1,2,5.83,83,NCC,Pilot,Yes,
+ETC,1,1,5.6,73,Robotics Club,Research Scientist,No,EWS
+IT,2,3,7.04,96,Photography Club,Entrepreneur,Yes,
+AI/ML,2,3,9.52,82,NCC,Software Engineer,Yes,Merit
+ETC,4,7,8.3,94,Sports Club,Robotics Engineer,Yes,OBC
+ME,4,7,7.72,96,Music Club,Research Scientist,Yes,EWS
+ETC,1,2,9.73,82,Sports Club,Research Scientist,Yes,
+CS,1,1,6.81,94,Sports Club,Entrepreneur,No,Merit
+CT,2,4,5.94,81,Sports Club,Software Engineer,No,
+CS,3,5,8.52,98,Sports Club,Pilot,No,EWS
+AI/ML,1,1,7.93,77,Photography Club,Research Scientist,No,Merit
+IT,3,5,6.85,89,Drama Club,Robotics Engineer,Yes,Merit
+ME,2,3,6.36,89,Sports Club,Professor,No,Merit
+RE,1,1,5.81,93,Drama Club,Entrepreneur,No,Merit
+IIOT,4,8,7.86,69,Photography Club,Data Scientist,No,OBC
+EE,1,1,8.7,71,Robotics Club,Robotics Engineer,No,Merit
+EC,1,1,5.86,66,Music Club,AI Engineer,Yes,EWS
+ETC,3,5,8.26,64,Drama Club,Entrepreneur,No,
+RE,4,7,8.95,68,NCC,Research Scientist,Yes,
+AI/ML,2,3,9.79,80,NCC,Professor,No,EWS
+IT,3,5,6.23,92,Coding Club,Research Scientist,No,OBC
+IT,3,5,8.69,64,NCC,AI Engineer,Yes,ST
+IT,4,8,6.8,72,NCC,Entrepreneur,No,EWS
+CT,3,6,6.95,75,Coding Club,Robotics Engineer,No,Merit
+RE,2,3,7.23,92,Photography Club,Entrepreneur,No,OBC
+ME,4,7,7.33,99,Photography Club,Entrepreneur,Yes,SC
+IIOT,2,4,8.26,72,Sports Club,Entrepreneur,Yes,EWS
+RE,4,8,9.09,64,Music Club,Pilot,No,OBC
+AE,3,6,8.43,79,NSS,Data Scientist,Yes,Merit
+IIOT,4,7,5.92,94,NCC,Research Scientist,No,SC
+EE,4,8,9.82,90,Drama Club,Entrepreneur,No,ST
+CS,1,1,6.05,94,Sports Club,Entrepreneur,No,OBC
+CT,3,5,5.66,84,Drama Club,Pilot,No,Merit
+ME,3,6,5.81,73,Sports Club,Software Engineer,No,SC
+RE,3,6,8.56,77,Photography Club,Entrepreneur,Yes,ST
+CS,4,7,9.74,83,NSS,Pilot,Yes,ST
+AE,4,7,7.71,91,NSS,AI Engineer,Yes,OBC
+CE,1,1,5.85,82,Music Club,Software Engineer,No,
+RE,2,4,6.35,76,Music Club,Professor,Yes,OBC
+CE,4,8,7.84,94,Robotics Club,Research Scientist,No,SC
+IT,1,2,6.73,81,Robotics Club,Entrepreneur,Yes,ST
+CS,1,2,6.79,79,Coding Club,Pilot,Yes,EWS
+ME,4,7,6.45,69,Robotics Club,Research Scientist,Yes,Merit
+IT,2,4,6.59,100,Robotics Club,AI Engineer,No,Merit
+AE,4,7,9.86,65,Music Club,Robotics Engineer,No,ST
+IIOT,1,1,7.45,69,NSS,AI Engineer,No,ST
+ME,1,2,7.13,76,Sports Club,AI Engineer,No,
+CS,1,2,7.72,62,Sports Club,Software Engineer,Yes,SC
+DS,2,3,6.97,90,NCC,Data Scientist,No,OBC
+ETC,2,4,9.87,80,Coding Club,Professor,Yes,EWS
+ME,2,3,8.94,75,NCC,Data Scientist,Yes,OBC
+EE,4,8,8.53,83,Robotics Club,Research Scientist,Yes,EWS
+IIOT,1,1,8.79,84,Photography Club,Data Scientist,Yes,ST
+EC,2,4,8.38,85,NSS,Entrepreneur,Yes,OBC
+AE,3,6,9.85,90,Sports Club,Software Engineer,Yes,Merit
+EE,3,6,8.31,70,NCC,AI Engineer,Yes,
+IT,4,7,8.02,61,Photography Club,Research Scientist,No,
+CT,3,6,7.05,100,Music Club,Pilot,No,EWS
+CS,3,5,7.99,78,Robotics Club,Software Engineer,Yes,SC
+ME,4,8,9.6,95,Coding Club,Entrepreneur,Yes,ST
+IT,1,2,7.7,87,Music Club,Research Scientist,Yes,ST
+IT,1,2,6.28,76,Drama Club,Entrepreneur,No,EWS
+CE,2,3,7.76,84,NCC,Pilot,No,EWS
+RE,2,4,6.45,68,Music Club,Pilot,Yes,Merit
+AI/ML,3,6,8.46,96,Drama Club,Data Scientist,Yes,EWS
+ETC,3,6,8.68,60,Robotics Club,AI Engineer,No,EWS
+ETC,2,4,8.49,66,Music Club,Professor,No,
+CT,2,3,9.27,89,NCC,Data Scientist,Yes,EWS
+IIOT,1,1,6.48,84,Robotics Club,Pilot,Yes,Merit
+IIOT,1,1,7.72,68,NSS,Research Scientist,Yes,ST
+IIOT,1,1,9.04,66,NSS,Research Scientist,No,ST
+ME,1,2,6.14,86,NCC,Software Engineer,Yes,ST
+EE,4,7,8.71,77,NCC,Pilot,Yes,SC
+EE,3,6,6.65,80,Photography Club,Pilot,Yes,ST
+IIOT,3,6,6.09,64,Music Club,AI Engineer,Yes,ST
+ETC,2,3,5.58,93,Coding Club,Robotics Engineer,Yes,
+IIOT,3,6,6.64,67,NSS,Entrepreneur,Yes,OBC
+ETC,3,5,6.33,85,Music Club,Research Scientist,Yes,SC
+IT,3,5,7.56,77,NCC,Research Scientist,Yes,SC
+EE,2,3,9.54,82,Photography Club,Pilot,Yes,
+IT,3,5,7.96,75,NSS,Robotics Engineer,No,SC
+AI/ML,4,7,6.34,94,Drama Club,Pilot,No,
+ME,4,7,8.79,80,NCC,Pilot,Yes,
+ME,1,2,6.09,77,Music Club,Robotics Engineer,Yes,ST
+RE,1,2,8.81,91,Sports Club,Software Engineer,Yes,EWS
+CS,1,1,9.51,81,Coding Club,Robotics Engineer,No,ST
+IIOT,3,6,8.81,75,Coding Club,Pilot,No,EWS
+ETC,4,8,7.59,100,Robotics Club,Research Scientist,No,SC
+DS,3,6,9.17,94,Music Club,Data Scientist,Yes,SC
+IIOT,2,4,8.11,79,Sports Club,Pilot,No,EWS
+DS,3,5,6.55,98,Photography Club,Data Scientist,No,EWS
+CE,1,1,7.69,79,NCC,Robotics Engineer,No,Merit
+AE,4,7,6.84,72,Music Club,Professor,Yes,SC
+ETC,1,1,8.36,63,Coding Club,Entrepreneur,Yes,OBC
+ETC,3,5,7.8,89,Photography Club,Software Engineer,Yes,SC
+EE,1,2,5.62,89,NCC,Data Scientist,No,Merit
+ETC,2,4,9.04,86,Drama Club,AI Engineer,Yes,EWS
+RE,2,4,6.38,83,Robotics Club,Robotics Engineer,No,OBC
+AI/ML,2,4,7.39,79,Music Club,Entrepreneur,No,OBC
+CE,4,8,8.28,79,Coding Club,Entrepreneur,Yes,OBC
+ETC,1,2,5.97,81,Robotics Club,Software Engineer,Yes,EWS
+EC,3,6,5.89,87,Robotics Club,Professor,Yes,SC
+RE,1,1,8.97,61,Music Club,Research Scientist,Yes,ST
+IIOT,2,3,9.49,85,Drama Club,AI Engineer,No,Merit
+AE,2,3,6.04,72,Music Club,Research Scientist,Yes,SC
+CT,4,7,6.87,75,NSS,AI Engineer,Yes,OBC
+CE,2,4,9.54,67,NSS,AI Engineer,Yes,OBC
+ME,1,2,8.14,99,NCC,Entrepreneur,No,EWS
+CS,2,3,5.59,95,Coding Club,Pilot,No,Merit
+AE,1,2,7.88,89,Music Club,Software Engineer,Yes,OBC
+IT,2,3,8.41,84,NCC,Entrepreneur,No,EWS
+ETC,1,2,8.46,67,Drama Club,Pilot,Yes,Merit
+CT,4,7,5.55,84,Sports Club,Entrepreneur,Yes,EWS
+EC,1,2,7.92,82,Robotics Club,Data Scientist,Yes,
+EC,1,2,7.4,87,NCC,Research Scientist,Yes,Merit
+DS,2,3,8.68,97,Drama Club,Research Scientist,No,
+AI/ML,3,5,7.6,93,Sports Club,Robotics Engineer,No,Merit
+ETC,1,1,9.46,71,Robotics Club,Software Engineer,Yes,Merit
+CT,4,7,6.25,85,NSS,Entrepreneur,Yes,OBC
+RE,1,2,8.6,78,Coding Club,Data Scientist,Yes,SC
+RE,1,1,9.8,95,NCC,Pilot,No,Merit
+CS,2,4,8.08,100,Coding Club,Professor,No,
+EC,1,2,8.38,81,NCC,Professor,No,ST
+RE,2,4,6.44,66,Drama Club,AI Engineer,Yes,SC
+EE,2,4,9.25,74,Sports Club,AI Engineer,Yes,EWS
+AI/ML,4,8,8.48,86,Music Club,Software Engineer,Yes,SC
+CT,3,6,6.79,69,NCC,Robotics Engineer,No,EWS
+CS,1,1,8.92,84,Photography Club,Pilot,No,EWS
+ETC,3,6,7.01,75,Sports Club,Data Scientist,Yes,OBC
+EE,4,7,5.96,78,Music Club,Data Scientist,Yes,
+IT,4,7,8.2,93,Robotics Club,Software Engineer,No,Merit
+RE,1,1,9.29,94,Drama Club,Professor,No,
+EE,3,6,7.12,84,NSS,Pilot,No,
+AE,2,3,8.33,75,Sports Club,Pilot,Yes,EWS
+RE,4,8,6.42,64,Sports Club,AI Engineer,Yes,EWS
+ETC,2,3,8.27,71,NSS,Robotics Engineer,No,
+ME,3,5,8.07,93,Robotics Club,Entrepreneur,Yes,EWS
+ME,1,2,9.29,88,Music Club,Data Scientist,No,EWS
+RE,1,2,8.62,65,Photography Club,Professor,No,EWS
+AI/ML,4,8,7.2,89,Photography Club,Pilot,No,Merit
+CT,4,7,9.01,74,NSS,Software Engineer,No,OBC
+CE,3,6,7.62,90,Photography Club,Pilot,Yes,SC
+CE,3,6,5.68,63,NSS,Entrepreneur,Yes,Merit
+DS,4,8,7.44,71,NCC,Research Scientist,Yes,Merit
+EE,2,3,8.32,90,Drama Club,Research Scientist,Yes,OBC
+ME,3,6,9.24,65,Music Club,Professor,Yes,ST
+DS,4,8,6.41,80,Music Club,Data Scientist,Yes,
+DS,2,4,8.86,66,Sports Club,Entrepreneur,Yes,ST
+DS,4,8,9.48,66,NCC,Research Scientist,Yes,Merit
+DS,4,8,9.35,80,Photography Club,Software Engineer,Yes,ST
+EE,1,2,8.29,82,Music Club,Professor,Yes,EWS
+AE,2,4,8.47,69,NSS,Professor,No,SC
+CE,4,7,9.03,90,Photography Club,Software Engineer,Yes,Merit
+ETC,3,6,8.24,78,NCC,Pilot,Yes,SC
+ETC,2,4,7.33,79,Music Club,AI Engineer,Yes,EWS
+CS,3,6,6.43,80,NCC,AI Engineer,No,EWS
+EE,3,5,5.69,68,Photography Club,Data Scientist,No,Merit
+IT,1,1,7.8,92,Robotics Club,Professor,Yes,EWS
+ETC,4,8,6.93,63,NSS,AI Engineer,No,SC
+CS,4,7,8.04,91,NCC,Pilot,No,ST
+RE,2,3,9.13,61,NCC,Professor,No,ST
+RE,4,8,6.11,77,Robotics Club,Research Scientist,No,EWS
+AE,2,3,9.43,87,Robotics Club,AI Engineer,No,
+EE,2,4,9.38,66,Drama Club,Pilot,No,ST
+IT,4,7,5.7,90,NSS,Software Engineer,No,
+DS,1,2,7.37,61,Coding Club,Software Engineer,Yes,OBC
+AI/ML,4,7,9.04,90,Photography Club,Robotics Engineer,Yes,ST
+AI/ML,4,8,6.48,78,Music Club,Research Scientist,No,
+DS,3,5,7.82,65,Robotics Club,Software Engineer,Yes,OBC
+AI/ML,2,3,9.66,80,NCC,Data Scientist,Yes,ST
+AI/ML,4,7,8.7,91,Sports Club,Pilot,No,SC
+ME,1,2,6.73,70,Music Club,Data Scientist,Yes,SC
+AE,3,5,9.56,97,Robotics Club,Robotics Engineer,Yes,ST
+CE,2,3,5.7,78,NSS,Professor,Yes,EWS
+CE,4,8,6.73,68,Robotics Club,Professor,Yes,EWS
+RE,3,5,9.74,100,NCC,Software Engineer,Yes,Merit
+AI/ML,1,1,9.44,71,Music Club,Pilot,Yes,
+RE,2,3,9.51,96,Music Club,Data Scientist,No,SC
+CE,1,1,7.65,71,Robotics Club,AI Engineer,No,
+IT,1,2,5.81,74,Photography Club,Robotics Engineer,Yes,ST
+IIOT,2,4,9.19,72,NSS,Research Scientist,No,
+RE,4,7,7.22,80,Drama Club,Research Scientist,No,ST
+CT,2,3,6.42,74,Music Club,Robotics Engineer,No,OBC
+RE,4,7,6.17,62,NCC,Entrepreneur,No,Merit
+DS,4,8,6.22,86,Sports Club,Pilot,Yes,SC
+EE,4,7,6.15,98,Sports Club,Pilot,Yes,Merit
+AI/ML,2,3,6.12,83,Sports Club,Research Scientist,No,OBC
+AE,3,5,9.7,99,Music Club,Robotics Engineer,No,
+RE,3,5,6.77,87,NSS,Professor,Yes,ST
+EC,2,4,9.27,100,Drama Club,Pilot,Yes,Merit
+ETC,4,7,6.69,86,Coding Club,Pilot,No,Merit
+CS,2,3,5.54,61,Photography Club,Entrepreneur,No,
+ME,2,4,5.86,69,Music Club,Professor,Yes,SC
+DS,4,7,5.81,72,Robotics Club,Data Scientist,No,OBC
+RE,3,5,9.65,81,Drama Club,AI Engineer,Yes,Merit
+RE,2,3,8.08,63,Drama Club,Professor,No,
+AI/ML,1,2,8.66,84,Robotics Club,Professor,Yes,SC
+AI/ML,3,6,9.87,96,NCC,AI Engineer,Yes,OBC
+ME,4,8,5.81,79,Music Club,Robotics Engineer,No,ST
+EC,2,3,9.0,68,Robotics Club,Pilot,No,EWS
+ME,3,5,8.95,70,Photography Club,Professor,Yes,ST
+AI/ML,4,7,5.51,67,Coding Club,Data Scientist,Yes,ST
+CE,1,1,5.94,100,Photography Club,AI Engineer,No,Merit
+ME,2,4,8.36,78,Music Club,Software Engineer,No,EWS
+EE,2,4,9.77,69,Coding Club,Software Engineer,Yes,SC
+EC,1,1,8.28,82,Drama Club,Robotics Engineer,Yes,ST
+EC,3,5,9.65,70,Drama Club,Pilot,No,SC
+CE,2,3,8.7,72,NSS,AI Engineer,Yes,SC
+EE,2,3,7.45,98,Photography Club,Software Engineer,No,
+CT,1,2,7.16,76,NSS,Entrepreneur,Yes,EWS
+AI/ML,2,3,9.52,76,NCC,Research Scientist,No,OBC
+ETC,1,2,9.07,71,Music Club,Software Engineer,Yes,EWS
+AI/ML,4,7,5.62,67,NSS,Robotics Engineer,No,OBC
+IT,4,7,8.84,87,Coding Club,Research Scientist,No,EWS
+AI/ML,1,2,8.06,76,NCC,Pilot,No,EWS
+ME,2,3,5.62,98,Coding Club,Data Scientist,Yes,EWS
+AI/ML,4,8,9.34,67,Music Club,Research Scientist,No,ST
+IT,1,2,7.62,90,Music Club,Professor,Yes,SC
+ME,3,5,6.92,64,Photography Club,Entrepreneur,Yes,EWS
+CE,4,7,5.82,89,NSS,Data Scientist,No,
+CS,2,3,6.01,73,Sports Club,Research Scientist,Yes,OBC
+CE,4,7,9.24,93,Robotics Club,Software Engineer,Yes,OBC
+EE,4,7,8.09,79,Robotics Club,Pilot,No,OBC
+ME,1,2,6.16,69,Music Club,Research Scientist,Yes,SC
+IIOT,3,5,6.26,91,Robotics Club,Entrepreneur,No,EWS
+IIOT,4,8,7.43,83,Robotics Club,Entrepreneur,No,Merit
+DS,2,3,5.61,81,Sports Club,Professor,Yes,Merit
+RE,3,6,7.97,87,Coding Club,Entrepreneur,Yes,OBC
+CS,1,2,7.2,92,Drama Club,Data Scientist,Yes,
+IIOT,4,8,9.03,64,NCC,Entrepreneur,Yes,OBC
+CS,4,8,8.95,61,Drama Club,AI Engineer,No,SC
+DS,4,8,8.75,67,NSS,Robotics Engineer,Yes,ST
+EE,3,5,7.29,69,Sports Club,Pilot,Yes,SC
+CS,1,2,7.18,98,NCC,Professor,Yes,EWS
+AI/ML,4,8,9.62,80,NCC,Entrepreneur,Yes,
+CT,3,5,7.21,83,Robotics Club,Professor,No,EWS
+CT,1,1,8.11,69,Robotics Club,Research Scientist,Yes,
+IIOT,3,6,7.15,89,Robotics Club,Research Scientist,No,SC
+RE,1,2,8.24,68,Robotics Club,Professor,No,Merit
+EC,3,6,7.63,77,NSS,Pilot,Yes,SC
+EE,4,7,9.08,82,Coding Club,Entrepreneur,No,EWS
+ETC,2,4,7.72,98,NSS,Software Engineer,Yes,OBC
+ETC,4,7,5.67,89,Photography Club,Research Scientist,No,Merit
+ME,1,2,8.48,75,NSS,Entrepreneur,No,
+CE,2,4,8.11,90,Sports Club,AI Engineer,Yes,Merit
+CS,4,7,7.87,66,Robotics Club,AI Engineer,No,OBC
+IIOT,3,5,6.68,69,Coding Club,Robotics Engineer,No,
+AE,4,8,7.72,65,Music Club,Robotics Engineer,No,
+DS,1,2,6.35,65,NSS,Data Scientist,Yes,Merit
+CT,4,7,8.05,79,NSS,Entrepreneur,Yes,OBC
+IIOT,2,3,7.81,97,Sports Club,Software Engineer,No,Merit
+ME,2,3,5.53,91,Music Club,Software Engineer,Yes,
+CS,4,7,6.23,79,NSS,Pilot,Yes,Merit
+AI/ML,2,3,9.15,80,NSS,Pilot,No,EWS
+CE,1,1,8.92,97,NCC,Entrepreneur,Yes,Merit
+CT,1,1,9.06,60,Photography Club,Data Scientist,No,
+AE,2,3,7.66,73,Robotics Club,Professor,Yes,OBC
+RE,2,4,7.03,90,Photography Club,Pilot,No,
+EC,4,7,7.33,78,Robotics Club,Data Scientist,No,OBC
+ME,3,6,8.26,96,NCC,Research Scientist,No,OBC
+CS,2,4,6.54,73,NSS,Data Scientist,Yes,
+RE,4,7,6.22,91,NSS,Software Engineer,No,SC
+ETC,1,1,7.37,98,NSS,Robotics Engineer,No,
+CT,3,6,6.09,65,Coding Club,Software Engineer,No,ST
+CS,2,3,7.8,94,Coding Club,AI Engineer,Yes,OBC
+IIOT,2,3,7.77,92,NSS,AI Engineer,No,SC
+IIOT,1,1,9.35,68,Music Club,Data Scientist,Yes,SC
+CT,4,7,6.36,84,NCC,Data Scientist,Yes,ST
+DS,4,8,8.24,77,NSS,Robotics Engineer,No,
+CE,3,6,9.82,92,NCC,Research Scientist,No,Merit
+ME,1,2,7.98,68,Coding Club,Research Scientist,No,EWS
+CE,1,2,9.17,85,Music Club,Software Engineer,Yes,ST
+AE,4,7,9.0,62,Music Club,Professor,Yes,EWS
+EE,3,5,9.4,74,Sports Club,Entrepreneur,Yes,SC
+ETC,1,2,7.79,86,Music Club,Robotics Engineer,No,ST
+CS,4,7,6.37,100,Drama Club,Data Scientist,Yes,SC
+CE,2,3,7.93,80,Sports Club,Software Engineer,Yes,ST
+DS,2,3,7.01,100,Robotics Club,Research Scientist,No,SC
+CE,2,3,8.73,63,Sports Club,Professor,No,ST
+AE,3,6,6.46,64,Sports Club,Software Engineer,Yes,SC
+IIOT,4,7,9.42,75,NSS,Robotics Engineer,Yes,Merit
+DS,2,3,5.93,67,NSS,Professor,No,ST
+CS,2,4,5.92,90,Drama Club,Robotics Engineer,Yes,OBC
+DS,1,1,6.07,69,Music Club,AI Engineer,Yes,EWS
+AI/ML,3,6,6.57,67,Music Club,Pilot,Yes,SC
+EC,4,8,9.58,82,Photography Club,Research Scientist,No,Merit
+ETC,1,2,8.57,72,Sports Club,Software Engineer,No,OBC
+CS,1,2,6.36,74,Drama Club,Software Engineer,No,EWS
+RE,1,1,8.38,99,Drama Club,Data Scientist,Yes,
+IT,1,1,8.74,95,Coding Club,Pilot,No,
+DS,4,8,9.3,76,Robotics Club,Data Scientist,Yes,SC
+AI/ML,4,7,7.7,96,Photography Club,Research Scientist,Yes,ST
+DS,4,8,6.08,94,Music Club,Data Scientist,No,SC
+EC,1,1,7.1,94,NCC,Professor,No,SC
+CE,2,4,8.58,63,Music Club,Data Scientist,Yes,
+IIOT,1,2,5.93,65,NSS,Professor,No,Merit
+ETC,4,8,7.11,91,Sports Club,Robotics Engineer,Yes,OBC
+ETC,3,6,5.91,98,Music Club,Data Scientist,Yes,SC
+CE,1,2,6.48,63,Robotics Club,Robotics Engineer,No,ST
+CT,2,3,7.02,94,Drama Club,Pilot,Yes,ST
+CE,4,7,9.11,68,Robotics Club,Entrepreneur,Yes,SC
+CE,3,6,6.11,86,Photography Club,AI Engineer,No,
+ME,4,7,8.11,99,Coding Club,Entrepreneur,No,SC
+AI/ML,4,7,5.73,83,NSS,Data Scientist,No,EWS
+IT,1,1,9.73,69,Robotics Club,Data Scientist,No,SC
+IIOT,1,1,9.5,63,Coding Club,AI Engineer,No,SC
+CE,3,5,6.95,94,Music Club,Professor,Yes,
+EC,1,1,7.21,94,Photography Club,Professor,No,Merit
+ME,1,1,6.96,76,NSS,Robotics Engineer,No,EWS
+CE,4,8,6.78,83,Robotics Club,Professor,No,ST
+CT,4,7,9.7,100,NCC,AI Engineer,No,
+IIOT,4,8,5.67,78,Coding Club,Data Scientist,No,ST
+RE,1,1,6.33,69,NSS,Professor,Yes,
+EE,1,1,7.77,80,Sports Club,Entrepreneur,Yes,ST
+IT,4,8,5.82,84,Photography Club,AI Engineer,Yes,OBC
+AI/ML,4,8,9.81,63,Music Club,Robotics Engineer,No,OBC
+IIOT,4,8,8.95,91,Sports Club,Research Scientist,Yes,ST
+AI/ML,2,3,9.71,85,Photography Club,Pilot,Yes,
+ME,4,8,5.83,67,Sports Club,Robotics Engineer,No,
+DS,1,2,8.15,90,Photography Club,Research Scientist,Yes,EWS
+IT,2,4,5.52,69,Photography Club,Professor,Yes,OBC
+IIOT,1,1,9.12,78,NCC,AI Engineer,Yes,OBC
+DS,1,1,8.88,60,Drama Club,Software Engineer,No,OBC
+RE,3,6,7.4,95,Music Club,Software Engineer,Yes,ST
+IIOT,4,7,6.9,91,NCC,AI Engineer,Yes,OBC
+AI/ML,2,3,9.88,87,Music Club,Robotics Engineer,Yes,SC
+IIOT,1,1,5.84,66,Sports Club,Pilot,No,ST
+EE,4,7,9.26,97,Coding Club,Research Scientist,No,Merit
+CS,2,3,5.89,77,Coding Club,Robotics Engineer,Yes,SC
+AI/ML,3,5,7.69,94,Robotics Club,Software Engineer,No,ST
+EE,1,1,6.97,74,Music Club,Entrepreneur,Yes,EWS
+CS,4,7,6.85,74,Photography Club,Professor,Yes,EWS
+ME,2,4,6.94,60,Robotics Club,Entrepreneur,Yes,OBC
+ETC,2,3,7.04,87,NSS,Robotics Engineer,Yes,OBC
+RE,2,4,7.29,74,Coding Club,Pilot,No,OBC
+DS,4,7,7.29,92,NSS,Professor,No,EWS
+CS,4,7,6.28,88,NCC,Entrepreneur,Yes,OBC
+IIOT,2,4,6.07,74,Coding Club,Robotics Engineer,No,ST
+DS,4,7,6.8,62,NCC,Professor,No,SC
+RE,3,6,7.47,63,NCC,Robotics Engineer,No,
+DS,3,6,8.45,86,Robotics Club,Professor,Yes,ST
+DS,4,7,6.95,98,Music Club,Data Scientist,Yes,EWS
+RE,2,4,5.65,88,NCC,AI Engineer,No,SC
+ETC,1,1,8.79,62,Photography Club,AI Engineer,No,ST
+IT,1,1,8.42,96,Music Club,Software Engineer,Yes,
+EE,2,4,8.45,74,Sports Club,Professor,No,OBC
+AE,4,7,8.43,76,Music Club,Software Engineer,No,OBC
+EE,3,5,8.83,79,Robotics Club,Data Scientist,No,
+ETC,2,3,7.03,92,Drama Club,Software Engineer,Yes,ST
+CS,1,2,7.44,68,Robotics Club,Professor,Yes,EWS
+ETC,1,1,9.77,81,Music Club,Professor,No,ST
+CE,4,8,7.09,92,NSS,Robotics Engineer,No,Merit
+ETC,1,1,5.61,94,Coding Club,Pilot,Yes,OBC
+CS,3,5,6.9,99,Coding Club,Research Scientist,Yes,EWS
+DS,2,4,6.55,94,Coding Club,Pilot,No,OBC
+RE,3,5,8.0,80,Photography Club,AI Engineer,Yes,Merit
+CE,1,1,9.75,69,Sports Club,Data Scientist,Yes,ST
+IT,1,2,6.16,82,Drama Club,Research Scientist,No,
+ETC,2,3,7.92,80,Photography Club,Software Engineer,Yes,OBC
+CS,2,3,9.09,88,Music Club,Research Scientist,No,Merit
+CE,4,7,6.22,78,Robotics Club,AI Engineer,No,EWS
+ETC,2,3,8.44,95,Robotics Club,Pilot,Yes,
+IIOT,1,1,8.81,74,NSS,Entrepreneur,No,ST
+ETC,3,6,9.46,76,Music Club,Research Scientist,Yes,OBC
+IIOT,1,1,7.28,95,Photography Club,Software Engineer,Yes,OBC
+EE,4,7,6.76,60,NSS,Professor,Yes,Merit
+ETC,3,5,8.53,95,Drama Club,Pilot,No,EWS
+ETC,1,1,9.55,69,NSS,Data Scientist,Yes,EWS
+AE,4,8,8.18,97,NSS,Entrepreneur,No,Merit
+IIOT,1,1,7.16,71,Music Club,Professor,No,
+AI/ML,2,3,9.02,100,NSS,AI Engineer,Yes,SC
+IIOT,3,6,5.77,88,Sports Club,Professor,Yes,EWS
+AE,3,5,8.23,65,NSS,Data Scientist,No,ST
+IIOT,2,4,6.58,76,Music Club,Data Scientist,No,ST
+CS,1,2,5.58,84,Robotics Club,AI Engineer,No,Merit
+ETC,1,2,9.4,84,Music Club,Data Scientist,Yes,SC
+IIOT,4,7,7.72,74,NCC,Pilot,Yes,SC
+ME,1,1,6.74,96,NSS,Data Scientist,Yes,EWS
+DS,1,2,7.99,89,Music Club,Professor,Yes,ST
+CT,4,8,8.94,76,NCC,Professor,No,ST
+EE,3,5,9.73,76,Drama Club,Software Engineer,No,SC
+ME,3,5,8.39,68,Photography Club,Software Engineer,Yes,OBC
+EC,3,5,8.21,74,NSS,Entrepreneur,No,SC
+CT,3,6,8.03,74,Drama Club,Data Scientist,No,Merit
+RE,4,7,9.86,70,Coding Club,Research Scientist,No,
+CT,1,1,5.56,85,Drama Club,Entrepreneur,No,SC
+CE,1,2,8.75,94,Music Club,Data Scientist,No,
+AI/ML,1,1,9.63,83,Music Club,Research Scientist,Yes,
+ME,2,4,7.95,69,Sports Club,Data Scientist,No,OBC
+IIOT,3,6,9.38,86,Music Club,Pilot,Yes,OBC
+IIOT,1,2,7.01,85,Music Club,Software Engineer,No,
+ETC,2,4,5.81,70,Drama Club,Pilot,No,OBC
+IIOT,2,3,8.08,98,Sports Club,Professor,Yes,OBC
+IT,3,6,7.49,100,NCC,Robotics Engineer,Yes,OBC
+CE,3,6,6.57,93,Music Club,Professor,Yes,EWS
+AI/ML,4,7,6.23,99,Sports Club,Software Engineer,No,

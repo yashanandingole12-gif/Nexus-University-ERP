@@ -1,0 +1,15 @@
+__pycache__/
+.pytest_cache/
+.streamlit/
+.venv/
+*.py[cod]
+data/private/
+data/processed/
+data/raw/
+archive/
+notebooks/
+docs/
+config/
+src/main.py
+src/utils.py
+*.joblib
