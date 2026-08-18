@@ -10,7 +10,7 @@ from src.data_processing import department_summary, load_student_data
 from src.model import FEATURES, train_and_evaluate
 
 
-DATA_PATH = Path(__file__).parent / "data" / "student_performance_sample.csv"
+DATA_PATH = Path(__file__).parent / "data" / "student_records_synthetic.csv"
 st.set_page_config(page_title="Nexus University ERP", layout="wide")
 
 
@@ -28,7 +28,7 @@ data = get_data()
 model, model_metrics = get_model(data)
 
 st.title("Nexus University ERP")
-st.caption("Student performance, club participation, and academic planning dashboard")
+st.caption("Student performance, club participation, and academic planning dashboard using synthetic Faker data")
 
 selected_departments = st.sidebar.multiselect(
     "Filter departments",
@@ -55,7 +55,7 @@ with overview_tab:
 
     st.subheader("Top performer")
     topper_columns = st.columns(4)
-    topper_columns[0].metric("Student code", topper["StudentCode"])
+    topper_columns[0].metric("Topper", topper["Name"])
     topper_columns[1].metric("CGPA", f"{topper['CGPA']:.2f}")
     topper_columns[2].metric("Department", topper["Department"])
     topper_columns[3].metric("Attendance", f"{topper['Attendance']:.0f}%")
@@ -70,9 +70,11 @@ with overview_tab:
 
 with student_tab:
     st.subheader("Student record lookup")
-    student_code = st.selectbox("Student code", sorted(filtered["StudentCode"].unique()))
-    student = filtered.loc[filtered["StudentCode"] == student_code].iloc[0]
+    student_options = filtered.assign(label=filtered["RollNumber"] + " — " + filtered["Name"])
+    selected_student = st.selectbox("Roll number and name", student_options["label"].sort_values())
+    student = student_options.loc[student_options["label"] == selected_student].iloc[0]
     left, middle, right = st.columns(3)
+    left.write(f"**Student ID:** {student['StudentID']}")
     left.write(f"**Department:** {student['Department']}")
     left.write(f"**Year / semester:** {student['Year']} / {student['Semester']}")
     middle.metric("CGPA", f"{student['CGPA']:.2f}")
@@ -93,7 +95,7 @@ with clubs_tab:
     with right:
         st.dataframe(clubs.style.format({"average_cgpa": "{:.2f}"}), width="stretch", hide_index=True)
     selected_club = st.selectbox("View club members", clubs["Club"].tolist())
-    members = filtered.loc[filtered["Club"] == selected_club, ["StudentCode", "Department", "Year", "CGPA", "Attendance"]]
+    members = filtered.loc[filtered["Club"] == selected_club, ["RollNumber", "Name", "Department", "Year", "CGPA", "Attendance"]]
     st.dataframe(members.sort_values("CGPA", ascending=False), width="stretch", hide_index=True)
 
 with model_tab:

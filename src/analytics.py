@@ -19,7 +19,7 @@ def attendance_cgpa_correlation(data: pd.DataFrame) -> float:
 def club_summary(data: pd.DataFrame) -> pd.DataFrame:
     """Return participation and average performance by student club."""
     return (data.groupby("Club", as_index=False)
-        .agg(members=("StudentCode", "size"), average_cgpa=("CGPA", "mean"))
+        .agg(members=("StudentID", "size"), average_cgpa=("CGPA", "mean"))
         .sort_values("members", ascending=False))
 
 
